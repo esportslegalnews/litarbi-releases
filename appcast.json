@@ -3,5 +3,5 @@
   "build": 3,
   "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4/LitArbi-0.4.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Connects to the LitArbi licensing service\n• Over-the-air updates are now live\n• Cite-While-You-Write: numbers assigned on first citation, in document order\n• Update Exhibits renumbers from the brief, preserves pinpoints, refreshes the List of Exhibits\n• Edit & Manage Citations dialog + the full LitArbi ribbon in Word"
+  "notes": "• Connects to the LitArbi licensing service\n• Over-the-air updates are now live\n• Live exhibit citations: numbers assigned on first citation, in document order\n• Update Exhibits renumbers from the brief, preserves pinpoints, refreshes the List of Exhibits\n• Edit & Manage Citations dialog + the full LitArbi ribbon in Word"
 }
