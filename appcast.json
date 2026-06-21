@@ -1,7 +1,7 @@
 {
-  "version": "0.7",
-  "build": 6,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.7/LitArbi-0.7.zip",
+  "version": "0.7.1",
+  "build": 7,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.7.1/LitArbi-0.7.1.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Bundle Wizard — select, name, stamp (exhibit number + firm logo) and export exhibits as a folder of PDFs + a Beweismittelverzeichnis cover\n• Swiss/German means of evidence — Zeuge (+ address), Augenschein, Parteivernehmung, Gutachten, Edition, schriftliche Auskunft\n• Full-text search preserved across the update"
+  "notes": "• Exhibit list follows the matter's convention + language (arbitration → List of Exhibits; Germany → Anlagenverzeichnis; CH → Beilagenverzeichnis), ordered by number not type\n• Bundle: .docx/.xlsx/.csv auto-converted to stamped PDFs; cover shows tab numbers\n• Full localization consistency"
 }
