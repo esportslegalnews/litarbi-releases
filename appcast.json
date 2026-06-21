@@ -1,7 +1,7 @@
 {
-  "version": "0.5",
-  "build": 4,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.5/LitArbi-0.5.zip",
+  "version": "0.6",
+  "build": 5,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6/LitArbi-0.6.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Now available in German and French — the app follows your Mac's system language\n• Fixed a launch issue that could freeze the app on the splash screen\n• Over-the-air updates, live exhibit citations, and the full LitArbi ribbon in Word"
+  "notes": "• Jurisdiction presets (Exhibit C/R, Anlage K/B, Beilage) — inline or footnote, per matter\n• Clients & Matters overview on launch — clients left, matters right\n• Drag files onto the exhibit list to import\n• New Matter + Clients & Matters in the File menu"
 }
