@@ -1,7 +1,7 @@
 {
-  "version": "0.7.1",
-  "build": 7,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.7.1/LitArbi-0.7.1.zip",
+  "version": "0.8",
+  "build": 8,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.8/LitArbi-0.8.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Exhibit list follows the matter's convention + language (arbitration → List of Exhibits; Germany → Anlagenverzeichnis; CH → Beilagenverzeichnis), ordered by number not type\n• Bundle: .docx/.xlsx/.csv auto-converted to stamped PDFs; cover shows tab numbers\n• Full localization consistency"
+  "notes": "• Textbausteine — searchable reusable text-block library (insert into Word, copy)\n• Metadaten-Schutz — strip author/comments/tracked-changes from PDFs + Office docs before filing"
 }
