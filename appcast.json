@@ -1,7 +1,7 @@
 {
-  "version": "0.9",
-  "build": 9,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9/LitArbi-0.9.zip",
+  "version": "0.2.0-alpha",
+  "build": 10,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.0-alpha/LitArbi-0.2.0-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Arbitrator mode — draft the award and cite the parties' submissions by paragraph/page (full with date first, short after), in the seat's language\n• Hyperlinked e-Brief — combine exhibits into one bookmarked PDF with a clickable index\n• Chronology — a dated matter timeline; pull in dated exhibits, export CSV\n• Document People + References tabs — link persons to a document and auto-detect the exhibits it cites\n• Redaction — true black-out that flattens the page so the text can't be recovered\n• Named citation presets (ICC, ICSID, German, Swiss …) and bulk tagging"
+  "notes": "First public alpha (re-baselined version number).\n• Language switcher — run LitArbi in English/Deutsch/Français regardless of your macOS language (Settings ▸ General ▸ Language)\n• Report a Bug / Request a Feature (Help menu) + an error log that rides along\n• Sortable document list — click any column header (numeric-aware, unnumbered last)\n• Resizable inspector + the search term is now highlighted in the PDF preview\n• Convert citations to Plain Text (flatten fields for e-filing) and Sign (insert a signature block)\n• Fixed the Word ribbon icons (custom icons instead of Microsoft's blank ones)"
 }
