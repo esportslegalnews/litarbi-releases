@@ -1,7 +1,7 @@
 {
-  "version": "0.8",
-  "build": 8,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.8/LitArbi-0.8.zip",
+  "version": "0.9",
+  "build": 9,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9/LitArbi-0.9.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Textbausteine — searchable reusable text-block library (insert into Word, copy)\n• Metadaten-Schutz — strip author/comments/tracked-changes from PDFs + Office docs before filing"
+  "notes": "• Arbitrator mode — draft the award and cite the parties' submissions by paragraph/page (full with date first, short after), in the seat's language\n• Hyperlinked e-Brief — combine exhibits into one bookmarked PDF with a clickable index\n• Chronology — a dated matter timeline; pull in dated exhibits, export CSV\n• Document People + References tabs — link persons to a document and auto-detect the exhibits it cites\n• Redaction — true black-out that flattens the page so the text can't be recovered\n• Named citation presets (ICC, ICSID, German, Swiss …) and bulk tagging"
 }
