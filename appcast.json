@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2-alpha",
-  "build": 12,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.2-alpha/LitArbi-0.2.2-alpha.zip",
+  "version": "0.2.3-alpha",
+  "build": 13,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.3-alpha/LitArbi-0.2.3-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• “Do not cite” now actually blocks citation — the Cite button refuses internal/privileged exhibits (or warns and cites the rest)\n• Ribbon buttons reflect the selected exhibit: Lock ⇄ Unlock, and Include / No cite light up when set\n• Renamed “Used” → “Include” (clearer: mark an exhibit to include in the submission — it gets numbered and listed)\n• Green seal marks included exhibits, a red ⊘ marks do-not-cite, in the list"
+  "notes": "• Cleaner “on” state for Include (green) and No cite (red) toggle buttons\n• Settings window rebuilt with a proper sidebar (no more cramped tabs)\n• Chronology explains what it’s for when empty\n• Open / Reveal now tell you why nothing happened (e.g. the file was moved) instead of a silent beep"
 }
