@@ -1,7 +1,7 @@
 {
-  "version": "0.2.1-alpha",
-  "build": 11,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.1-alpha/LitArbi-0.2.1-alpha.zip",
+  "version": "0.2.2-alpha",
+  "build": 12,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.2-alpha/LitArbi-0.2.2-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Fix: Used and No cite now show a marker in the list — a green seal for exhibits used in the submission, a red ⊘ (and dimmed title) for “do not cite”. Both also show a confirmation in the status bar."
+  "notes": "• “Do not cite” now actually blocks citation — the Cite button refuses internal/privileged exhibits (or warns and cites the rest)\n• Ribbon buttons reflect the selected exhibit: Lock ⇄ Unlock, and Include / No cite light up when set\n• Renamed “Used” → “Include” (clearer: mark an exhibit to include in the submission — it gets numbered and listed)\n• Green seal marks included exhibits, a red ⊘ marks do-not-cite, in the list"
 }
