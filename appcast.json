@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0-alpha",
-  "build": 10,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.0-alpha/LitArbi-0.2.0-alpha.zip",
+  "version": "0.2.1-alpha",
+  "build": 11,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.1-alpha/LitArbi-0.2.1-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "First public alpha (re-baselined version number).\n• Language switcher — run LitArbi in English/Deutsch/Français regardless of your macOS language (Settings ▸ General ▸ Language)\n• Report a Bug / Request a Feature (Help menu) + an error log that rides along\n• Sortable document list — click any column header (numeric-aware, unnumbered last)\n• Resizable inspector + the search term is now highlighted in the PDF preview\n• Convert citations to Plain Text (flatten fields for e-filing) and Sign (insert a signature block)\n• Fixed the Word ribbon icons (custom icons instead of Microsoft's blank ones)"
+  "notes": "• Fix: Used and No cite now show a marker in the list — a green seal for exhibits used in the submission, a red ⊘ (and dimmed title) for “do not cite”. Both also show a confirmation in the status bar."
 }
