@@ -1,7 +1,7 @@
 {
-  "version": "0.2.6-alpha",
-  "build": 16,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.6-alpha/LitArbi-0.2.6-alpha.zip",
+  "version": "0.2.7-alpha",
+  "build": 17,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.7-alpha/LitArbi-0.2.7-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Ribbon highlight fixed — the hover/on chip now wraps the icon and label evenly (custom-drawn buttons)\n• Note: the 0.2.5 update package briefly contained the 0.2.4 binary; this build supersedes it."
+  "notes": "• Settings sidebar aligned — icons in one column, labels lined up, and the selection highlight wraps each row evenly (same fix as the ribbon)."
 }
