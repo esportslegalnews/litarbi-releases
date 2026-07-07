@@ -1,7 +1,7 @@
 {
-  "version": "0.2.4-alpha",
-  "build": 14,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.4-alpha/LitArbi-0.2.4-alpha.zip",
+  "version": "0.2.5-alpha",
+  "build": 15,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.5-alpha/LitArbi-0.2.5-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "UI alignment pass:\n• Document list — all columns vertically aligned with the title\n• Inspector — icon tabs (no more overflowing labels), wider field labels, Bates fields no longer wrap\n• Ribbon — localized labels no longer truncate; cleaner separators\n• Sidebar — removed the duplicated LIBRARY caption\n• Chronology columns stretch with the window"
+  "notes": "• Settings ▸ Storage: long fields (e.g. SharePoint Site URL) no longer wrap onto a broken second line — they stay single-line and scroll."
 }
