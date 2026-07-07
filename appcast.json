@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0-alpha",
-  "build": 18,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.0-alpha/LitArbi-0.3.0-alpha.zip",
+  "version": "0.3.1-alpha",
+  "build": 19,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.1-alpha/LitArbi-0.3.1-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Full citation template list (Settings ▸ Citation): long + short exhibit citation (first vs. subsequent — „Anlage K 1, Kaufvertrag vom 5. Mai 2020“ then „Anlage K 1“), evidence-offer (Beweisantritt) two-liner, award first/short — all editable, presets fill them\n• Insert Evidence Offer (Beweis) — Exhibit menu, ⌥⌘B\n• Manual exhibit numbering (Settings ▸ Numbering) — LitArbi never touches your numbers\n• Import adopts existing numbers from filenames (Anlage K 1 / K-1 / Exhibit C-101 / Beilage 5 …), editable in a new No. column in the import review"
+  "notes": "• LitArbi is now a UNIVERSAL app — runs natively on Apple Silicon and Intel Macs (macOS 14+)."
 }
