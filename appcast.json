@@ -1,7 +1,7 @@
 {
-  "version": "0.2.7-alpha",
-  "build": 17,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.2.7-alpha/LitArbi-0.2.7-alpha.zip",
+  "version": "0.3.0-alpha",
+  "build": 18,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.0-alpha/LitArbi-0.3.0-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Settings sidebar aligned — icons in one column, labels lined up, and the selection highlight wraps each row evenly (same fix as the ribbon)."
+  "notes": "• Full citation template list (Settings ▸ Citation): long + short exhibit citation (first vs. subsequent — „Anlage K 1, Kaufvertrag vom 5. Mai 2020“ then „Anlage K 1“), evidence-offer (Beweisantritt) two-liner, award first/short — all editable, presets fill them\n• Insert Evidence Offer (Beweis) — Exhibit menu, ⌥⌘B\n• Manual exhibit numbering (Settings ▸ Numbering) — LitArbi never touches your numbers\n• Import adopts existing numbers from filenames (Anlage K 1 / K-1 / Exhibit C-101 / Beilage 5 …), editable in a new No. column in the import review"
 }
