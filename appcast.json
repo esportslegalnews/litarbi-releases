@@ -1,7 +1,7 @@
 {
-  "version": "0.3.4-alpha",
-  "build": 22,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.4-alpha/LitArbi-0.3.4-alpha.zip",
+  "version": "0.3.5-alpha",
+  "build": 23,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.5-alpha/LitArbi-0.3.5-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Fix: the Server section (incl. the “Use a server” checkbox) ignored clicks — same layout bug as 0.3.3, in the one section it missed. All nine Settings sections are now click-verified.\n• The server checkbox now greys out the connection fields when off."
+  "notes": "• Citations in Word are now clickable links — each citation opens its exhibit file.\n• Producing a Bundle re-links the citations in your open submission to the bundled PDFs (relative links — save the submission next to the bundle folder).\n• New Settings › Citations toggle: “Make citations clickable” (on by default)."
 }
