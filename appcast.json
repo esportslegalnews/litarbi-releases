@@ -1,7 +1,7 @@
 {
-  "version": "0.3.8-alpha",
-  "build": 26,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.8-alpha/LitArbi-0.3.8-alpha.zip",
+  "version": "0.3.9-alpha",
+  "build": 27,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.9-alpha/LitArbi-0.3.9-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• One citation model for everyone: exhibits cite by their number, submissions by page and paragraph — whether you act as counsel or sit as arbitrator.\n• Arbitrator mode never renumbers: the parties’ exhibit numbers and types are adopted on import and stay untouched.\n• Share a matter with your co-arbitrators: File ▸ Share Matter writes one portable archive; they add it via File ▸ Import Shared Matter."
+  "notes": "• Intake wizard: the Parties & Role step is properly aligned — role cards, the opposing-party field and the explainer share one column and one right edge, and the window keeps its intended size.\n• Plus everything from 0.3.8: one citation model for everyone, arbitrator mode never renumbers (numbers adopted on import), and matter sharing with co-arbitrators (File ▸ Share Matter / Import Shared Matter)."
 }
