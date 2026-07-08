@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2-alpha",
-  "build": 20,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.2-alpha/LitArbi-0.3.2-alpha.zip",
+  "version": "0.3.3-alpha",
+  "build": 21,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.3-alpha/LitArbi-0.3.3-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• New sortable ID column — every document gets a stable number when added (never renumbered, so an ID always means the same document). Also shown in the inspector as Doc #."
+  "notes": "• Fix: Settings controls (the Storage provider dropdown, checkboxes, fields — every section) looked fine but ignored clicks. A layout bug collapsed the clickable area to almost nothing; everything in Settings now responds normally."
 }
