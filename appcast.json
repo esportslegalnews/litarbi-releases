@@ -1,7 +1,7 @@
 {
-  "version": "0.3.7-alpha",
-  "build": 25,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.7-alpha/LitArbi-0.3.7-alpha.zip",
+  "version": "0.3.8-alpha",
+  "build": 26,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.8-alpha/LitArbi-0.3.8-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• A more graphic intake: on the Parties & Role step you now click your role — Counsel for Claimant, Counsel for Respondent, or Arbitrator — on big cards that show your exhibit series as the jurisdiction changes.\n• The update window now follows the classic Sparkle layout you know from Cyberduck: release notes box, Skip This Version, Remind Me Later, Install Update.\n• Cite submissions by page and paragraph as counsel too (from 0.3.6): pleadings, orders, decisions and awards are cited by name — long form first, short after."
+  "notes": "• One citation model for everyone: exhibits cite by their number, submissions by page and paragraph — whether you act as counsel or sit as arbitrator.\n• Arbitrator mode never renumbers: the parties’ exhibit numbers and types are adopted on import and stay untouched.\n• Share a matter with your co-arbitrators: File ▸ Share Matter writes one portable archive; they add it via File ▸ Import Shared Matter."
 }
