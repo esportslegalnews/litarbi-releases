@@ -1,7 +1,7 @@
 {
-  "version": "0.3.5-alpha",
-  "build": 23,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.5-alpha/LitArbi-0.3.5-alpha.zip",
+  "version": "0.3.6-alpha",
+  "build": 24,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.6-alpha/LitArbi-0.3.6-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Citations in Word are now clickable links — each citation opens its exhibit file.\n• Producing a Bundle re-links the citations in your open submission to the bundled PDFs (relative links — save the submission next to the bundle folder).\n• New Settings › Citations toggle: “Make citations clickable” (on by default)."
+  "notes": "• Cite submissions by page and paragraph — Statement of Claim ¶ 42 — as counsel too: pleadings, orders, decisions and awards are cited by name, long form first, short form after. Arbitrator mode remains for citing every document that way while drafting an award.\n• New update experience: a proper release-notes window, plus a What’s New screen on the first launch after every update.\n• Update Exhibits keeps name-cited submissions intact — pleadings never get exhibit numbers."
 }
