@@ -1,7 +1,7 @@
 {
-  "version": "0.3.9-alpha",
-  "build": 27,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.9-alpha/LitArbi-0.3.9-alpha.zip",
+  "version": "0.3.10-alpha",
+  "build": 28,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.10-alpha/LitArbi-0.3.10-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Intake wizard: the Parties & Role step is properly aligned — role cards, the opposing-party field and the explainer share one column and one right edge, and the window keeps its intended size.\n• Plus everything from 0.3.8: one citation model for everyone, arbitrator mode never renumbers (numbers adopted on import), and matter sharing with co-arbitrators (File ▸ Share Matter / Import Shared Matter)."
+  "notes": "• Intake wizard polish: the step numbers in the left rail are now properly centred in their badges and aligned with the step titles, and the Parties & Role page keeps one clean column."
 }
