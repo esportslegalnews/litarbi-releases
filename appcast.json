@@ -1,7 +1,7 @@
 {
-  "version": "0.3.3-alpha",
-  "build": 21,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.3-alpha/LitArbi-0.3.3-alpha.zip",
+  "version": "0.3.4-alpha",
+  "build": 22,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.4-alpha/LitArbi-0.3.4-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Fix: Settings controls (the Storage provider dropdown, checkboxes, fields — every section) looked fine but ignored clicks. A layout bug collapsed the clickable area to almost nothing; everything in Settings now responds normally."
+  "notes": "• Fix: the Server section (incl. the “Use a server” checkbox) ignored clicks — same layout bug as 0.3.3, in the one section it missed. All nine Settings sections are now click-verified.\n• The server checkbox now greys out the connection fields when off."
 }
