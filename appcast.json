@@ -1,7 +1,7 @@
 {
-  "version": "0.3.12-alpha",
-  "build": 30,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.12-alpha/LitArbi-0.3.12-alpha.zip",
+  "version": "0.3.13-alpha",
+  "build": 31,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.13-alpha/LitArbi-0.3.13-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• People moved front and centre: a new Case group in the Home ribbon opens People & Connections (also ⌥⌘P).\n• The people graph is now interactive: click a card and its connections light up; drag cards to arrange the picture; every card shows how many documents that person is linked to.\n• Numbering rule enforced: a witness statement is never a plain C-/K-/Beilage exhibit — statements and reports always carry their series code (CWS-1, RER-2, KWS 1) in every convention."
+  "notes": "• The chronology builds itself: every dated exhibit becomes a timeline event automatically (⌥⌘T), and the view refreshes whenever it regains focus.\n• Statement of Facts: tick the relevant events, click Statement of Facts… — narrative sentences (“On 5 May 2020, … (Exhibit C-1).”) or a plain dated list, into Word or the clipboard. You are asked first.\n• Export CSV and Copy respect the ticked selection."
 }
