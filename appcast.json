@@ -1,7 +1,7 @@
 {
-  "version": "0.3.10-alpha",
-  "build": 28,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.10-alpha/LitArbi-0.3.10-alpha.zip",
+  "version": "0.3.11-alpha",
+  "build": 29,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.11-alpha/LitArbi-0.3.11-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Intake wizard polish: the step numbers in the left rail are now properly centred in their badges and aligned with the step titles, and the Parties & Role page keeps one clean column."
+  "notes": "• People & Connections (Matter menu, ⌥⌘P): the case people as a graph — who is connected with whom, labelled arrows, automatic hierarchy, coloured by side.\n• Export the dramatis personae as CSV — people, particulars, connections and linked documents.\n• The inspector's People tab now also shows who is MENTIONED in the document's text — one click links them.\n• Plus: convert beta licences to full licences in the management console."
 }
