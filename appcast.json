@@ -1,7 +1,7 @@
 {
-  "version": "0.3.13-alpha",
-  "build": 31,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.13-alpha/LitArbi-0.3.13-alpha.zip",
+  "version": "0.3.14-alpha",
+  "build": 32,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.14-alpha/LitArbi-0.3.14-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• The chronology builds itself: every dated exhibit becomes a timeline event automatically (⌥⌘T), and the view refreshes whenever it regains focus.\n• Statement of Facts: tick the relevant events, click Statement of Facts… — narrative sentences (“On 5 May 2020, … (Exhibit C-1).”) or a plain dated list, into Word or the clipboard. You are asked first.\n• Export CSV and Copy respect the ticked selection."
+  "notes": "• OCR overhauled: a language picker (English, German, French, Russian, Ukrainian, Turkish, Turkmen and more — remembered), long-scan support with page-by-page progress, and clean error reporting.\n• Turkmen is read through the Turkish engine with dictionary correction off.\n• Split long PDFs at import: from 50 pages up, the review dialog offers Split… — page ranges become separate documents; the original stays untouched."
 }
