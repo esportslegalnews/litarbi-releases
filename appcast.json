@@ -1,7 +1,7 @@
 {
-  "version": "0.3.14-alpha",
-  "build": 32,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.14-alpha/LitArbi-0.3.14-alpha.zip",
+  "version": "0.3.15-alpha",
+  "build": 33,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.15-alpha/LitArbi-0.3.15-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• OCR overhauled: a language picker (English, German, French, Russian, Ukrainian, Turkish, Turkmen and more — remembered), long-scan support with page-by-page progress, and clean error reporting.\n• Turkmen is read through the Turkish engine with dictionary correction off.\n• Split long PDFs at import: from 50 pages up, the review dialog offers Split… — page ranges become separate documents; the original stays untouched."
+  "notes": "• OCR now changes the document itself: scanned PDFs get a real, invisible text layer — selectable, copyable and searchable in the preview and any PDF viewer, in every language you picked (incl. Russian, Turkish, Turkmen).\n• Born-digital PDFs and locked exhibits are never touched; originals referenced in place stay untouched — LitArbi adopts a searchable copy instead.\n• The completion message reports how many scans received a text layer."
 }
