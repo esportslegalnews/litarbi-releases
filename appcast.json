@@ -1,7 +1,7 @@
 {
-  "version": "0.3.21-alpha",
-  "build": 39,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.21-alpha/LitArbi-0.3.21-alpha.zip",
+  "version": "0.3.22-alpha",
+  "build": 40,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.22-alpha/LitArbi-0.3.22-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Dates follow your chosen display style everywhere — document list, inspector, chronology, reports — not just citations; the inspector also accepts dates typed in that style or as YYYY-MM-DD.\n• Settings layout fixed: nothing jumps when you change a selection, and all labels and fields line up."
+  "notes": "• The ribbon adapts to the window like Word's: when space runs out, whole groups collapse into dropdown buttons (Case ▾) and expand again when there's room. No scrolling, no clipped buttons."
 }
