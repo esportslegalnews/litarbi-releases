@@ -1,7 +1,7 @@
 {
-  "version": "0.3.19-alpha",
-  "build": 37,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.19-alpha/LitArbi-0.3.19-alpha.zip",
+  "version": "0.3.20-alpha",
+  "build": 38,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.20-alpha/LitArbi-0.3.20-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Deadlines from Procedural Order (⌥⌘F): the procedural timetable becomes tickable deadline proposals — future dates only, red in the timeline.\n• Apple Calendar sync: upcoming deadlines land in a dedicated matter calendar with reminders 7 days and 1 day ahead; re-sync updates, deleting removes.\n• Assistive only — it complements, never replaces, professional deadline control."
+  "notes": "• Visual PDF splitter: page thumbnails — click a page and a new document starts there; colours and Part badges show what belongs together; confirm and the parts import as separate documents.\n• The ribbon no longer runs off smaller screens — more compact, and it pans sideways when space runs out."
 }
