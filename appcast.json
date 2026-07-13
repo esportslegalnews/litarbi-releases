@@ -1,7 +1,7 @@
 {
-  "version": "0.3.18-alpha",
-  "build": 36,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.18-alpha/LitArbi-0.3.18-alpha.zip",
+  "version": "0.3.19-alpha",
+  "build": 37,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.19-alpha/LitArbi-0.3.19-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Detect Events & People (⌥⌘D, also offered after OCR): on-device proposals — every date becomes a chronology candidate, every name a people candidate; tick and add, each linked to its source document. Nothing leaves your Mac.\n• Translate with DeepL (right-click an exhibit): translations with your own DeepL key, attached as clearly marked machine-translation files.\n• DeepL has no Turkmen; name detection is Latin-script only (dates work everywhere)."
+  "notes": "• Deadlines from Procedural Order (⌥⌘F): the procedural timetable becomes tickable deadline proposals — future dates only, red in the timeline.\n• Apple Calendar sync: upcoming deadlines land in a dedicated matter calendar with reminders 7 days and 1 day ahead; re-sync updates, deleting removes.\n• Assistive only — it complements, never replaces, professional deadline control."
 }
