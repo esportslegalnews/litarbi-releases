@@ -1,7 +1,7 @@
 {
-  "version": "0.3.16-alpha",
-  "build": 34,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.16-alpha/LitArbi-0.3.16-alpha.zip",
+  "version": "0.3.17-alpha",
+  "build": 35,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.17-alpha/LitArbi-0.3.17-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• OCR finishes with a clear popup summarizing the run — recognized documents, embedded text layers, skipped files.\n• OCR’d documents carry a blue text-scan badge in the list, so you see at a glance which exhibits are already searchable."
+  "notes": "• Updates now reach long-running instances: LitArbi re-checks every 6 hours while running, and when it returns to the foreground after a few hours away — no relaunch needed.\n• Includes 0.3.16: OCR completion popup and the blue text-scan badge on OCR’d documents."
 }
