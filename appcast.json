@@ -1,7 +1,7 @@
 {
-  "version": "0.3.17-alpha",
-  "build": 35,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.17-alpha/LitArbi-0.3.17-alpha.zip",
+  "version": "0.3.18-alpha",
+  "build": 36,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.18-alpha/LitArbi-0.3.18-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Updates now reach long-running instances: LitArbi re-checks every 6 hours while running, and when it returns to the foreground after a few hours away — no relaunch needed.\n• Includes 0.3.16: OCR completion popup and the blue text-scan badge on OCR’d documents."
+  "notes": "• Detect Events & People (⌥⌘D, also offered after OCR): on-device proposals — every date becomes a chronology candidate, every name a people candidate; tick and add, each linked to its source document. Nothing leaves your Mac.\n• Translate with DeepL (right-click an exhibit): translations with your own DeepL key, attached as clearly marked machine-translation files.\n• DeepL has no Turkmen; name detection is Latin-script only (dates work everywhere)."
 }
