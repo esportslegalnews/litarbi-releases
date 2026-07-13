@@ -1,7 +1,7 @@
 {
-  "version": "0.3.20-alpha",
-  "build": 38,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.20-alpha/LitArbi-0.3.20-alpha.zip",
+  "version": "0.3.21-alpha",
+  "build": 39,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.21-alpha/LitArbi-0.3.21-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Visual PDF splitter: page thumbnails — click a page and a new document starts there; colours and Part badges show what belongs together; confirm and the parts import as separate documents.\n• The ribbon no longer runs off smaller screens — more compact, and it pans sideways when space runs out."
+  "notes": "• Dates follow your chosen display style everywhere — document list, inspector, chronology, reports — not just citations; the inspector also accepts dates typed in that style or as YYYY-MM-DD.\n• Settings layout fixed: nothing jumps when you change a selection, and all labels and fields line up."
 }
