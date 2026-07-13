@@ -1,7 +1,7 @@
 {
-  "version": "0.3.15-alpha",
-  "build": 33,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.15-alpha/LitArbi-0.3.15-alpha.zip",
+  "version": "0.3.16-alpha",
+  "build": 34,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.16-alpha/LitArbi-0.3.16-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• OCR now changes the document itself: scanned PDFs get a real, invisible text layer — selectable, copyable and searchable in the preview and any PDF viewer, in every language you picked (incl. Russian, Turkish, Turkmen).\n• Born-digital PDFs and locked exhibits are never touched; originals referenced in place stay untouched — LitArbi adopts a searchable copy instead.\n• The completion message reports how many scans received a text layer."
+  "notes": "• OCR finishes with a clear popup summarizing the run — recognized documents, embedded text layers, skipped files.\n• OCR’d documents carry a blue text-scan badge in the list, so you see at a glance which exhibits are already searchable."
 }
