@@ -1,7 +1,7 @@
 {
-  "version": "0.3.22-alpha",
-  "build": 40,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.22-alpha/LitArbi-0.3.22-alpha.zip",
+  "version": "0.3.23-alpha",
+  "build": 41,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.23-alpha/LitArbi-0.3.23-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• The ribbon adapts to the window like Word's: when space runs out, whole groups collapse into dropdown buttons (Case ▾) and expand again when there's room. No scrolling, no clipped buttons."
+  "notes": "• Splitter: click the scissors ✂︎ between two pages to cut there — colours show the resulting documents.\n• File ▸ Exhibit Files Location… moves the exhibit files to an external drive (and back); the matter stays on your Mac.\n• Security: optional Touch ID/password lock for the app, and a per-matter open-password (File ▸ Protect Matter with Password…)."
 }
