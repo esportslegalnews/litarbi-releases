@@ -1,7 +1,7 @@
 {
-  "version": "0.3.23-alpha",
-  "build": 41,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.23-alpha/LitArbi-0.3.23-alpha.zip",
+  "version": "0.3.24-alpha",
+  "build": 42,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.24-alpha/LitArbi-0.3.24-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Splitter: click the scissors ✂︎ between two pages to cut there — colours show the resulting documents.\n• File ▸ Exhibit Files Location… moves the exhibit files to an external drive (and back); the matter stays on your Mac.\n• Security: optional Touch ID/password lock for the app, and a per-matter open-password (File ▸ Protect Matter with Password…)."
+  "notes": "• PDF page editing: Document ▸ Edit Pages — rotate, move or delete pages of a PDF exhibit with live thumbnails. Nothing changes until Save; the import original is never touched.\n• Fixed OCR of referenced-in-place documents not adopting the searchable copy."
 }
