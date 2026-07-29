@@ -1,7 +1,7 @@
 {
-  "version": "0.3.24-alpha",
-  "build": 42,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.24-alpha/LitArbi-0.3.24-alpha.zip",
+  "version": "0.3.25-alpha",
+  "build": 43,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.25-alpha/LitArbi-0.3.25-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• PDF page editing: Document ▸ Edit Pages — rotate, move or delete pages of a PDF exhibit with live thumbnails. Nothing changes until Save; the import original is never touched.\n• Fixed OCR of referenced-in-place documents not adopting the searchable copy."
+  "notes": "• Page tools in the preview: a floating bar on every PDF preview — rotate the page in view, delete it, or open the full page editor. Same safety rules: locked exhibits refuse edits, the import original is never touched."
 }
