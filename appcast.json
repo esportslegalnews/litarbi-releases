@@ -1,7 +1,7 @@
 {
-  "version": "0.3.26-alpha",
-  "build": 44,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.26-alpha/LitArbi-0.3.26-alpha.zip",
+  "version": "0.3.27-alpha",
+  "build": 45,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.27-alpha/LitArbi-0.3.27-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Dates everywhere now follow your chosen style — including the grey example hints and the import review and chronology entry fields; type dates in your style or as YYYY-MM-DD, sorting stays exact."
+  "notes": "• Quick Look like Finder: press SPACE on any document for the full-size system preview; arrow keys flip through documents while it's open."
 }
