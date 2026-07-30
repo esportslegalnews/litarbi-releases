@@ -1,7 +1,7 @@
 {
-  "version": "0.3.25-alpha",
-  "build": 43,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.25-alpha/LitArbi-0.3.25-alpha.zip",
+  "version": "0.3.26-alpha",
+  "build": 44,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.26-alpha/LitArbi-0.3.26-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Page tools in the preview: a floating bar on every PDF preview — rotate the page in view, delete it, or open the full page editor. Same safety rules: locked exhibits refuse edits, the import original is never touched."
+  "notes": "• Dates everywhere now follow your chosen style — including the grey example hints and the import review and chronology entry fields; type dates in your style or as YYYY-MM-DD, sorting stays exact."
 }
