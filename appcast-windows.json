@@ -1,0 +1,7 @@
+{
+  "version": "0.2.4-alpha",
+  "build": 14,
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.2.4-alpha.exe",
+  "minimumSystemVersion": "10.0.17763",
+  "notes": "First public Windows build.\n• Full data interoperability with the macOS app — open the same matters and shared .litarbi.zip files.\n• Office-style ribbon + classic menu bar, light/dark theme following Windows, Windows accent colour.\n• Import review, visual PDF splitter, page editor, OCR (incl. Turkish/Russian; Turkmen via the Turkish model), DeepL translation, chronology, people, bundles.\n• Word citations as live QUOTE fields via the LitArbi ribbon add-in.\n• Provisional offline activation when the licence server is briefly unreachable."
+}
