@@ -1,7 +1,7 @@
 {
-  "version": "0.3.31-alpha",
-  "build": 49,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.31-alpha/LitArbi-0.3.31-alpha.zip",
+  "version": "0.3.32-alpha",
+  "build": 50,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.32-alpha/LitArbi-0.3.32-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Translate button in the ribbon (Document ▸ Language and Tools ▸ Recognize).\n• DeepL key dialog no longer clips its input field."
+  "notes": "• Shortcuts: ⌘C copy citation, ⇧⌘F or . star, ⌘D duplicate, ⌫ move to Trash — all in the Exhibit menu.\n• “Cite into Word” and “Copy Citation” are now separate commands."
 }
