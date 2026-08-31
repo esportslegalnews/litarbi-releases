@@ -1,7 +1,7 @@
 {
-  "version": "0.3.41-alpha",
-  "build": 59,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.41-alpha/LitArbi-0.3.41-alpha.zip",
+  "version": "0.3.42-alpha",
+  "build": 60,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.42-alpha/LitArbi-0.3.42-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• e-Sign: certificate signatures (keychain, .p12 import, smartcards) and QUALIFIED e-signatures (QES, ZertES/eIDAS) via Skribble — Settings ▸ e-Signing."
+  "notes": "• LibreOffice add-in v0.2: same buttons, order and icons as the Word ribbon, incl. Convert to Plain Text and Edit & Manage. Update via Settings ▸ Add-ins."
 }
