@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0-alpha",
-  "build": 61,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.0-alpha/LitArbi-0.4.0-alpha.zip",
+  "version": "0.4.1-alpha",
+  "build": 62,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.1-alpha/LitArbi-0.4.1-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "LitArbi 0.4 — the trust release: automatic matter backups with restore, Undo Renumbering (⌥⌘Z), verified 2,000-document performance, and a first-run welcome. Plus everything from late 0.3: e-signatures (incl. QES), 7 translation providers, transcription, LibreOffice parity."
+  "notes": "• Preview 🌐 = one-click translate with your remembered provider/language; ⌥-click opens the chooser."
 }
