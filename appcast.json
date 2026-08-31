@@ -1,7 +1,7 @@
 {
-  "version": "0.3.28-alpha",
-  "build": 46,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.28-alpha/LitArbi-0.3.28-alpha.zip",
+  "version": "0.3.29-alpha",
+  "build": 47,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.29-alpha/LitArbi-0.3.29-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• A real in-app Trash: deleted exhibits land in the sidebar's Trash and can be restored any time — with Restore, Delete Permanently and Empty Trash. Search, numbering and exports ignore trashed exhibits."
+  "notes": "• The window remembers its position and size across restarts.\n• European dates parse day-first: 05.06.2021 = 5 June, never 6 May."
 }
