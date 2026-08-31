@@ -1,7 +1,7 @@
 {
-  "version": "0.3.27-alpha",
-  "build": 45,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.27-alpha/LitArbi-0.3.27-alpha.zip",
+  "version": "0.3.28-alpha",
+  "build": 46,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.28-alpha/LitArbi-0.3.28-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Quick Look like Finder: press SPACE on any document for the full-size system preview; arrow keys flip through documents while it's open."
+  "notes": "• A real in-app Trash: deleted exhibits land in the sidebar's Trash and can be restored any time — with Restore, Delete Permanently and Empty Trash. Search, numbering and exports ignore trashed exhibits."
 }
