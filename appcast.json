@@ -1,7 +1,7 @@
 {
-  "version": "0.3.40-alpha",
-  "build": 58,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.40-alpha/LitArbi-0.3.40-alpha.zip",
+  "version": "0.3.41-alpha",
+  "build": 59,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.41-alpha/LitArbi-0.3.41-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• LibreOffice Writer add-in ships in the app: Settings ▸ Add-ins installs it with one click; submissions round-trip between Word and Writer."
+  "notes": "• e-Sign: certificate signatures (keychain, .p12 import, smartcards) and QUALIFIED e-signatures (QES, ZertES/eIDAS) via Skribble — Settings ▸ e-Signing."
 }
