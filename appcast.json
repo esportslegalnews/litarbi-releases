@@ -1,7 +1,7 @@
 {
-  "version": "0.4.5-alpha",
-  "build": 66,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.5-alpha/LitArbi-0.4.5-alpha.zip",
+  "version": "0.4.6-alpha",
+  "build": 67,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.6-alpha/LitArbi-0.4.6.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Translations and other text attachments are now selectable and copyable in the preview, with search highlighting."
+  "notes": "• AI document summary: new Summary tab in the inspector — one click writes a short case-file summary via your selected AI provider.\n• Translations are saved as formatted RTF documents (open in Word/Pages, preview inline, selectable).\n• Exhibit-list columns no longer jump when resizing the window; column widths are remembered."
 }
