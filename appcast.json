@@ -1,7 +1,7 @@
 {
-  "version": "0.3.35-alpha",
-  "build": 53,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.35-alpha/LitArbi-0.3.35-alpha.zip",
+  "version": "0.3.36-alpha",
+  "build": 54,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.36-alpha/LitArbi-0.3.36-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• DeepL quota as a ribbon status line.\n• 🌐 Translate button on the PDF preview bar.\n• Date reader: the letter's date (DE/EN/FR/TR/RU) fills the Date field at import; \"Read Subject & Date from Document\" for existing ones."
+  "notes": "• The DeepL quota is now a colour-coded chip with a capacity gauge (pink → orange past 80% → red past 95%)."
 }
