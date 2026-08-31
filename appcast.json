@@ -1,7 +1,7 @@
 {
-  "version": "0.4.2-alpha",
-  "build": 63,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.2-alpha/LitArbi-0.4.2-alpha.zip",
+  "version": "0.4.3-alpha",
+  "build": 64,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.3-alpha/LitArbi-0.4.3-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Sign ▸ e-Sign Submission PDF (QES or certificate) right in the Produce flow; bundle wizard can sign every exhibit.\n• GPT-5 models + editable model IDs; AI token usage (and ≈ cost) on the ribbon chip."
+  "notes": "• Click the translation chip to switch provider and pick the model right there; the chip stays visible even before a key is set."
 }
