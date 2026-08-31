@@ -1,7 +1,7 @@
 {
-  "version": "0.3.33-alpha",
-  "build": 51,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.33-alpha/LitArbi-0.3.33-alpha.zip",
+  "version": "0.3.34-alpha",
+  "build": 52,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.34-alpha/LitArbi-0.3.34-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Letters name themselves: the subject line (Betreff/Subject/Konu/Тема) becomes the proposed title at import; right-click ▸ Use Detected Subject as Title for existing documents."
+  "notes": "• DeepL quota shown in the translate dialog and after each translation run — used vs monthly allowance."
 }
