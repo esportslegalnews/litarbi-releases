@@ -1,7 +1,7 @@
 {
-  "version": "0.3.38-alpha",
-  "build": 56,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.38-alpha/LitArbi-0.3.38-alpha.zip",
+  "version": "0.3.39-alpha",
+  "build": 57,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.39-alpha/LitArbi-0.3.39-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Settings ▸ Translation: provider, API keys and model choice (Claude Sonnet/Opus/Haiku, GPT-4o/4.1 family).\n• The translation chip is calm teal in normal use and shows the active model for Claude/OpenAI."
+  "notes": "• Seven translation providers incl. Mistral, Grok, DeepSeek, local Ollama and Azure OpenAI — all under Settings ▸ Translation.\n• Transcribe audio/video into timestamped, searchable transcripts — on-device whenever possible."
 }
