@@ -1,7 +1,7 @@
 {
-  "version": "0.3.30-alpha",
-  "build": 48,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.30-alpha/LitArbi-0.3.30-alpha.zip",
+  "version": "0.3.31-alpha",
+  "build": 49,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.31-alpha/LitArbi-0.3.31-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Window size is remembered across restarts (not just position).\n• Sidebar/inspector widths and collapsed state are remembered too."
+  "notes": "• Translate button in the ribbon (Document ▸ Language and Tools ▸ Recognize).\n• DeepL key dialog no longer clips its input field."
 }
