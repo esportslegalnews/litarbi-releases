@@ -1,7 +1,7 @@
 {
-  "version": "0.3.39-alpha",
-  "build": 57,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.39-alpha/LitArbi-0.3.39-alpha.zip",
+  "version": "0.3.40-alpha",
+  "build": 58,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.40-alpha/LitArbi-0.3.40-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Seven translation providers incl. Mistral, Grok, DeepSeek, local Ollama and Azure OpenAI — all under Settings ▸ Translation.\n• Transcribe audio/video into timestamped, searchable transcripts — on-device whenever possible."
+  "notes": "• LibreOffice Writer add-in ships in the app: Settings ▸ Add-ins installs it with one click; submissions round-trip between Word and Writer."
 }
