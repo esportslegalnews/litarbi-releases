@@ -1,7 +1,7 @@
 {
-  "version": "0.3.37-alpha",
-  "build": 55,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.37-alpha/LitArbi-0.3.37-alpha.zip",
+  "version": "0.3.38-alpha",
+  "build": 56,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.38-alpha/LitArbi-0.3.38-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Translation providers: DeepL, Claude (Anthropic) or OpenAI — your own key each. Claude/OpenAI also translate Turkmen, which DeepL can't."
+  "notes": "• Settings ▸ Translation: provider, API keys and model choice (Claude Sonnet/Opus/Haiku, GPT-4o/4.1 family).\n• The translation chip is calm teal in normal use and shows the active model for Claude/OpenAI."
 }
