@@ -1,7 +1,7 @@
 {
-  "version": "0.3.32-alpha",
-  "build": 50,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.32-alpha/LitArbi-0.3.32-alpha.zip",
+  "version": "0.3.33-alpha",
+  "build": 51,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.33-alpha/LitArbi-0.3.33-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Shortcuts: ⌘C copy citation, ⇧⌘F or . star, ⌘D duplicate, ⌫ move to Trash — all in the Exhibit menu.\n• “Cite into Word” and “Copy Citation” are now separate commands."
+  "notes": "• Letters name themselves: the subject line (Betreff/Subject/Konu/Тема) becomes the proposed title at import; right-click ▸ Use Detected Subject as Title for existing documents."
 }
