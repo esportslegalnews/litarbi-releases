@@ -1,7 +1,7 @@
 {
-  "version": "0.3.42-alpha",
-  "build": 60,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.3.42-alpha/LitArbi-0.3.42-alpha.zip",
+  "version": "0.4.0-alpha",
+  "build": 61,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.0-alpha/LitArbi-0.4.0-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• LibreOffice add-in v0.2: same buttons, order and icons as the Word ribbon, incl. Convert to Plain Text and Edit & Manage. Update via Settings ▸ Add-ins."
+  "notes": "LitArbi 0.4 — the trust release: automatic matter backups with restore, Undo Renumbering (⌥⌘Z), verified 2,000-document performance, and a first-run welcome. Plus everything from late 0.3: e-signatures (incl. QES), 7 translation providers, transcription, LibreOffice parity."
 }
