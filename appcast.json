@@ -1,7 +1,7 @@
 {
-  "version": "0.4.3-alpha",
-  "build": 64,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.3-alpha/LitArbi-0.4.3-alpha.zip",
+  "version": "0.4.4-alpha",
+  "build": 65,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.4-alpha/LitArbi-0.4.4-alpha.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Click the translation chip to switch provider and pick the model right there; the chip stays visible even before a key is set."
+  "notes": "• Menu labels say “Translate…” — provider-agnostic, matching the multi-provider reality."
 }
