@@ -1,7 +1,7 @@
 {
-  "version": "0.2.4-alpha",
-  "build": 14,
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.2.4-alpha.exe",
+  "version": "0.4.0-alpha",
+  "build": 19,
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.4.0-alpha.exe",
   "minimumSystemVersion": "10.0.17763",
-  "notes": "First public Windows build.\n• Full data interoperability with the macOS app — open the same matters and shared .litarbi.zip files.\n• Office-style ribbon + classic menu bar, light/dark theme following Windows, Windows accent colour.\n• Import review, visual PDF splitter, page editor, OCR (incl. Turkish/Russian; Turkmen via the Turkish model), DeepL translation, chronology, people, bundles.\n• Word citations as live QUOTE fields via the LitArbi ribbon add-in.\n• Provisional offline activation when the licence server is briefly unreachable."
+  "notes": "Parity release — everything the macOS 0.4.7 app does.\n• AI translation: 8 providers (DeepL, Claude, OpenAI, Mistral, Ollama, Azure OpenAI, Grok, DeepSeek) with the provider chip next to search, formatted RTF output and a monthly usage meter.\n• AI document summaries: new ✦ Summary inspector tab and \"Summarize with AI\" in the exhibit menu.\n• e-Bundle exchange: export bundles with a litarbi-bundle.json manifest and import bundles from the Mac app (File → Import e-Bundle, or just drop the folder in).\n• e-Signing: certificate (PAdES) signing with Windows certificate store / smartcards / .p12, \"Sign exhibits\" in the Bundle wizard, and Skribble SES/AES/QES for submissions.\n• Transcription: audio/video to timestamped, searchable text — local-first via whisper.cpp.\n• Trash with restore, automatic daily matter backups (keep 10), Undo Renumbering (Ctrl+Alt+Z).\n• Deterministic date parsing (05.06.2021 is always 5 June 2021), subject/date detection in five languages.\n• Word ribbon add-in now compiles and installs from inside the app (Settings → Word Add-in).\n• Columns, window size, splitters and panes are remembered across restarts.\n• Full German and French localization from the Mac string catalog."
 }
