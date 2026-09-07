@@ -1,7 +1,7 @@
 {
-  "version": "0.4.11-alpha",
-  "build": 72,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.11-alpha/LitArbi-0.4.11.zip",
+  "version": "0.4.12-alpha",
+  "build": 73,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.12-alpha/LitArbi-0.4.12.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Make Primary: swap an exhibit's main file with any attachment (number, title, date and citations stay).\n• Drag & drop files straight into the inspector's Files tab.\n• Transcription now also works when the recording is an attachment of the exhibit."
+  "notes": "• Transcription engine picker: Apple on-device, or OpenAI Whisper (~100 languages incl. Turkmen, auto-detect) with your own API key — video audio is extracted automatically before upload."
 }
