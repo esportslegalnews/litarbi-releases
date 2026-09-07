@@ -1,7 +1,7 @@
 {
-  "version": "0.4.9-alpha",
-  "build": 70,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.9-alpha/LitArbi-0.4.9.zip",
+  "version": "0.4.10-alpha",
+  "build": 71,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.10-alpha/LitArbi-0.4.10.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Expert reports & witness statements now cite exactly like exhibits (Exhibit CER-1, name, date).\n• First citation full, later ones short — automatically; custom short template supported.\n• Pick the form per citation: Automatic / Always full / Always short in the picker and context menu."
+  "notes": "• Inspector edits (dates etc.) commit when you click another exhibit mid-edit — no more lost dates.\n• Update Exhibits now heals blue citation links document-wide (pre-0.4.8 citations and followed links); your own hyperlinks stay untouched."
 }
