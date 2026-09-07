@@ -1,7 +1,7 @@
 {
-  "version": "0.4.8-alpha",
-  "build": 69,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.8-alpha/LitArbi-0.4.8.zip",
+  "version": "0.4.9-alpha",
+  "build": 70,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.9-alpha/LitArbi-0.4.9.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Citations: no more blue underlined hyperlink look — clickable but styled as normal text, with the exhibit number in bold.\n• Citing with the cursor inside a footnote appends to that footnote instead of failing.\n• CER-/CWS- reports now cite with their full document name on first citation."
+  "notes": "• Expert reports & witness statements now cite exactly like exhibits (Exhibit CER-1, name, date).\n• First citation full, later ones short — automatically; custom short template supported.\n• Pick the form per citation: Automatic / Always full / Always short in the picker and context menu."
 }
