@@ -1,7 +1,7 @@
 {
-  "version": "0.4.10-alpha",
-  "build": 71,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.10-alpha/LitArbi-0.4.10.zip",
+  "version": "0.4.11-alpha",
+  "build": 72,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.11-alpha/LitArbi-0.4.11.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Inspector edits (dates etc.) commit when you click another exhibit mid-edit — no more lost dates.\n• Update Exhibits now heals blue citation links document-wide (pre-0.4.8 citations and followed links); your own hyperlinks stay untouched."
+  "notes": "• Make Primary: swap an exhibit's main file with any attachment (number, title, date and citations stay).\n• Drag & drop files straight into the inspector's Files tab.\n• Transcription now also works when the recording is an attachment of the exhibit."
 }
