@@ -1,7 +1,7 @@
 {
-  "version": "0.4.7-alpha",
-  "build": 68,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.7-alpha/LitArbi-0.4.7.zip",
+  "version": "0.4.8-alpha",
+  "build": 69,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.8-alpha/LitArbi-0.4.8.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• e-Bundle interchange: bundles carry a manifest — another LitArbi imports all exhibits with their numbers, titles, dates and types in one click (internal notes/tags/summaries are never included).\n• Fixed AI summary & translation with GPT-5 models (live API rejected the temperature setting); API errors now show their real message."
+  "notes": "• Citations: no more blue underlined hyperlink look — clickable but styled as normal text, with the exhibit number in bold.\n• Citing with the cursor inside a footnote appends to that footnote instead of failing.\n• CER-/CWS- reports now cite with their full document name on first citation."
 }
