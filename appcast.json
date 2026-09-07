@@ -1,7 +1,7 @@
 {
-  "version": "0.4.12-alpha",
-  "build": 73,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.12-alpha/LitArbi-0.4.12.zip",
+  "version": "0.4.13-alpha",
+  "build": 74,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.13-alpha/LitArbi-0.4.13.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Transcription engine picker: Apple on-device, or OpenAI Whisper (~100 languages incl. Turkmen, auto-detect) with your own API key — video audio is extracted automatically before upload."
+  "notes": "• Music-only recordings refuse cleanly instead of producing ♪♪ transcripts; music markers and repeated hallucinated lines are filtered from mixed recordings.\n• New OpenAI GPT-4o transcription engine — much better for interviews under background music (no timestamps)."
 }
