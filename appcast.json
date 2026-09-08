@@ -1,7 +1,7 @@
 {
-  "version": "0.4.16-alpha",
-  "build": 77,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.16-alpha/LitArbi-0.4.16.zip",
+  "version": "0.4.17-alpha",
+  "build": 78,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.17-alpha/LitArbi-0.4.17.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• CRITICAL: fixed a crash during large batch translations (database used from two threads at once).\n• Read Handwriting (AI): vision models transcribe handwritten notes and hard scans — text becomes searchable and translatable.\n• Column widths no longer snap back on window resizes."
+  "notes": "• Title-column resizing is reliable now: startup no longer overwrites your saved width, and window-resize adjustments can't snap your columns back. Drag Title once to your preferred width — it sticks."
 }
