@@ -1,7 +1,7 @@
 {
-  "version": "0.5.1-alpha",
-  "build": 80,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.5.1-alpha/LitArbi-0.5.1.zip",
+  "version": "0.5.2-alpha",
+  "build": 81,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.5.2-alpha/LitArbi-0.5.2.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• New Usage ribbon tab: meter cards for every configured provider — tokens in/out, ≈USD, colored bars (DeepL shows its real quota). The corner DeepL chip stays."
+  "notes": "• Rotated scans OCR correctly (they used to produce garbage text — re-run OCR on affected documents, then translate again).\n• Title-column width finally sticks: startup layout can no longer touch it.\n• Mitigates a macOS 27 beta PDFKit hover crash (Apple bug — hover cursor disabled in the PDF preview on that OS)."
 }
