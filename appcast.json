@@ -1,7 +1,7 @@
 {
-  "version": "0.5.3-alpha",
-  "build": 82,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.5.3-alpha/LitArbi-0.5.3.zip",
+  "version": "0.5.4-alpha",
+  "build": 83,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.5.4-alpha/LitArbi-0.5.4.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Storage naming reworked: ONE folder per case, files as yyyymmdd_Exhibit Name; bundles get \"Exhibit C-101\" names sorted into category folders. Existing organized matters migrate automatically."
+  "notes": "• Leftover UUID folders resolved: new attachments organize immediately, unreferenced leftovers are swept into an \"Unreferenced\" review folder (never deleted), and duplicated exhibits share their file cleanly. Run Organize Exhibit Files once after updating."
 }
