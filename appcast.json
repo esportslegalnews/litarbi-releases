@@ -1,7 +1,7 @@
 {
-  "version": "0.4.17-alpha",
-  "build": 78,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.17-alpha/LitArbi-0.4.17.zip",
+  "version": "0.5.0-alpha",
+  "build": 79,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.5.0-alpha/LitArbi-0.5.0.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Title-column resizing is reliable now: startup no longer overwrites your saved width, and window-resize adjustments can't snap your columns back. Drag Title once to your preferred width — it sticks."
+  "notes": "• Organized exhibit storage: File ▸ Organize Exhibit Files… renames every file to \"<exhibit no.> — <title>\" and sorts them into Factual Exhibits / Legal Authorities / Witness Statements / Expert Reports — and keeps them organized from then on. Number-based renames apply at bundling, so renumbering never churns files. Snapshot first; nothing outside storage is touched."
 }
