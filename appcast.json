@@ -1,7 +1,7 @@
 {
-  "version": "0.5.4-alpha",
-  "build": 83,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.5.4-alpha/LitArbi-0.5.4.zip",
+  "version": "0.5.5-alpha",
+  "build": 84,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.5.5-alpha/LitArbi-0.5.5.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Leftover UUID folders resolved: new attachments organize immediately, unreferenced leftovers are swept into an \"Unreferenced\" review folder (never deleted), and duplicated exhibits share their file cleanly. Run Organize Exhibit Files once after updating."
+  "notes": "• No more false \"file missing\" alerts after renames (stale cache fixed).\n• Doubled attachment names from the migration clean themselves up on the next Organize.\n• Translation warns when a rotated document's text predates the rotation fix — run OCR first, then translate."
 }
