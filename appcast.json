@@ -1,7 +1,7 @@
 {
-  "version": "0.4.14-alpha",
-  "build": 75,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.14-alpha/LitArbi-0.4.14.zip",
+  "version": "0.4.15-alpha",
+  "build": 76,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.4.15-alpha/LitArbi-0.4.15.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Column dividers drag freely again (0.4.6's resize logic blocked them); Title still absorbs window resizes.\n• Double-click a divider to auto-fit the column to its content."
+  "notes": "• Teal globe badge in the exhibit list marks documents that have a translation attached (RTF and older .txt translations alike)."
 }
