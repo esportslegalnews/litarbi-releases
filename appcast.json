@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0-beta",
-  "build": 85,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.0-beta/LitArbi-0.6.0.zip",
+  "version": "0.6.1-beta",
+  "build": 86,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.1-beta/LitArbi-0.6.1.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "LitArbi is now in beta!\n• Insert Citation is a compact palette again — it can no longer balloon, and “⇥ Dock” pins it as a slim column on the right edge of your screen, beside Word.\n• Exhibit list: right-click the column headers to choose which columns are shown and to reset widths; no column can grow past a sane cap any more, and columns wider than the pane now scroll horizontally instead of vanishing."
+  "notes": "• Fixes a crash that could occur while importing documents when organized exhibit storage is enabled (the import finished its filing work on a background thread and collided with the exhibit list). All import paths now hand UI updates to the main thread, with a safety net so this class of crash cannot recur."
 }
