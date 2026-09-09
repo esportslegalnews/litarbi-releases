@@ -1,7 +1,7 @@
 {
-  "version": "0.6.5-beta",
-  "build": 90,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.5-beta/LitArbi-0.6.5.zip",
+  "version": "0.6.6-beta",
+  "build": 91,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.6-beta/LitArbi-0.6.6.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Turkmen (and other languages OpenAI's Whisper rejects by code) now transcribe via automatic language detection instead of failing with “Language 'tk' is not supported”.\n• The Usage tab now re-checks the DeepL quota on every refresh — an exhausted quota shows immediately instead of yesterday's numbers."
+  "notes": "• Every Usage card now carries a “Manage plan ↗” link straight to that provider's billing page — top up or subscribe without hunting for the right console.\n• If LitArbi ever crashes, the next launch offers to send the crash report (log + technical details, never your documents) to the developer with one click."
 }
