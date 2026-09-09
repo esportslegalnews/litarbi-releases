@@ -1,7 +1,7 @@
 {
-  "version": "0.6.3-beta",
-  "build": 88,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.3-beta/LitArbi-0.6.3.zip",
+  "version": "0.6.4-beta",
+  "build": 89,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.4-beta/LitArbi-0.6.4.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Citing into an empty footnote no longer inserts a stray leading “; ”. The separator now appears only when a citation is genuinely appended after an existing one."
+  "notes": "• AI translation and handwriting reading no longer fail when OpenAI requires organization verification for GPT-5 models — LitArbi automatically falls back to GPT-4o mini and tells you why.\n• Translation errors in the log now name the actual provider."
 }
