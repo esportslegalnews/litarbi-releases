@@ -1,7 +1,7 @@
 {
-  "version": "0.6.4-beta",
-  "build": 89,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.4-beta/LitArbi-0.6.4.zip",
+  "version": "0.6.5-beta",
+  "build": 90,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.5-beta/LitArbi-0.6.5.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• AI translation and handwriting reading no longer fail when OpenAI requires organization verification for GPT-5 models — LitArbi automatically falls back to GPT-4o mini and tells you why.\n• Translation errors in the log now name the actual provider."
+  "notes": "• Turkmen (and other languages OpenAI's Whisper rejects by code) now transcribe via automatic language detection instead of failing with “Language 'tk' is not supported”.\n• The Usage tab now re-checks the DeepL quota on every refresh — an exhausted quota shows immediately instead of yesterday's numbers."
 }
