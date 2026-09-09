@@ -1,7 +1,7 @@
 {
-  "version": "0.5.5-alpha",
-  "build": 84,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.5.5-alpha/LitArbi-0.5.5.zip",
+  "version": "0.6.0-beta",
+  "build": 85,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.0-beta/LitArbi-0.6.0.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• No more false \"file missing\" alerts after renames (stale cache fixed).\n• Doubled attachment names from the migration clean themselves up on the next Organize.\n• Translation warns when a rotated document's text predates the rotation fix — run OCR first, then translate."
+  "notes": "LitArbi is now in beta!\n• Insert Citation is a compact palette again — it can no longer balloon, and “⇥ Dock” pins it as a slim column on the right edge of your screen, beside Word.\n• Exhibit list: right-click the column headers to choose which columns are shown and to reset widths; no column can grow past a sane cap any more, and columns wider than the pane now scroll horizontally instead of vanishing."
 }
