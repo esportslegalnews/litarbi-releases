@@ -1,7 +1,7 @@
 {
-  "version": "0.6.6-beta",
-  "build": 91,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.6-beta/LitArbi-0.6.6.zip",
+  "version": "0.6.7-beta",
+  "build": 92,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.7-beta/LitArbi-0.6.7.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Every Usage card now carries a “Manage plan ↗” link straight to that provider's billing page — top up or subscribe without hunting for the right console.\n• If LitArbi ever crashes, the next launch offers to send the crash report (log + technical details, never your documents) to the developer with one click."
+  "notes": "New options across Settings:\n• Translation — default transcription engine, Apple-server processing default, and DeepL formality (formal/informal tone).\n• Citation — default citation form (automatic / always full / always short) for the picker.\n• General — turn automatic update checks on or off.\n• Advanced — how many daily matter snapshots to keep, crash-report prompts, and one-click access to the diagnostic log."
 }
