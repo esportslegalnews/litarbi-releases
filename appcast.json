@@ -1,7 +1,7 @@
 {
-  "version": "0.6.2-beta",
-  "build": 87,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.2-beta/LitArbi-0.6.2.zip",
+  "version": "0.6.3-beta",
+  "build": 88,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.3-beta/LitArbi-0.6.3.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Law-firm CI for citations: Settings ▸ Citation now lets you pick the font and size for every citation LitArbi inserts into Word (default: keep the document's own footnote style). “Update Exhibits in Document” re-applies it, so updates keep the firm's look.\n• The Word add-in can now frame its citations in a content control — the Exhibit-Manager-style box that shows while editing and never prints (Settings ▸ Add-ins; reinstall the add-in to get the new version)."
+  "notes": "• Citing into an empty footnote no longer inserts a stray leading “; ”. The separator now appears only when a citation is genuinely appended after an existing one."
 }
