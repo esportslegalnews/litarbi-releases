@@ -1,7 +1,7 @@
 {
-  "version": "0.6.7-beta",
-  "build": 92,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.7-beta/LitArbi-0.6.7.zip",
+  "version": "0.6.8-beta",
+  "build": 93,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.8-beta/LitArbi-0.6.8.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "New options across Settings:\n• Translation — default transcription engine, Apple-server processing default, and DeepL formality (formal/informal tone).\n• Citation — default citation form (automatic / always full / always short) for the picker.\n• General — turn automatic update checks on or off.\n• Advanced — how many daily matter snapshots to keep, crash-report prompts, and one-click access to the diagnostic log."
+  "notes": "• LitArbi is now signed with an Apple Developer ID and notarized by Apple. It opens with a normal double-click on any Mac — no more right-click ▸ Open on first launch — and can be shared with colleagues and opposing counsel like any other Mac app."
 }
