@@ -1,7 +1,7 @@
 {
-  "version": "0.6.9-beta",
-  "build": 94,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.9-beta/LitArbi-0.6.9.zip",
+  "version": "0.7.0-beta",
+  "build": 95,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.7.0-beta/LitArbi-0.7.0.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Auto-OCR after import (Settings ▸ General): scanned PDFs and images are recognized right after import, with progress in the status line — search and translation work without Tools ▸ OCR.\n• Privacy master switch (Settings ▸ General ▸ Security): “Never send documents to cloud AI services” hard-blocks translation, summaries, handwriting reads and cloud transcription for every provider except local Ollama; Apple transcription stays on-device.\n• AI summaries: choose the output language (app language, document language, English, German, French) and length (short / standard / detailed) under Settings ▸ Translation.\n• Jurisdiction-aware functions: a matter's convention now hides what doesn't exist in that jurisdiction — Bates numbering outside arbitration, German evidence offers outside DE/AT/CH — and there is a new England & Wales convention. Settings ▸ General ▸ “Show all functions” overrides."
+  "notes": "• Deliver Bundle: package a produced bundle as a password-protected ZIP — AES-256 (opens with 7-Zip, WinZip, WinRAR, Keka) or the compatible traditional encryption that opens everywhere — and save it straight into Google Drive, Dropbox, Box, pCloud, OneDrive, iCloud Drive or any folder your cloud client syncs. Suggested strong passwords, one-click copy, and every archive is verified before it's handed to you. Available on the bundle wizard's finish page and under File ▸ Deliver Bundle as Encrypted ZIP… for bundles produced earlier."
 }
