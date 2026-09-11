@@ -1,7 +1,7 @@
 {
-  "version": "0.6.8-beta",
-  "build": 93,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.8-beta/LitArbi-0.6.8.zip",
+  "version": "0.6.9-beta",
+  "build": 94,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.6.9-beta/LitArbi-0.6.9.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• LitArbi is now signed with an Apple Developer ID and notarized by Apple. It opens with a normal double-click on any Mac — no more right-click ▸ Open on first launch — and can be shared with colleagues and opposing counsel like any other Mac app."
+  "notes": "• Auto-OCR after import (Settings ▸ General): scanned PDFs and images are recognized right after import, with progress in the status line — search and translation work without Tools ▸ OCR.\n• Privacy master switch (Settings ▸ General ▸ Security): “Never send documents to cloud AI services” hard-blocks translation, summaries, handwriting reads and cloud transcription for every provider except local Ollama; Apple transcription stays on-device.\n• AI summaries: choose the output language (app language, document language, English, German, French) and length (short / standard / detailed) under Settings ▸ Translation.\n• Jurisdiction-aware functions: a matter's convention now hides what doesn't exist in that jurisdiction — Bates numbering outside arbitration, German evidence offers outside DE/AT/CH — and there is a new England & Wales convention. Settings ▸ General ▸ “Show all functions” overrides."
 }
