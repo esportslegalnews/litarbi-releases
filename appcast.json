@@ -1,7 +1,7 @@
 {
-  "version": "0.7.0-beta",
-  "build": 95,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.7.0-beta/LitArbi-0.7.0.zip",
+  "version": "0.7.1-beta",
+  "build": 96,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.7.1-beta/LitArbi-0.7.1.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Deliver Bundle: package a produced bundle as a password-protected ZIP — AES-256 (opens with 7-Zip, WinZip, WinRAR, Keka) or the compatible traditional encryption that opens everywhere — and save it straight into Google Drive, Dropbox, Box, pCloud, OneDrive, iCloud Drive or any folder your cloud client syncs. Suggested strong passwords, one-click copy, and every archive is verified before it's handed to you. Available on the bundle wizard's finish page and under File ▸ Deliver Bundle as Encrypted ZIP… for bundles produced earlier."
+  "notes": "• Usage tab: costs are now estimated from the model that actually answered each call (a fallback to GPT-4o mini is priced as GPT-4o mini, not as the model you selected), a second line shows which models ran, and transcription is counted in audio minutes at its per-minute price. Cards name the month; the counts remain this Mac's own tally — the provider dashboard also includes other devices and tools."
 }
