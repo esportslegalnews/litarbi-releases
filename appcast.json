@@ -1,7 +1,8 @@
 {
-  "version": "0.7.3-beta",
-  "build": 98,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.7.3-beta/LitArbi-0.7.3.zip",
+  "version": "0.8.0-beta",
+  "build": 99,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.8.0-beta/LitArbi-0.8.0.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Awards & decisions: legal authorities now carry case name, case number, decision type, tribunal, rules, seat, treaty, outcome and source — “Paste Reference” fills them from a Jus Mundi reference line, “Detect from Text” reads the cover page, and citations follow the Jus Mundi style (Exhibit CL-7, Muhammet Çap & Sehil v. Turkmenistan, ICSID Case No. ARB/12/6, Award, 4 May 2021, ¶ 312). New template under Settings ▸ Citation.\n• Bugfix run — 56 fixes, including: rotated scans came out upside down in bundles; inline citations (German/Swiss default) could not be updated or managed; citing into an existing footnote lost the earlier citation on Update; restoring a backup could delete the chosen backup; deleting a duplicate removed the shared file; numbering and the Word data file used the filtered list instead of the whole matter; the inspector could erase a freshly assigned number; Convert to Plain Text flattened every field in the document; the metadata cleaner could drop text from commented .docx files; e-signing crashed on non-Latin characters in the reason; provider errors were labelled “DeepL”; German templates left a stray “vom” for undated exhibits; Settings defaults for numbering and party side now apply."
+  "notes": "• Duplicates: LitArbi now recognises the same document twice — identical files by content hash, probable twins by title or near-identical text with the same page count. An orange badge marks them in the list (hover for the twin), the sidebar gains a “Duplicates” view, the import review warns “identical file already in this matter” and skips it by default, and Tools ▸ Duplicates lists every group with “Select All But First” + “Move Selected to Trash”. Nothing is deleted permanently; files shared with a kept exhibit are never removed.\n• Releases carry a name from now on — this one is Geneva; About, the splash screen and this dialog show it.",
+  "name": "Geneva"
 }
