@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0-beta",
-  "build": 99,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.8.0-beta/LitArbi-0.8.0.zip",
+  "version": "0.8.1-beta",
+  "build": 100,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.8.1-beta/LitArbi-0.8.1.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Duplicates: LitArbi now recognises the same document twice — identical files by content hash, probable twins by title or near-identical text with the same page count. An orange badge marks them in the list (hover for the twin), the sidebar gains a “Duplicates” view, the import review warns “identical file already in this matter” and skips it by default, and Tools ▸ Duplicates lists every group with “Select All But First” + “Move Selected to Trash”. Nothing is deleted permanently; files shared with a kept exhibit are never removed.\n• Releases carry a name from now on — this one is Geneva; About, the splash screen and this dialog show it.",
+  "notes": "• Translation with OpenAI: gpt-5 models are now told to reason as little as possible — a part that took 40–70 seconds now takes a few, and costs a fraction of the tokens. The status line shows “part 2 of 7 · gpt-5-mini · 1:30 elapsed”, and Matter ▸ Cancel Translation stops a long run after the current part (finished documents keep their translation).\n• Finished translations are recorded in the diagnostic log with their duration, so “nothing happened” questions can be answered from the log.",
   "name": "Geneva"
 }
