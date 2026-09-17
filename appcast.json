@@ -1,8 +1,8 @@
 {
-  "version": "0.8.2-beta",
-  "build": 101,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.8.2-beta/LitArbi-0.8.2.zip",
+  "version": "0.8.3-beta",
+  "build": 102,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.8.3-beta/LitArbi-0.8.3.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Translate dialog: before the first request you now see “≈ 182,000 characters · 31 parts · ≈ $0.14 with GPT-5 mini · ≈ 4 min”. The time comes from your own previous runs with that provider; DeepL jobs are checked against the remaining quota and flagged when they would exceed it.\n• Usage tab: the explanatory line at the bottom was cut off — it fits again.",
+  "notes": "• Titles that say who wrote to whom: detected letter titles now read “Letter from Dr. Anna Weber, Nordwind Energy GmbH to Ministry of Energy re Delay of the works” — sender from the signature block or letterhead, addressee from the address block or salutation, the subject only appended. Names from the matter’s People list are preferred; German and French matters use “Schreiben von … an …” / “Lettre de … à …”. Works on import and via Exhibit ▸ Read Subject & Date; Settings ▸ General can switch back to subject-only.\n• Rename in place: Return, F2 or ⌘R on a selected exhibit edits its title right in the list. Tab commits and jumps to the next exhibit, Shift-Tab to the previous, Esc cancels — a fresh import can be titled straight down the list without touching the mouse.\n• Exhibit ▸ Find & Replace in Titles… (⌥⌘R): replace a pattern across all selected exhibits at once, with “match case” and “regular expression” options. Organized storage renames the files accordingly.",
   "name": "Geneva"
 }
