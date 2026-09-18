@@ -1,8 +1,8 @@
 {
-  "version": "0.9.3-beta",
-  "build": 107,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.3-beta/LitArbi-0.9.3.zip",
+  "version": "0.9.4-beta",
+  "build": 108,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.4-beta/LitArbi-0.9.4.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Search scope: the search field's magnifier menu chooses Titles only / Titles & details / Full text incl. OCR — remembered, with the snippet taken from the matching field.\n• Original language per document: detected on this Mac from the text (import, OCR, AI read), editable in the inspector, a Language column in the list, a Languages group in the sidebar to filter by language, Exhibit ▸ Detect Document Language for the selection; exported with the CSV index and shared matters.",
+  "notes": "• Fix: the inspector's Tags tab — the tag field had collapsed to a stub and its help text ran off the pane; both now span the inspector width.",
   "name": "Paris"
 }
