@@ -1,8 +1,8 @@
 {
-  "version": "0.8.4-beta",
-  "build": 103,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.8.4-beta/LitArbi-0.8.4.zip",
+  "version": "0.9.0-beta",
+  "build": 104,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.0-beta/LitArbi-0.9.0.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• The page-tools bar over the PDF preview no longer turns into an opaque dark box after the Mac switches between light and dark mode (e.g. after sleep) — it is a translucent material now and follows the appearance, as do the Usage cards and the quota chip.",
-  "name": "Geneva"
+  "notes": "• Paris: the workspace follows the current macOS design — ribbon tabs, quota chip and search now sit in a real window toolbar next to the traffic lights (Liquid Glass on macOS 26, the native unified toolbar on 14/15); the empty title-bar row is gone.\n• Toolbar and ribbon are one surface without a separator; the page-tools bar over the PDF preview is Liquid Glass on macOS 26; the detail pane is a native inspector.\n• Ribbon titles, button tints and the quota chip re-resolve their colours on every light/dark switch (no more washed-out labels after an automatic switch).",
+  "name": "Paris"
 }
