@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1-beta",
-  "build": 105,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.1-beta/LitArbi-0.9.1.zip",
+  "version": "0.9.2-beta",
+  "build": 106,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.2-beta/LitArbi-0.9.2.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Translation & AI protocol: every translation, AI summary and AI read is recorded per matter (when, document, provider/model, language, text size, duration, user, outcome) — Tools ▸ Protocol or ⌥⌘L; filter, jump to the document, export CSV, print.\n• Printing: File ▸ Print Document List… (⇧⌘P) prints the list as shown as a paginated table; File ▸ Print Document… (⌘P) prints the previewed PDF, image, RTF/text or Word file (others open in their own app).\n• Exhibits with an AI-generated summary show a ✦ marker in the list (model and date on hover); the Summary tab labels the text as AI-generated.",
+  "notes": "• Merge Exhibits (⌥⌘M, ribbon Merge, context menu): the kept exhibit retains number, title and file; the others become its attachments and bring their notes, tags, people, references, collections and timeline entries along — optionally with their PDF pages combined into one document. Exhibit ▸ Undo Last Merge puts everything back.\n• Guards: locked exhibits, notes and attachments are refused; a warning when an absorbed exhibit is numbered or included in the submission. \"Merge Selected…\" in the Duplicates window.\n• Fix: Edit Pages no longer fails with \"Couldn’t replace the managed copy\" when exhibit files live on another volume.",
   "name": "Paris"
 }
