@@ -1,8 +1,8 @@
 {
-  "version": "0.8.3-beta",
-  "build": 102,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.8.3-beta/LitArbi-0.8.3.zip",
+  "version": "0.8.4-beta",
+  "build": 103,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.8.4-beta/LitArbi-0.8.4.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Titles that say who wrote to whom: detected letter titles now read “Letter from Dr. Anna Weber, Nordwind Energy GmbH to Ministry of Energy re Delay of the works” — sender from the signature block or letterhead, addressee from the address block or salutation, the subject only appended. Names from the matter’s People list are preferred; German and French matters use “Schreiben von … an …” / “Lettre de … à …”. Works on import and via Exhibit ▸ Read Subject & Date; Settings ▸ General can switch back to subject-only.\n• Rename in place: Return, F2 or ⌘R on a selected exhibit edits its title right in the list. Tab commits and jumps to the next exhibit, Shift-Tab to the previous, Esc cancels — a fresh import can be titled straight down the list without touching the mouse.\n• Exhibit ▸ Find & Replace in Titles… (⌥⌘R): replace a pattern across all selected exhibits at once, with “match case” and “regular expression” options. Organized storage renames the files accordingly.",
+  "notes": "• The page-tools bar over the PDF preview no longer turns into an opaque dark box after the Mac switches between light and dark mode (e.g. after sleep) — it is a translucent material now and follows the appearance, as do the Usage cards and the quota chip.",
   "name": "Geneva"
 }
