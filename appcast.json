@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0-beta",
-  "build": 104,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.0-beta/LitArbi-0.9.0.zip",
+  "version": "0.9.1-beta",
+  "build": 105,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.1-beta/LitArbi-0.9.1.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Paris: the workspace follows the current macOS design — ribbon tabs, quota chip and search now sit in a real window toolbar next to the traffic lights (Liquid Glass on macOS 26, the native unified toolbar on 14/15); the empty title-bar row is gone.\n• Toolbar and ribbon are one surface without a separator; the page-tools bar over the PDF preview is Liquid Glass on macOS 26; the detail pane is a native inspector.\n• Ribbon titles, button tints and the quota chip re-resolve their colours on every light/dark switch (no more washed-out labels after an automatic switch).",
+  "notes": "• Translation & AI protocol: every translation, AI summary and AI read is recorded per matter (when, document, provider/model, language, text size, duration, user, outcome) — Tools ▸ Protocol or ⌥⌘L; filter, jump to the document, export CSV, print.\n• Printing: File ▸ Print Document List… (⇧⌘P) prints the list as shown as a paginated table; File ▸ Print Document… (⌘P) prints the previewed PDF, image, RTF/text or Word file (others open in their own app).\n• Exhibits with an AI-generated summary show a ✦ marker in the list (model and date on hover); the Summary tab labels the text as AI-generated.",
   "name": "Paris"
 }
