@@ -1,8 +1,8 @@
 {
-  "version": "0.9.2-beta",
-  "build": 106,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.2-beta/LitArbi-0.9.2.zip",
+  "version": "0.9.3-beta",
+  "build": 107,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.3-beta/LitArbi-0.9.3.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Merge Exhibits (⌥⌘M, ribbon Merge, context menu): the kept exhibit retains number, title and file; the others become its attachments and bring their notes, tags, people, references, collections and timeline entries along — optionally with their PDF pages combined into one document. Exhibit ▸ Undo Last Merge puts everything back.\n• Guards: locked exhibits, notes and attachments are refused; a warning when an absorbed exhibit is numbered or included in the submission. \"Merge Selected…\" in the Duplicates window.\n• Fix: Edit Pages no longer fails with \"Couldn’t replace the managed copy\" when exhibit files live on another volume.",
+  "notes": "• Search scope: the search field's magnifier menu chooses Titles only / Titles & details / Full text incl. OCR — remembered, with the snippet taken from the matching field.\n• Original language per document: detected on this Mac from the text (import, OCR, AI read), editable in the inspector, a Language column in the list, a Languages group in the sidebar to filter by language, Exhibit ▸ Detect Document Language for the selection; exported with the CSV index and shared matters.",
   "name": "Paris"
 }
