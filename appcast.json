@@ -1,8 +1,8 @@
 {
-  "version": "0.9.4-beta",
-  "build": 108,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.4-beta/LitArbi-0.9.4.zip",
+  "version": "0.9.5-beta",
+  "build": 109,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.5-beta/LitArbi-0.9.5.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Fix: the inspector's Tags tab — the tag field had collapsed to a stub and its help text ran off the pane; both now span the inspector width.",
+  "notes": "• The exhibit list's right-click menu is regrouped: everyday actions on top, the rest in six submenus (Add, Cite, Document, AI & Language, Sign, Organize); Print Document… added; nothing removed.\n• The translation quota chip no longer draws its own pill inside the toolbar's glass capsule on macOS 26 and no longer shortens its text.\n• Home ribbon regrouped into Add / Exhibit / Document (11 icons instead of 14); the sidebar keeps the selected source highlighted; a Zotero-style \"Filter Tags\" field with an all-tags / tags-in-view switch under the tag list.",
   "name": "Paris"
 }
