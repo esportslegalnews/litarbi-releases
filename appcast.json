@@ -1,8 +1,8 @@
 {
-  "version": "0.9.6-beta",
-  "build": 110,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.6-beta/LitArbi-0.9.6.zip",
+  "version": "0.9.7-beta",
+  "build": 111,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.7-beta/LitArbi-0.9.7.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• The AI summary now appears first in the inspector's Abstract row (Info tab), above your own abstract, with model and date; \"Use as Abstract\" copies it into the abstract for editing, \"More…\" opens the Summary tab.",
+  "notes": "• Colourful sidebar: every source and every exhibit type has its own filled symbol and system colour (Finder/Mail style), adapting to dark mode.",
   "name": "Paris"
 }
