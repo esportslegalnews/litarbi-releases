@@ -1,8 +1,8 @@
 {
-  "version": "0.9.8-beta",
-  "build": 112,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.8-beta/LitArbi-0.9.8.zip",
+  "version": "0.9.9-beta",
+  "build": 113,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.9-beta/LitArbi-0.9.9.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Sidebar Smart Lists (Included in submission, Do not cite, Unnumbered, Needs OCR, Not translated) with counts on every sidebar row; the footer shows \"n selected · m included\".\n• Each matter reopens at the last selected exhibit and page; Esc clears the search; tag colour dots in the Tags column; drop files on the Dock icon to import; type \"C-12\" in the list to jump to that exhibit.\n• Right-click the Dock icon (or File ▸ Recent Matters) to open one of the last eight matters.",
+  "notes": "• Run OCR… added to the exhibit list's right-click menu (AI & Language).",
   "name": "Paris"
 }
