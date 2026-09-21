@@ -1,8 +1,8 @@
 {
-  "version": "0.9.16-beta",
-  "build": 120,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.16-beta/LitArbi-0.9.16.zip",
+  "version": "0.9.17-beta",
+  "build": 121,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.17-beta/LitArbi-0.9.17.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Split PDF into Exhibits… now works after import (Exhibit ▸ Document, right-click, Document tab): cut an existing exhibit's pages into new exhibits that inherit its metadata; the original stays until you trash it.\n• Detach Attachment as Exhibit: a translation or file under an exhibit becomes a separate exhibit again.",
+  "notes": "• Ribbon reshuffled into Home (add, exhibit flags, cite), Document (view, pages incl. Merge and Split, language incl. Summarize, protect), Submission (brief, export, produce) and Matter (numbering, insights, library) — every command exactly once; the Tools tab is gone.",
   "name": "Paris"
 }
