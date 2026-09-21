@@ -1,8 +1,8 @@
 {
-  "version": "0.9.10-beta",
-  "build": 114,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.10-beta/LitArbi-0.9.10.zip",
+  "version": "0.9.11-beta",
+  "build": 115,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.11-beta/LitArbi-0.9.11.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Insert Citation now docks beside the Word document window like a Word pane: it follows the window and its Space (full-screen Word included), never pulls LitArbi in front, and hands the cursor back to the draft after Insert. Drag its top edge once to align it under the ribbon; ⤢ Float restores the palette.\n• Fix: the picker could stretch across the whole screen with long exhibit titles.",
+  "notes": "• Menu bar regrouped: File keeps matters, new items, Import ▸ / Export ▸, print and close; Exhibit mirrors the right-click families (Numbering ▸, Document ▸, AI & Language ▸, Sign ▸); a new Submission menu collects all Word and filing commands (Insert Citation… ⇧⌘C, cite, lists, update from brief, bundle, e-brief, signature); Matter holds settings, insights and housekeeping. Edit ▸ Find ⌘F.",
   "name": "Paris"
 }
