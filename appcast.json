@@ -1,8 +1,8 @@
 {
-  "version": "0.9.12-beta",
-  "build": 116,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.12-beta/LitArbi-0.9.12.zip",
+  "version": "0.9.13-beta",
+  "build": 117,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.13-beta/LitArbi-0.9.13.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Date column: a typed date the app could not accept (29.02.2010, \"Januray\") no longer floats to the top — it sorts by the date it names and is shown in red so the typo can be fixed.\n• Menu bar regrouped: File keeps matters, new items, Import ▸ / Export ▸, print and close; Exhibit mirrors the right-click families (Numbering ▸, Document ▸, AI & Language ▸, Sign ▸); a new Submission menu collects all Word and filing commands (Insert Citation… ⇧⌘C, cite, lists, update from brief, bundle, e-brief, signature); Matter holds settings, insights and housekeeping. Edit ▸ Find ⌘F.",
+  "notes": "• Award and decision citations set the case name in italics automatically (from Case (short), or the \"X v. Y\" part of the title); {case} no longer repeats the whole title in front of the case number.\n• Cite / Copy Citation on an authority or a submission first ask for the paragraphs and pages (¶ 123, ¶¶ 123–125, pp. 3–4); factual exhibits stay one click.",
   "name": "Paris"
 }
