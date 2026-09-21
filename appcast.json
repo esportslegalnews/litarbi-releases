@@ -1,8 +1,8 @@
 {
-  "version": "0.9.9-beta",
-  "build": 113,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.9-beta/LitArbi-0.9.9.zip",
+  "version": "0.9.10-beta",
+  "build": 114,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.10-beta/LitArbi-0.9.10.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Run OCR… added to the exhibit list's right-click menu (AI & Language).",
+  "notes": "• Insert Citation now docks beside the Word document window like a Word pane: it follows the window and its Space (full-screen Word included), never pulls LitArbi in front, and hands the cursor back to the draft after Insert. Drag its top edge once to align it under the ribbon; ⤢ Float restores the palette.\n• Fix: the picker could stretch across the whole screen with long exhibit titles.",
   "name": "Paris"
 }
