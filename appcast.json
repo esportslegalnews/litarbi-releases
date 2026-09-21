@@ -1,8 +1,8 @@
 {
-  "version": "0.9.15-beta",
-  "build": 119,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.15-beta/LitArbi-0.9.15.zip",
+  "version": "0.9.16-beta",
+  "build": 120,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.16-beta/LitArbi-0.9.16.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Full vs short citation is now decided per Word document (from its citation bookmarks): the first citation in a brief is always full, later ones short, and deleting the first makes the next one full again. Awards keep their italic case name in the short form (\"Exhibit CL-12, Kılıç v. Turkmenistan, ¶ 12\"); editable in Settings ▸ Citation.",
+  "notes": "• Split PDF into Exhibits… now works after import (Exhibit ▸ Document, right-click, Document tab): cut an existing exhibit's pages into new exhibits that inherit its metadata; the original stays until you trash it.\n• Detach Attachment as Exhibit: a translation or file under an exhibit becomes a separate exhibit again.",
   "name": "Paris"
 }
