@@ -1,8 +1,8 @@
 {
-  "version": "0.9.14-beta",
-  "build": 118,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.14-beta/LitArbi-0.9.14.zip",
+  "version": "0.9.15-beta",
+  "build": 119,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.15-beta/LitArbi-0.9.15.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Fix: an inserted citation could come out entirely in italics (inherited from the document's Hyperlink style or the text before it). Citations are now reset to upright text with only the exhibit number bold and the case name italic.\n• Fix: LitArbi beside Word in Split View no longer freezes into a blur — the ribbon collapses to the tile width and the window declares its real minimum (912 pt).",
+  "notes": "• Full vs short citation is now decided per Word document (from its citation bookmarks): the first citation in a brief is always full, later ones short, and deleting the first makes the next one full again. Awards keep their italic case name in the short form (\"Exhibit CL-12, Kılıç v. Turkmenistan, ¶ 12\"); editable in Settings ▸ Citation.",
   "name": "Paris"
 }
