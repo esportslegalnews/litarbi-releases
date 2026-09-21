@@ -1,8 +1,8 @@
 {
-  "version": "0.9.13-beta",
-  "build": 117,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.13-beta/LitArbi-0.9.13.zip",
+  "version": "0.9.14-beta",
+  "build": 118,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.14-beta/LitArbi-0.9.14.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Award and decision citations set the case name in italics automatically (from Case (short), or the \"X v. Y\" part of the title); {case} no longer repeats the whole title in front of the case number.\n• Cite / Copy Citation on an authority or a submission first ask for the paragraphs and pages (¶ 123, ¶¶ 123–125, pp. 3–4); factual exhibits stay one click.",
+  "notes": "• Fix: an inserted citation could come out entirely in italics (inherited from the document's Hyperlink style or the text before it). Citations are now reset to upright text with only the exhibit number bold and the case name italic.\n• Fix: LitArbi beside Word in Split View no longer freezes into a blur — the ribbon collapses to the tile width and the window declares its real minimum (912 pt).",
   "name": "Paris"
 }
