@@ -1,8 +1,8 @@
 {
-  "version": "0.9.18-beta",
-  "build": 122,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.18-beta/LitArbi-0.9.18.zip",
+  "version": "0.9.19-beta",
+  "build": 123,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.19-beta/LitArbi-0.9.19.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• List of Exhibits is now inserted as a real Word table (Exhibit No. · Description · Date) instead of a tab-indented list. Settings ▸ Citation ▸ List of Exhibits chooses Table or the old plain list, and — for the table — bordered or plain, bold header on/off.",
+  "notes": "• List of Exhibits table: more room around each row and wider Exhibit No./Date columns, and — by default — grouped into headed sections by exhibit type (Witness Statements, Legal Authorities, …). Settings ▸ Citation ▸ List of Exhibits turns sectioning off.",
   "name": "Paris"
 }
