@@ -1,8 +1,8 @@
 {
-  "version": "0.9.21-beta",
-  "build": 125,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.21-beta/LitArbi-0.9.21.zip",
+  "version": "0.9.22-beta",
+  "build": 126,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.22-beta/LitArbi-0.9.22.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Fix: the Insert Citation pane could miss exhibits — its search and item count followed the main window's current sidebar/search filter instead of the whole matter. It now always searches everything.",
+  "notes": "• Bundle Wizard: every non-PDF exhibit (text, email, Office docs, …) is now converted to PDF before stamping — only audio and video stay in their native format. The e-brief merge got the same fix, so those files are no longer silently skipped.",
   "name": "Paris"
 }
