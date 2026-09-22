@@ -1,8 +1,8 @@
 {
-  "version": "0.9.20-beta",
-  "build": 124,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.20-beta/LitArbi-0.9.20.zip",
+  "version": "0.9.21-beta",
+  "build": 125,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.21-beta/LitArbi-0.9.21.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Fix: the List of Exhibits table could render only a few dozen points wide, wrapping every word one letter per line — the table's own width was never spanned before dividing it into columns. Fixed.\n• Submission ▸ List of Exhibits now asks to sort By Appearance (exhibit number, default) or By Date (chronological, undated last) — remembered per matter, reapplied silently by Update Exhibits from Brief.",
+  "notes": "• Fix: the Insert Citation pane could miss exhibits — its search and item count followed the main window's current sidebar/search filter instead of the whole matter. It now always searches everything.",
   "name": "Paris"
 }
