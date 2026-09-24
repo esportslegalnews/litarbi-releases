@@ -1,8 +1,8 @@
 {
-  "version": "0.9.23-beta",
-  "build": 127,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.23-beta/LitArbi-0.9.23.zip",
+  "version": "0.9.24-beta",
+  "build": 128,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.24-beta/LitArbi-0.9.24.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Pinpoints for every document: Cite asks for ¶ (statements, reports, authorities) or page (documents), and a typed pinpoint can no longer vanish. • Bundle Wizard: add your submission PDF — every citation in it becomes a link that opens the bundled exhibit at the cited page or paragraph.",
+  "notes": "• Fix: a citation copied from one footnote into another is now renumbered, relinked and kept by Update Exhibits (it could be deleted or ignored); your own footnote text is never rewritten. • Fix: Bundle Wizard and e-brief always offer the whole matter, not just the current sidebar view.",
   "name": "Paris"
 }
