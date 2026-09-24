@@ -1,8 +1,8 @@
 {
-  "version": "0.9.22-beta",
-  "build": 126,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.22-beta/LitArbi-0.9.22.zip",
+  "version": "0.9.23-beta",
+  "build": 127,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.23-beta/LitArbi-0.9.23.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Bundle Wizard: every non-PDF exhibit (text, email, Office docs, …) is now converted to PDF before stamping — only audio and video stay in their native format. The e-brief merge got the same fix, so those files are no longer silently skipped.",
+  "notes": "• Pinpoints for every document: Cite asks for ¶ (statements, reports, authorities) or page (documents), and a typed pinpoint can no longer vanish. • Bundle Wizard: add your submission PDF — every citation in it becomes a link that opens the bundled exhibit at the cited page or paragraph.",
   "name": "Paris"
 }
