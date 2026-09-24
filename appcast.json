@@ -1,8 +1,8 @@
 {
-  "version": "0.9.27-beta",
-  "build": 131,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.27-beta/LitArbi-0.9.27.zip",
+  "version": "0.9.28-beta",
+  "build": 132,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.28-beta/LitArbi-0.9.28.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Footnotes: a LitArbi footnote that wraps now continues under the text (hanging indent at the default tab stop), not under the footnote number.",
+  "notes": "• Settings ▸ Citation ▸ Exhibit number: before the description (\"Exhibit C-3, Excerpt …, p. 4\") or after it (\"Excerpt … (Exhibit C-3), p. 4\"). Update Exhibits switches existing citations.",
   "name": "Paris"
 }
