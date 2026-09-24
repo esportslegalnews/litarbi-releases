@@ -1,8 +1,8 @@
 {
-  "version": "0.9.25-beta",
-  "build": 129,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.25-beta/LitArbi-0.9.25.zip",
+  "version": "0.9.26-beta",
+  "build": 130,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.26-beta/LitArbi-0.9.26.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Update Exhibits warns when a cited exhibit seems moved or deleted (Trash, merged, deleted, file missing) or looks like a duplicate — with Restore / Cite … instead / Show — and highlights those citations in the Word document (yellow / turquoise). • Fix: a deleted exhibit's citation no longer vanishes or keeps a stale number.",
+  "notes": "• One document, one number: the same document cited as C-9 and C-11 is caught (Cite C-9 throughout), and citing it twice is prevented. • Highlights in Word now carry a \"[LitArbi: …]\" note saying why. • Footnotes: space + tab after the number, closing period. • Narrower List of Exhibits. • Fix: a footnote with two citations could lose the second.",
   "name": "Paris"
 }
