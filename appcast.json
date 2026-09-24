@@ -1,8 +1,8 @@
 {
-  "version": "0.9.24-beta",
-  "build": 128,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.24-beta/LitArbi-0.9.24.zip",
+  "version": "0.9.25-beta",
+  "build": 129,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.25-beta/LitArbi-0.9.25.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Fix: a citation copied from one footnote into another is now renumbered, relinked and kept by Update Exhibits (it could be deleted or ignored); your own footnote text is never rewritten. • Fix: Bundle Wizard and e-brief always offer the whole matter, not just the current sidebar view.",
+  "notes": "• Update Exhibits warns when a cited exhibit seems moved or deleted (Trash, merged, deleted, file missing) or looks like a duplicate — with Restore / Cite … instead / Show — and highlights those citations in the Word document (yellow / turquoise). • Fix: a deleted exhibit's citation no longer vanishes or keeps a stale number.",
   "name": "Paris"
 }
