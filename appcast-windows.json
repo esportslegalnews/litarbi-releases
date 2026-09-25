@@ -1,8 +1,8 @@
 {
   "version": "0.9.28-beta",
-  "build": 28,
+  "build": 29,
   "name": "Paris",
   "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.28-beta.exe",
   "minimumSystemVersion": "10.0.17763",
-  "notes": "LitArbi 0.9.28-beta “Paris” (build 28) — Word add-in fix, part 2.\n• The Word add-in no longer depends on your Normal template; this addresses “Compile error in hidden module: LitArbiRibbon”. It is rebuilt automatically the first time LitArbi starts with Word closed.\n• New: Settings → Word Add-in → Check Word add-ins… shows which templates Word loads, tells the Windows add-in from the macOS one, and flags missing references. Repair moves problem templates aside (nothing is deleted) and rebuilds the add-in; Copy Report for support.\n• Macintosh LitArbi templates in either Word startup folder are replaced automatically.\n• Everything from build 26: full parity with macOS 0.9.28."
+  "notes": "LitArbi 0.9.28-beta “Paris” (build 29) — Word add-in fixed.\n• Fixes “Compile error in hidden module: LitArbiRibbon”: an early Windows build had installed the Mac version of the Word add-in, and later updates kept reinstalling it. LitArbi now removes it and builds the Windows add-in — if Word is open, you are asked to quit it first.\n• Settings → Word Add-in → Check Word add-ins… shows which templates Word loads and repairs problems.\n• Everything from build 26: full parity with macOS 0.9.28."
 }
