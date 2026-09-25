@@ -1,8 +1,8 @@
 {
-  "version": "0.9.29-beta",
-  "build": 133,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.29-beta/LitArbi-0.9.29.zip",
+  "version": "0.9.30-beta",
+  "build": 134,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.30-beta/LitArbi-0.9.30.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• About LitArbi shows version, build, architecture, macOS and licence holder — with Copy Details for support, like LitArbi for Windows.",
+  "notes": "• Shared matters on your firm's own LitArbi Server: share a matter, open a colleague's, work on the same exhibits, numbers and citations — every Mac keeps a full offline copy.",
   "name": "Paris"
 }
