@@ -1,8 +1,8 @@
 {
   "version": "0.9.28-beta",
-  "build": 31,
+  "build": 32,
   "name": "Paris",
   "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.28-beta.exe",
   "minimumSystemVersion": "10.0.17763",
-  "notes": "LitArbi 0.9.28-beta “Paris” (build 31) — Windows 11 design, native on ARM64.\n• Windows 11 look throughout: Windows 11 colours and your accent colour, rounded controls, Windows 11 check boxes, lists, menus, tooltips and tabs, Settings laid out like Windows Settings. Dark mode fixed in every window.\n• Snap layouts from the maximize button. Mica window background on Windows 11 PCs (Settings → General → Window background).\n• Native on ARM64 PCs (e.g. Windows on Apple Silicon): the installer picks the right version and can install the ARM64 .NET 8 Desktop Runtime for you.\n• Includes the Word add-in fixes of builds 27–30."
+  "notes": "LitArbi 0.9.28-beta “Paris” (build 32) — Windows 11 dialogs.\n• Help → About LitArbi shows which version is installed — x64 or ARM64, native or emulated — plus .NET and Windows version, with Copy Details for support.\n• All messages and confirmations use the Windows 11 dialog style; no more Windows 95-looking boxes.\n• Build 31: Windows 11 design throughout, native on ARM64 (the installer can install the ARM64 .NET 8 Desktop Runtime), snap layouts, Mica."
 }
