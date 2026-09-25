@@ -1,8 +1,8 @@
 {
-  "version": "0.9.28-beta",
-  "build": 132,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.28-beta/LitArbi-0.9.28.zip",
+  "version": "0.9.29-beta",
+  "build": 133,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.29-beta/LitArbi-0.9.29.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Settings ▸ Citation ▸ Exhibit number: before the description (\"Exhibit C-3, Excerpt …, p. 4\") or after it (\"Excerpt … (Exhibit C-3), p. 4\"). Update Exhibits switches existing citations.",
+  "notes": "• About LitArbi shows version, build, architecture, macOS and licence holder — with Copy Details for support, like LitArbi for Windows.",
   "name": "Paris"
 }
