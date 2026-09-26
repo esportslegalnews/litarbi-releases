@@ -1,8 +1,8 @@
 {
-  "version": "0.9.33-beta",
-  "build": 137,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.33-beta/LitArbi-0.9.33.zip",
+  "version": "0.9.34-beta",
+  "build": 138,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.34-beta/LitArbi-0.9.34.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Sign in on another computer and LitArbi asks to sync your matters: those on the server are copied here, those only on this computer can go onto the server. New shared matters are offered as they appear; File ▸ Sync Matters with the LitArbi Server… asks again.",
+  "notes": "• One matter, every submission's own exhibit numbers: Submission ▸ Numbering keeps a numbering per submission (Memorandum, Notice of Dispute, Statement of Claim, Reply, Post-Hearing Briefs …). A new one starts at 1 or continues any earlier one — exhibits on record keep their numbers, new ones follow on (C-79 …). Word documents remember their numbering. The other side's numbers (R-1, RL-2 …) stay theirs in every submission.",
   "name": "Paris"
 }
