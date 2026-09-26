@@ -1,8 +1,8 @@
 {
-  "version": "0.9.28-beta",
-  "build": 33,
+  "version": "0.9.32-beta",
+  "build": 34,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.28-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.32-beta.exe",
   "minimumSystemVersion": "10.0.17763",
-  "notes": "LitArbi 0.9.28-beta “Paris” (build 33) — LibreOffice Writer add-in, storage settings, Windows 10.\n• New: LibreOffice Writer add-in (Settings → Add-ins): a LitArbi toolbar and menu in Writer to cite exhibits, insert the List of Exhibits, set the citation format and toggle bold — same exhibit file and numbering as the Word add-in.\n• Settings → Storage now offers the same providers as the Mac (Local, own server, Nextcloud/WebDAV, SharePoint, Azure Blob, Amazon S3); passwords and keys are kept in the Windows Credential Manager.\n• Windows 10: every icon now has a Windows 10 equivalent; dark title bars also on older Windows 10 versions.\n• Builds 31–32: Windows 11 design, native ARM64, Windows 11 dialogs and About."
+  "notes": "LitArbi 0.9.32-beta “Paris” (build 34) — shared matters on the LitArbi Server, end-to-end encryption, per-user install.\n• New: share a matter with your team on your firm's LitArbi Server (Settings → LitArbi Server). It adds two-step sign-in; Share, Invite and Members; Open Shared and Join a Shared Matter; the ‘On the LitArbi Server’ list in the matter overview; a cloud per exhibit; and a sync status line. It uses the same server and data as the Mac.\n• Shared matters are end-to-end encrypted, with keys, invitation codes and a firm recovery key. The server never sees your documents.\n• Exhibit numbering is locked while someone else renumbers. Restoring a backup over a shared matter is refused.\n• The licence window is redesigned. Invited guests can join another firm's matter free as a guest.\n• About shows the version, build, x64/ARM64, the Windows version and the licence holder, with Copy Details.\n• LitArbi now installs into your user profile. It needs no administrator rights and works with roaming profiles. An older install under Program Files is removed.\n• Setup offers to close Word and retry when installing the Word add-in.\n• Build 33: LibreOffice Writer add-in."
 }
