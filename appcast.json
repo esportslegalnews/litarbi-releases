@@ -1,8 +1,8 @@
 {
-  "version": "0.9.32-beta",
-  "build": 136,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.32-beta/LitArbi-0.9.32.zip",
+  "version": "0.9.33-beta",
+  "build": 137,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.33-beta/LitArbi-0.9.33.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Shared matters onto a second computer in one click (matter overview ▸ On the LitArbi Server ▸ Download); green, orange, blue and red clouds show where each exhibit stands — red when a download failed, with the reason.",
+  "notes": "• Sign in on another computer and LitArbi asks to sync your matters: those on the server are copied here, those only on this computer can go onto the server. New shared matters are offered as they appear; File ▸ Sync Matters with the LitArbi Server… asks again.",
   "name": "Paris"
 }
