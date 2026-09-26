@@ -1,8 +1,8 @@
 {
-  "version": "0.9.31-beta",
-  "build": 135,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.31-beta/LitArbi-0.9.31.zip",
+  "version": "0.9.32-beta",
+  "build": 136,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.32-beta/LitArbi-0.9.32.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Invite co-counsel, experts and the client (guest accounts, free for invited matters); join other firms' servers next to your own; end-to-end encrypted matters with one-time codes; a new licence window. Needs LitArbi Server 1.1.",
+  "notes": "• Shared matters onto a second computer in one click (matter overview ▸ On the LitArbi Server ▸ Download); green, orange, blue and red clouds show where each exhibit stands — red when a download failed, with the reason.",
   "name": "Paris"
 }
