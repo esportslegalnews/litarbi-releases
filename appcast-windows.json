@@ -1,8 +1,8 @@
 {
-  "version": "0.9.32-beta",
-  "build": 34,
+  "version": "0.9.33-beta",
+  "build": 35,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.32-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.33-beta.exe",
   "minimumSystemVersion": "10.0.17763",
-  "notes": "LitArbi 0.9.32-beta “Paris” (build 34) — shared matters on the LitArbi Server, end-to-end encryption, per-user install.\n• New: share a matter with your team on your firm's LitArbi Server (Settings → LitArbi Server). It adds two-step sign-in; Share, Invite and Members; Open Shared and Join a Shared Matter; the ‘On the LitArbi Server’ list in the matter overview; a cloud per exhibit; and a sync status line. It uses the same server and data as the Mac.\n• Shared matters are end-to-end encrypted, with keys, invitation codes and a firm recovery key. The server never sees your documents.\n• Exhibit numbering is locked while someone else renumbers. Restoring a backup over a shared matter is refused.\n• The licence window is redesigned. Invited guests can join another firm's matter free as a guest.\n• About shows the version, build, x64/ARM64, the Windows version and the licence holder, with Copy Details.\n• LitArbi now installs into your user profile. It needs no administrator rights and works with roaming profiles. An older install under Program Files is removed.\n• Setup offers to close Word and retry when installing the Word add-in.\n• Build 33: LibreOffice Writer add-in."
+  "notes": "LitArbi 0.9.33-beta “Paris” (build 35) — Sync with the LitArbi Server.\n• Signing in now leads straight to your matters. LitArbi offers to copy your matters on the LitArbi Server to this PC and to put this PC's matters on the server, so your Mac and your PCs have the same matters.\n• It asks after signing in and after joining another firm's server. It also asks at start and when LitArbi comes back to the front, but only about matters it hasn't asked about before.\n• New: File → Sync Matters with the LitArbi Server… and a sync button in the matter overview ask about everything at any time.\n• Your own end-to-end encrypted matters open on your other computers without an invitation code.\n• Build 34: shared matters on the LitArbi Server, end-to-end encryption, redesigned licence window, per-user install, closing Word during setup."
 }
