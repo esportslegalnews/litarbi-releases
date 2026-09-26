@@ -1,20 +1,20 @@
 {
-  "version": "0.9.34-beta",
-  "build": 36,
+  "version": "0.9.36-beta",
+  "build": 37,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.34-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.36-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.34-beta-win-x64.zip",
-      "sha256": "56f1a7660b44cc22ad8d5b32bf15ef8261a390f3e151c023e155f9a44eaebb3b",
-      "size": 14568168
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.36-beta-win-x64.zip",
+      "sha256": "20ffe23bd86fa4f1a1a211f3310365b3437837165c6b9ad4c8aeb685e3e92abf",
+      "size": 14624957
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.34-beta-win-arm64.zip",
-      "sha256": "85280dbb53261eabab5895cd573065b7c9a1237f4b93572b9d2a6bb112d38ae2",
-      "size": 14104554
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.36-beta-win-arm64.zip",
+      "sha256": "0278b9fbfa78c91b4a66f89c4a64c8db4b3e942647f4dada1e7fa7fe27b2e42e",
+      "size": 14161362
     }
   },
-  "notes": "LitArbi 0.9.34-beta “Paris” (build 36) — a numbering per submission, and updates in place.\n• New: one matter, many submissions. The Memorandum, the Notice of Dispute and the Statement of Claim each keep their own exhibit numbers. Submission → Numbering switches between them and creates new ones.\n• A later submission can continue an earlier one: exhibits numbered there keep their numbers (shown in grey), and new exhibits follow on. It can also continue after numbers given outside LitArbi (e.g. C-78).\n• The other side's numbers stay theirs: R-5 or RL-2 show in every submission and are never renumbered.\n• Word asks once per document which submission it belongs to. Update from Brief can keep a filed submission's numbers. The List of Exhibits can show only the new exhibits.\n• Updates now install themselves: LitArbi downloads the update in the background, checks it, and installs it when you click Relaunch Now or when you quit. No installer any more (from this build on).\n• Build 35: Sync with the LitArbi Server after signing in."
+  "notes": "LitArbi 0.9.36-beta “Paris” (build 37): backups, and the server's history.\n• New: Settings → Backup. Every matter on this PC, with all its files, is copied daily into a folder you choose (external disk, NAS, OneDrive, Dropbox or Google Drive). The copy is encrypted with your backup password, and each file is stored only once. The backups can be restored on any PC or Mac: File → Restore Matters from a Backup…\n• LitArbi checks whether File History or Windows Backup covers your matters. By default it doesn't, because the matters live in AppData. A matter that exists only on this PC now says so in the window's footer, and LitArbi reminds you once a week until a backup is set up.\n• New for shared matters: Matter → Recently Deleted on the Server… and Exhibit → History on the Server… (Ctrl+Alt+Y, also in the right-click menu). They bring back what was deleted for good, or an earlier version of an exhibit, on every computer. This needs a LitArbi Server 1.2 or later.\n• A shared matter now carries its numbering conventions, so LitArbi Web and every computer number exhibits the same way.\n• Fixed: the Numbering button on the Submission tab has its icon again.\n• Build 36: a numbering per submission, and updates that install themselves."
 }
