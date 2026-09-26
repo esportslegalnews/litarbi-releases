@@ -1,8 +1,8 @@
 {
-  "version": "0.9.30-beta",
-  "build": 134,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.30-beta/LitArbi-0.9.30.zip",
+  "version": "0.9.31-beta",
+  "build": 135,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.31-beta/LitArbi-0.9.31.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Shared matters on your firm's own LitArbi Server: share a matter, open a colleague's, work on the same exhibits, numbers and citations — every Mac keeps a full offline copy.",
+  "notes": "• Invite co-counsel, experts and the client (guest accounts, free for invited matters); join other firms' servers next to your own; end-to-end encrypted matters with one-time codes; a new licence window. Needs LitArbi Server 1.1.",
   "name": "Paris"
 }
