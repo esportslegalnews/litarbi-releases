@@ -1,8 +1,8 @@
 {
-  "version": "0.9.37-beta",
-  "build": 141,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.37-beta/LitArbi-0.9.37.zip",
+  "version": "0.9.38-beta",
+  "build": 142,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.38-beta/LitArbi-0.9.38.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Clients & Matters, as on Windows: refresh the list and Join a Shared Matter… at the top, Import Shared Matter… at the bottom, and clear symbols for the matters on your LitArbi Server.",
+  "notes": "• The LibreOffice extension and the Word macro cite and renumber each document in its own numbering: numbers on record and the other side's are kept.\n• LibreOffice: Update and Refresh replace the List of Exhibits instead of adding a second one.\n• After a sync, duplicate exhibit numbers are checked in every numbering, not only the main one.",
   "name": "Paris"
 }
