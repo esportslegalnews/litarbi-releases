@@ -1,8 +1,20 @@
 {
-  "version": "0.9.33-beta",
-  "build": 35,
+  "version": "0.9.34-beta",
+  "build": 36,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.33-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.34-beta.exe",
   "minimumSystemVersion": "10.0.17763",
-  "notes": "LitArbi 0.9.33-beta “Paris” (build 35) — Sync with the LitArbi Server.\n• Signing in now leads straight to your matters. LitArbi offers to copy your matters on the LitArbi Server to this PC and to put this PC's matters on the server, so your Mac and your PCs have the same matters.\n• It asks after signing in and after joining another firm's server. It also asks at start and when LitArbi comes back to the front, but only about matters it hasn't asked about before.\n• New: File → Sync Matters with the LitArbi Server… and a sync button in the matter overview ask about everything at any time.\n• Your own end-to-end encrypted matters open on your other computers without an invitation code.\n• Build 34: shared matters on the LitArbi Server, end-to-end encryption, redesigned licence window, per-user install, closing Word during setup."
+  "packages": {
+    "x64": {
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.34-beta-win-x64.zip",
+      "sha256": "56f1a7660b44cc22ad8d5b32bf15ef8261a390f3e151c023e155f9a44eaebb3b",
+      "size": 14568168
+    },
+    "arm64": {
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.34-beta-win-arm64.zip",
+      "sha256": "85280dbb53261eabab5895cd573065b7c9a1237f4b93572b9d2a6bb112d38ae2",
+      "size": 14104554
+    }
+  },
+  "notes": "LitArbi 0.9.34-beta “Paris” (build 36) — a numbering per submission, and updates in place.\n• New: one matter, many submissions. The Memorandum, the Notice of Dispute and the Statement of Claim each keep their own exhibit numbers. Submission → Numbering switches between them and creates new ones.\n• A later submission can continue an earlier one: exhibits numbered there keep their numbers (shown in grey), and new exhibits follow on. It can also continue after numbers given outside LitArbi (e.g. C-78).\n• The other side's numbers stay theirs: R-5 or RL-2 show in every submission and are never renumbered.\n• Word asks once per document which submission it belongs to. Update from Brief can keep a filed submission's numbers. The List of Exhibits can show only the new exhibits.\n• Updates now install themselves: LitArbi downloads the update in the background, checks it, and installs it when you click Relaunch Now or when you quit. No installer any more (from this build on).\n• Build 35: Sync with the LitArbi Server after signing in."
 }
