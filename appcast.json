@@ -1,8 +1,8 @@
 {
-  "version": "0.9.35-beta",
-  "build": 139,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.35-beta/LitArbi-0.9.35.zip",
+  "version": "0.9.36-beta",
+  "build": 140,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.36-beta/LitArbi-0.9.36.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Backups without a server: Settings ▸ Backup copies every matter with all its files, encrypted with your password, to an external disk, a NAS or a cloud-drive folder — daily, each file once; restore on any Mac. LitArbi warns when a matter exists only on this Mac and checks Time Machine. • Shared matters: Matter ▸ Recently Deleted on the Server… and Exhibit ▸ History on the Server… bring back deleted exhibits and earlier versions (LitArbi Server 1.2).",
+  "notes": "• Fixed: LitArbi 0.9.32–0.9.35 could quit right after its start for everyone signed in to a LitArbi Server (the matter overview waited for the server). • Shared matters number alike everywhere: the numbering conventions (type codes such as CL-/CWS-, per-party and manual numbering) travel with the matter to every colleague and to LitArbi Web, where each submission's numbering can be switched (LitArbi Server 1.3).",
   "name": "Paris"
 }
