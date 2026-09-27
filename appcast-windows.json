@@ -1,20 +1,20 @@
 {
-  "version": "0.9.39-beta",
-  "build": 44,
+  "version": "0.9.41-beta",
+  "build": 45,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.39-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.41-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.39-beta-win-x64.zip",
-      "sha256": "c5bf63d3cc906abd01faad266fda40d46d7a5a713b30c0bac1ecaf9a93149ef3",
-      "size": 15208228
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.41-beta-win-x64.zip",
+      "sha256": "27a4c4ef8f21134659c38507b288ba0d5af65a825bece5eab0a80070a221d56e",
+      "size": 15217240
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.39-beta-win-arm64.zip",
-      "sha256": "3c8ada60658e636883ae42cee78cb1e0f055f686f44e712cf5d2cb64728abe6f",
-      "size": 14702901
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.41-beta-win-arm64.zip",
+      "sha256": "8d7ea6da49c22105f958854b60a5bdce23801387d3071939a17fcde1497376ce",
+      "size": 14711940
     }
   },
-  "notes": "LitArbi 0.9.39-beta “Paris” (build 44): menus and ribbon exactly as on the Mac.\n• The menu bar and the ribbon now come from the Mac's own description: the same menus, groups, order and ribbon buttons, with the Windows wording in English, German and French.\n• Ribbon colours as on the Mac (the Exhibit group is blue), and Usage is now its own ribbon tab.\n• The search box sits in the title-bar row beside the menus.\n• Windows shortcuts: F2 renames, Ctrl+H finds and replaces in titles, Alt+Shift+Up/Down moves an exhibit, F5 syncs, Alt+Enter edits the exhibit, Ctrl+Alt+Shift+N makes a new matter. AltGr keeps typing @ € { } [ ]."
+  "notes": "LitArbi 0.9.41-beta “Paris” (build 45): in step with the Mac 0.9.41.\n• The Sidebar and Inspector buttons in the ribbon show sidebar icons, as on the Mac.\n• Your licence is checked while LitArbi stays open (every 12 hours and after sleep). If a renewal payment fails, LitArbi tells you once a day, keeps working until the grace date and offers Update Payment Method…; the licence window shows “Payment failed”.\n• If the subscription date has passed, the licence window first asks the server whether it was renewed before saying “expired”.\n• Settings ▸ Citation: the citation font is chosen from a list of the fonts on this PC (including Office's fonts); Settings uses wider fields and remembers its window size."
 }
