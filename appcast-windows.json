@@ -1,20 +1,20 @@
 {
   "version": "0.9.39-beta",
-  "build": 41,
+  "build": 42,
   "name": "Paris",
   "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.39-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.39-beta-win-x64.zip",
-      "sha256": "6a00b38b1427b580064ec3c006de4e09aa698e1cee541427188192bfc3f15b8c",
-      "size": 15180494
+      "sha256": "1d24e3c0a5492b892b710ecba1283b2c3a3b1824c5a59cd85ae7a3c0e94d6890",
+      "size": 15182517
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.39-beta-win-arm64.zip",
-      "sha256": "674525792642b4dc1f46d3543c1ecf2aedc80a14fc5f6e91348e9b981c3eb504",
-      "size": 14675180
+      "sha256": "4b8b53caa01ab25cc7f71c2fe1e5f17243b57aa452a37345370f7d83874463f2",
+      "size": 14677193
     }
   },
-  "notes": "LitArbi 0.9.39-beta “Paris” (build 41): buy inside the app, and fixes from the first testers.\n• New: Help → Buy a Licence… opens the checkout right inside LitArbi. After the payment LitArbi activates itself, with no key to copy. It is also offered to guests and when a licence has ended. The key also arrives by email, for your second computer.\n• Fixed: the licence key can be pasted with Ctrl+V. This also works when the copied text has a line break around it.\n• Fixed: OCR finds the PDF of an exhibit even when it was added in the Files tab, and explains when there is nothing to recognise. OCR runs on your PC and needs no API key.\n• Backups and the Word exhibit list: when Windows Security's \"Controlled folder access\" keeps LitArbi out of the Documents folder, LitArbi now says so and explains where to allow it.\n• The ribbon colours are the same as on the Mac again, and the window's title bar, ribbon and sidebar take on the translucent Windows 11 look (Mica), as in Word.\n• Build 38: the Word and Writer add-ins follow every numbering."
+  "notes": "LitArbi 0.9.39-beta “Paris” (build 42): a window that follows Windows, like the Mac follows macOS.\n• Dark mode switches live: change Windows' app mode (Settings → Personalisation → Colours) and LitArbi follows at once, as on the Mac. The accent colour and transparency follow too.\n• The ribbon is now a raised card on the translucent Windows 11 background (Mica), as in Word. Menu, tabs and ribbon are clearly separate layers.\n• Mica now also works in virtual machines (Parallels, VMware) and over Remote Desktop, like Word.\n• Fixed: in full screen (maximized) the menu bar, the window buttons and the status bar were partly cut off.\n• Settings → Window background applies at once.\n• Build 39–41: buy a licence inside the app, Ctrl+V for the licence key, clearer OCR and backup messages."
 }
