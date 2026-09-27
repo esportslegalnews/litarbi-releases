@@ -1,20 +1,20 @@
 {
-  "version": "0.9.42-beta",
-  "build": 47,
+  "version": "0.9.43-beta",
+  "build": 48,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.42-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.43-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.42-beta-win-x64.zip",
-      "sha256": "88b0e525785ac6af0d627ef08e64bb8d177b371645dc2ca2ff034a08142fe712",
-      "size": 15226471
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.43-beta-win-x64.zip",
+      "sha256": "6e94b744f612e5e0ff9acb4939bec72c6b693af82c843c9bd8410ddfa2498709",
+      "size": 15233072
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.42-beta-win-arm64.zip",
-      "sha256": "a153c9f9fcbb9d98823c98383796efcfd8c60e787e56def4631a46c9403c4264",
-      "size": 14721164
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.43-beta-win-arm64.zip",
+      "sha256": "2f6842b76aa0080a0d5b92822230c3ab323521a35e7ff5aaa63b20d7ef49c780",
+      "size": 14727763
     }
   },
-  "notes": "LitArbi 0.9.42-beta “Paris” (build 47): fixes.\n• Starting after an update is quick again: choosing “Install When I Quit” and later “Relaunch Now” no longer puts the update in place twice at the same time, which could hold up quitting and the next start.\n• An empty “Software Update” window could appear while LitArbi quit to install an update, and keep it from closing. If the update can't be started while quitting, LitArbi now says so at the next start and tries again later.\n• Build 46: Submission ▸ Restore Citation Links; early-adopter offers for beta testers."
+  "notes": "LitArbi 0.9.43-beta “Paris” (build 48): a new Settings window, and Restore Citation Links keeps your additions.\n• Settings redesigned: each page has its title, settings are grouped in sections as on the Mac (Appearance, Matters, Citation templates, Formatting, Footnotes, List of Exhibits, AI providers …) on clean cards, API keys are shown as dots, and every page has its own icon.\n• Restore Citation Links also relinks footnotes where you added your own words after a citation (“…, para. 2.1.17 and para. 2.1.23”, “…, Note 13”): the citation is linked, your words stay as they are — also after Update Exhibits from Brief.\n• Citations written into footnotes keep the size of your footnote style (e.g. 9 pt) instead of the body size."
 }
