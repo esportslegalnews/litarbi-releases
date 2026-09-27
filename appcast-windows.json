@@ -1,20 +1,20 @@
 {
-  "version": "0.9.41-beta",
-  "build": 45,
+  "version": "0.9.42-beta",
+  "build": 46,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.41-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.42-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.41-beta-win-x64.zip",
-      "sha256": "27a4c4ef8f21134659c38507b288ba0d5af65a825bece5eab0a80070a221d56e",
-      "size": 15217240
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.42-beta-win-x64.zip",
+      "sha256": "4faa0783461b2f05092db56f26155ee0a615500fe51e253cfc332be5778e2ac3",
+      "size": 15225173
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.41-beta-win-arm64.zip",
-      "sha256": "8d7ea6da49c22105f958854b60a5bdce23801387d3071939a17fcde1497376ce",
-      "size": 14711940
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.42-beta-win-arm64.zip",
+      "sha256": "c239645cabdd3447e7aab485a31e2b8d68da33e4809554d81b366ca2842727f1",
+      "size": 14719863
     }
   },
-  "notes": "LitArbi 0.9.41-beta “Paris” (build 45): in step with the Mac 0.9.41.\n• The Sidebar and Inspector buttons in the ribbon show sidebar icons, as on the Mac.\n• Your licence is checked while LitArbi stays open (every 12 hours and after sleep). If a renewal payment fails, LitArbi tells you once a day, keeps working until the grace date and offers Update Payment Method…; the licence window shows “Payment failed”.\n• If the subscription date has passed, the licence window first asks the server whether it was renewed before saying “expired”.\n• Settings ▸ Citation: the citation font is chosen from a list of the fonts on this PC (including Office's fonts); Settings uses wider fields and remembers its window size."
+  "notes": "LitArbi 0.9.42-beta “Paris” (build 46): Restore Citation Links.\n• Submission ▸ Restore Citation Links: citations that lost their links on the way into a document (made from a firm template, stored on SharePoint, run through a clean-up tool) are linked again. Only footnotes that read exactly as LitArbi cites an exhibit are touched, nothing is renumbered, and your own footnotes stay as they are. Update Exhibits from Brief picks them up too.\n• Beta testers with an early-adopter offer see it in the licence window, with Upgrade…; the discount is applied on the pricing page."
 }
