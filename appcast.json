@@ -1,9 +1,9 @@
 {
-  "version": "0.9.39-beta",
-  "build": 143,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.39-beta/LitArbi-0.9.39.zip",
+  "version": "0.9.40-beta",
+  "build": 144,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.40-beta/LitArbi-0.9.40.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Buy a Licence…: the plans and Paddle's checkout right inside LitArbi — after the payment LitArbi activates itself. Also in the licence window and, for guests, wherever a licence is needed.",
+  "notes": "• Citation font: Calibri, Garamond, Aptos and the other Office fonts are now in the list. Settings use the window's width, and long labels and notes wrap. Settings, Help and New Matter also work with only the matter overview open.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.39-beta/LitArbi-0.9.39.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.40-beta/LitArbi-0.9.40.dmg"
 }
