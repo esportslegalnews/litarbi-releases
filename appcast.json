@@ -1,9 +1,9 @@
 {
-  "version": "0.9.43-beta",
-  "build": 147,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.43-beta/LitArbi-0.9.43.zip",
+  "version": "0.9.44-beta",
+  "build": 148,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.44-beta/LitArbi-0.9.44.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Restore Citation Links now also relinks footnotes with several exhibits and your own additions (\"…, Note 13\"). Citations keep the footnote style's size instead of 12 pt.",
+  "notes": "0.9.44-beta 148 Paris\n• Exhibit types in German and French everywhere — inspector, sidebar, Insert Citation pane, import, Settings, bundle wizard and exhibit report. \"Order\" now reads Beschluss / Ordonnance.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.43-beta/LitArbi-0.9.43.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.44-beta/LitArbi-0.9.44.dmg"
 }
