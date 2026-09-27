@@ -1,20 +1,20 @@
 {
   "version": "0.9.42-beta",
-  "build": 46,
+  "build": 47,
   "name": "Paris",
   "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.42-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.42-beta-win-x64.zip",
-      "sha256": "4faa0783461b2f05092db56f26155ee0a615500fe51e253cfc332be5778e2ac3",
-      "size": 15225173
+      "sha256": "88b0e525785ac6af0d627ef08e64bb8d177b371645dc2ca2ff034a08142fe712",
+      "size": 15226471
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.42-beta-win-arm64.zip",
-      "sha256": "c239645cabdd3447e7aab485a31e2b8d68da33e4809554d81b366ca2842727f1",
-      "size": 14719863
+      "sha256": "a153c9f9fcbb9d98823c98383796efcfd8c60e787e56def4631a46c9403c4264",
+      "size": 14721164
     }
   },
-  "notes": "LitArbi 0.9.42-beta “Paris” (build 46): Restore Citation Links.\n• Submission ▸ Restore Citation Links: citations that lost their links on the way into a document (made from a firm template, stored on SharePoint, run through a clean-up tool) are linked again. Only footnotes that read exactly as LitArbi cites an exhibit are touched, nothing is renumbered, and your own footnotes stay as they are. Update Exhibits from Brief picks them up too.\n• Beta testers with an early-adopter offer see it in the licence window, with Upgrade…; the discount is applied on the pricing page."
+  "notes": "LitArbi 0.9.42-beta “Paris” (build 47): fixes.\n• Starting after an update is quick again: choosing “Install When I Quit” and later “Relaunch Now” no longer puts the update in place twice at the same time, which could hold up quitting and the next start.\n• An empty “Software Update” window could appear while LitArbi quit to install an update, and keep it from closing. If the update can't be started while quitting, LitArbi now says so at the next start and tries again later.\n• Build 46: Submission ▸ Restore Citation Links; early-adopter offers for beta testers."
 }
