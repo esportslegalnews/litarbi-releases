@@ -4,5 +4,6 @@
   "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.39-beta/LitArbi-0.9.39.zip",
   "minimumSystemVersion": "14.0",
   "notes": "• Buy a Licence…: the plans and Paddle's checkout right inside LitArbi — after the payment LitArbi activates itself. Also in the licence window and, for guests, wherever a licence is needed.",
-  "name": "Paris"
+  "name": "Paris",
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.39-beta/LitArbi-0.9.39.dmg"
 }
