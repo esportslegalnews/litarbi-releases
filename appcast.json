@@ -1,9 +1,9 @@
 {
-  "version": "0.9.42-beta",
-  "build": 146,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.42-beta/LitArbi-0.9.42.zip",
+  "version": "0.9.43-beta",
+  "build": 147,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.43-beta/LitArbi-0.9.43.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• Restore Citation Links: citations that lost their links (firm template, SharePoint) are linked again. Beta testers: 30% off the first year with Upgrade… in the licence window.",
+  "notes": "• Restore Citation Links now also relinks footnotes with several exhibits and your own additions (\"…, Note 13\"). Citations keep the footnote style's size instead of 12 pt.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.42-beta/LitArbi-0.9.42.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.43-beta/LitArbi-0.9.43.dmg"
 }
