@@ -1,9 +1,9 @@
 {
-  "version": "0.9.41-beta",
-  "build": 145,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.41-beta/LitArbi-0.9.41.zip",
+  "version": "0.9.42-beta",
+  "build": 146,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.42-beta/LitArbi-0.9.42.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "• The licence is checked every 12 hours and after sleep. A failed renewal payment gets 7 days' grace, with a notice and a button to update the card. No more false \"expired\" after a renewal.",
+  "notes": "• Restore Citation Links: citations that lost their links (firm template, SharePoint) are linked again. Beta testers: 30% off the first year with Upgrade… in the licence window.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.41-beta/LitArbi-0.9.41.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.42-beta/LitArbi-0.9.42.dmg"
 }
