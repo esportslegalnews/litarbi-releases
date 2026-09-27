@@ -1,20 +1,20 @@
 {
   "version": "0.9.39-beta",
-  "build": 43,
+  "build": 44,
   "name": "Paris",
   "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.39-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.39-beta-win-x64.zip",
-      "sha256": "c4ab6b287a951fea0eb46dc267adb52ac65a495f2daf391a593e8a6a02411c86",
-      "size": 15182849
+      "sha256": "c5bf63d3cc906abd01faad266fda40d46d7a5a713b30c0bac1ecaf9a93149ef3",
+      "size": 15208228
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.39-beta-win-arm64.zip",
-      "sha256": "835a890ee794cf14249c72cd96535dd629421ddd5e542be8fbd250d19b62b5e3",
-      "size": 14677539
+      "sha256": "3c8ada60658e636883ae42cee78cb1e0f055f686f44e712cf5d2cb64728abe6f",
+      "size": 14702901
     }
   },
-  "notes": "LitArbi 0.9.39-beta “Paris” (build 43): clearer menus and ribbon tabs.\n• The ribbon tabs (Home, Document, Submission, Matter) are now a switcher like on the Mac, no longer plain text like the menu bar above.\n• Menus show their groups clearly again, as on the Mac. Exhibit → History on the Server… sits in the first group, as on the Mac.\n• Build 42: dark mode switches live, the ribbon as a card on the translucent Windows 11 background, Mica also in virtual machines and over Remote Desktop, and nothing cut off when maximized."
+  "notes": "LitArbi 0.9.39-beta “Paris” (build 44): menus and ribbon exactly as on the Mac.\n• The menu bar and the ribbon now come from the Mac's own description: the same menus, groups, order and ribbon buttons, with the Windows wording in English, German and French.\n• Ribbon colours as on the Mac (the Exhibit group is blue), and Usage is now its own ribbon tab.\n• The search box sits in the title-bar row beside the menus.\n• Windows shortcuts: F2 renames, Ctrl+H finds and replaces in titles, Alt+Shift+Up/Down moves an exhibit, F5 syncs, Alt+Enter edits the exhibit, Ctrl+Alt+Shift+N makes a new matter. AltGr keeps typing @ € { } [ ]."
 }
