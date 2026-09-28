@@ -1,20 +1,20 @@
 {
-  "version": "0.9.47-beta",
-  "build": 51,
+  "version": "0.9.51-beta",
+  "build": 52,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.47-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.51-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.47-beta-win-x64.zip",
-      "sha256": "d3830e500982e36e36bf3088e8349836698a92ef2d14e664ce45c531eb13a32d",
-      "size": 15500233
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.51-beta-win-x64.zip",
+      "sha256": "651acf565eb2dff1b2deeef4c06a50c56128bf7315a4d0f7fee013c7b2bc93e7",
+      "size": 15531146
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.47-beta-win-arm64.zip",
-      "sha256": "304b02c0fe2a04d7dde399ababbba30a342a7c2bde5130a350b7244017c5dbb9",
-      "size": 14994918
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.51-beta-win-arm64.zip",
+      "sha256": "8b677425afd87a4f25cc59395e403933e264f6b4a903389db62dacc3b4f21080",
+      "size": 15025833
     }
   },
-  "notes": "LitArbi 0.9.47-beta “Paris” (build 51): the Index of Authorities and moot court mode.\n• Submission ▸ Insert Index of Authorities: every legal authority your submission cites — treaties, books, articles, court decisions, awards — with the short form it is cited as and the paragraphs or pages that cite it. Update Exhibits from Brief keeps it current.\n• Three new document types: Treaty / Legislation, Book / Commentary and Court Decision. The inspector's short-name field is now called “Cited as”.\n• Moot court mode: free season licences for moot teams (Vis, Jessup, Henry Dunant, SAM, FDI, John H. Jackson, Manfred Lachs). New Moot Matter sets up the competition's citation forms and index; the competition's rules on AI are shown before AI is used."
+  "notes": "LitArbi 0.9.51-beta “Paris” (build 52): Prepare for Filing, honest PDF conversion, Update List of Exhibits.\n• Submission ▸ Prepare for Filing…: saves a filing copy of your brief — citations as plain text, author and personal information removed, tracked changes and comments dealt with, optionally a PDF — then checks it for names and file paths that give away who wrote it. The original is never changed.\n• Bundles and e-briefs say when a document couldn't be converted to PDF, and why — and warn before they start when no converter is installed.\n• Submission ▸ Update List of Exhibits rebuilds the list (and the Index of Authorities) in place without renumbering.\n• Case names are in italics in the List of Exhibits and the Index of Authorities; names like “Gas Natural SDG, S.A. v. Argentine Republic” are recognised in full.\n• Clean Metadata also removes the list of people who commented or edited."
 }
