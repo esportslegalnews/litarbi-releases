@@ -1,9 +1,9 @@
 {
-  "version": "0.9.48-beta",
-  "build": 152,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.48-beta/LitArbi-0.9.48.zip",
+  "version": "0.9.49-beta",
+  "build": 153,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.49-beta/LitArbi-0.9.49.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.48-beta 152 Paris\n• Prepare for Filing (Submission menu): a filing copy with plain-text citations and no personal information, checked for names, file paths, hidden text, comments and tracked changes. Moot teams: team, university and your name are looked for everywhere.",
+  "notes": "0.9.49-beta 153 Paris\n• Bundles and e-briefs convert Office documents with LibreOffice and say beforehand, and file by file afterwards, what couldn't be converted and why.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.48-beta/LitArbi-0.9.48.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.49-beta/LitArbi-0.9.49.dmg"
 }
