@@ -1,9 +1,9 @@
 {
   "version": "0.9.53-beta",
-  "build": 157,
+  "build": 158,
   "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.53-beta/LitArbi-0.9.53.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.53-beta 157 Paris\n• Bundling no longer freezes the app (Word's PDF in the background, relink progress); videos and other non-PDF exhibits linked; paragraph numbers like 2.1.17 found.",
+  "notes": "0.9.53-beta 158 Paris\n• Moot Court Edition: with a moot licence, LitArbi opens with its own splash (competitions, season, team).\n• Bundling no longer freezes the app (Word's PDF in the background, relink progress); videos and other non-PDF exhibits linked; paragraph numbers like 2.1.17 found.",
   "name": "Paris",
   "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.53-beta/LitArbi-0.9.53.dmg"
 }
