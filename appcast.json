@@ -1,9 +1,9 @@
 {
-  "version": "0.9.51-beta",
-  "build": 155,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.51-beta/LitArbi-0.9.51.zip",
+  "version": "0.9.52-beta",
+  "build": 156,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.52-beta/LitArbi-0.9.52.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.51-beta 155 Paris\n• Update List of Exhibits (Submission menu) without renumbering; case names in italics in the List of Exhibits and the Index of Authorities, including names with commas.",
+  "notes": "0.9.52-beta 156 Paris\n• Bundle Exhibits ticks the exhibits your submission cites and saves the Word submission as a hyperlinked PDF (relative links).",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.51-beta/LitArbi-0.9.51.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.52-beta/LitArbi-0.9.52.dmg"
 }
