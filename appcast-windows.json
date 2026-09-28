@@ -1,20 +1,20 @@
 {
-  "version": "0.9.45-beta",
-  "build": 49,
+  "version": "0.9.46-beta",
+  "build": 50,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.45-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.46-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.45-beta-win-x64.zip",
-      "sha256": "96c96d5731a53b994e3ecdbcd75c70a5d169afc7999a46dda611156da3adf096",
-      "size": 15261340
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.46-beta-win-x64.zip",
+      "sha256": "79b84aced81d5a0b1ddf8c01e505fa60612524a7b39a31083650bad17d98c6c6",
+      "size": 15471352
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.45-beta-win-arm64.zip",
-      "sha256": "46bcf4735947f569c608e90739ce2a5a93fa74f1b4c0ab7fb6b9a8252eb1f174",
-      "size": 14756016
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.46-beta-win-arm64.zip",
+      "sha256": "5f22a58180c894116ecfd79b88bb66084030282286a4730f8ace21032d6b0dc7",
+      "size": 14966034
     }
   },
-  "notes": "LitArbi 0.9.45-beta “Paris” (build 49): witness statements and expert reports numbered with their submission.\n• A witness statement or expert report filed with a submission cites in the submission's exhibit numbers; exhibits only it cites follow after the submission's own (Statement C-1 … C-40, the witness statement's own C-41 …). LitArbi asks once which document is which and remembers it — also for new versions saved under another name.\n• Update Exhibits from Brief reads the submission and every document filed with it; a document that isn't open counts with the citations LitArbi last saw in it.\n• Submission ▸ Numbering ▸ Witness Statements and Expert Reports… to see and change which documents belong to a submission, and their order.\n• Exhibit types now show in the app's language (German, French); Settings ▸ General has a default document type."
+  "notes": "LitArbi 0.9.46-beta “Paris” (build 50): LitArbi in Spanish and Russian.\n• Two more languages for the whole app: Español and Русский. Choose one in Settings ▸ General ▸ Language (System, English, Deutsch, Français, Español, Русский); it applies the next time LitArbi starts.\n• Citations, the List of Exhibits and bundles stay in the matter's convention language — a Spanish or Russian screen still cites “Exhibit C-1” in an ICC matter.\n• Two new date styles: Spanish (5 de mayo de 2025) and Russian (5 мая 2025 г.).\n• AI summaries can be written in Spanish or Russian.\n• Ribbon buttons have more room for longer labels.\n• Settings now appear fully in your language (some labels were still English in German and French too)."
 }
