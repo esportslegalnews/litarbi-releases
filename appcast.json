@@ -1,9 +1,9 @@
 {
-  "version": "0.9.50-beta",
-  "build": 154,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.50-beta/LitArbi-0.9.50.zip",
+  "version": "0.9.51-beta",
+  "build": 155,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.51-beta/LitArbi-0.9.51.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.50-beta 154 Paris\n• The citation pane's \"Into:\" menu lists documents opened later, follows the document in front, and keeps your pick.",
+  "notes": "0.9.51-beta 155 Paris\n• Update List of Exhibits (Submission menu) without renumbering; case names in italics in the List of Exhibits and the Index of Authorities, including names with commas.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.50-beta/LitArbi-0.9.50.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.51-beta/LitArbi-0.9.51.dmg"
 }
