@@ -1,9 +1,9 @@
 {
-  "version": "0.9.45-beta",
-  "build": 149,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.45-beta/LitArbi-0.9.45.zip",
+  "version": "0.9.46-beta",
+  "build": 150,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.46-beta/LitArbi-0.9.46.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.45-beta 149 Paris\n• Witness statements and expert reports share their submission's numbering: exhibits only they cite are numbered after the submission's own. Update Exhibits from Brief reads the submission together with them. New: Numbering ▸ Witness Statements and Expert Reports….",
+  "notes": "0.9.46-beta 150 Paris\n• LitArbi in Spanish and Russian — every screen, menu and message. New date styles \"5 de mayo de 2025\" and \"5 мая 2025 г.\". Longer ribbon labels now fit.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.45-beta/LitArbi-0.9.45.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.46-beta/LitArbi-0.9.46.dmg"
 }
