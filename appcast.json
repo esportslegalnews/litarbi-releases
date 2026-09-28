@@ -1,9 +1,9 @@
 {
-  "version": "0.9.52-beta",
-  "build": 156,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.52-beta/LitArbi-0.9.52.zip",
+  "version": "0.9.53-beta",
+  "build": 157,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.53-beta/LitArbi-0.9.53.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.52-beta 156 Paris\n• Bundle Exhibits ticks the exhibits your submission cites and saves the Word submission as a hyperlinked PDF (relative links).",
+  "notes": "0.9.53-beta 157 Paris\n• Bundling no longer freezes the app (Word's PDF in the background, relink progress); videos and other non-PDF exhibits linked; paragraph numbers like 2.1.17 found.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.52-beta/LitArbi-0.9.52.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.53-beta/LitArbi-0.9.53.dmg"
 }
