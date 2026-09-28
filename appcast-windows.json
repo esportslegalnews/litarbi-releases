@@ -1,20 +1,20 @@
 {
-  "version": "0.9.51-beta",
-  "build": 52,
+  "version": "0.9.52-beta",
+  "build": 53,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.51-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.52-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.51-beta-win-x64.zip",
-      "sha256": "651acf565eb2dff1b2deeef4c06a50c56128bf7315a4d0f7fee013c7b2bc93e7",
-      "size": 15531146
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.52-beta-win-x64.zip",
+      "sha256": "d85e2ec9f1c7b0c911f4ebae37c78092df82abc35b95602488ccf2233279a7bc",
+      "size": 15537336
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.51-beta-win-arm64.zip",
-      "sha256": "8b677425afd87a4f25cc59395e403933e264f6b4a903389db62dacc3b4f21080",
-      "size": 15025833
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.52-beta-win-arm64.zip",
+      "sha256": "3292a16a9fb38e7bb87a1590a6f67db097c7dd7c14099bed0670a5aae8d1b249",
+      "size": 15032035
     }
   },
-  "notes": "LitArbi 0.9.51-beta “Paris” (build 52): Prepare for Filing, honest PDF conversion, Update List of Exhibits.\n• Submission ▸ Prepare for Filing…: saves a filing copy of your brief — citations as plain text, author and personal information removed, tracked changes and comments dealt with, optionally a PDF — then checks it for names and file paths that give away who wrote it. The original is never changed.\n• Bundles and e-briefs say when a document couldn't be converted to PDF, and why — and warn before they start when no converter is installed.\n• Submission ▸ Update List of Exhibits rebuilds the list (and the Index of Authorities) in place without renumbering.\n• Case names are in italics in the List of Exhibits and the Index of Authorities; names like “Gas Natural SDG, S.A. v. Argentine Republic” are recognised in full.\n• Clean Metadata also removes the list of people who commented or edited."
+  "notes": "LitArbi 0.9.52-beta “Paris” (build 53): bundles for your submission.\n• Bundle Exhibits asks which Word submission the bundle is for and ticks exactly the exhibits its List of Exhibits shows — not only the ones marked Included.\n• The submission itself goes into the bundle as a PDF, straight from Word, with every citation linked to its exhibit. Choose Submission PDF… still lets you pick your own; × leaves it out.\n• Links to files on your computer are removed from the linked submission — links within it and to the web stay."
 }
