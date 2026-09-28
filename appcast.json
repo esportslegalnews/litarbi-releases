@@ -1,9 +1,9 @@
 {
-  "version": "0.9.44-beta",
-  "build": 148,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.44-beta/LitArbi-0.9.44.zip",
+  "version": "0.9.45-beta",
+  "build": 149,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.45-beta/LitArbi-0.9.45.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.44-beta 148 Paris\n• Exhibit types in German and French everywhere — inspector, sidebar, Insert Citation pane, import, Settings, bundle wizard and exhibit report. \"Order\" now reads Beschluss / Ordonnance.",
+  "notes": "0.9.45-beta 149 Paris\n• Witness statements and expert reports share their submission's numbering: exhibits only they cite are numbered after the submission's own. Update Exhibits from Brief reads the submission together with them. New: Numbering ▸ Witness Statements and Expert Reports….",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.44-beta/LitArbi-0.9.44.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.45-beta/LitArbi-0.9.45.dmg"
 }
