@@ -1,20 +1,20 @@
 {
-  "version": "0.9.46-beta",
-  "build": 50,
+  "version": "0.9.47-beta",
+  "build": 51,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.46-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.47-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.46-beta-win-x64.zip",
-      "sha256": "79b84aced81d5a0b1ddf8c01e505fa60612524a7b39a31083650bad17d98c6c6",
-      "size": 15471352
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.47-beta-win-x64.zip",
+      "sha256": "d3830e500982e36e36bf3088e8349836698a92ef2d14e664ce45c531eb13a32d",
+      "size": 15500233
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.46-beta-win-arm64.zip",
-      "sha256": "5f22a58180c894116ecfd79b88bb66084030282286a4730f8ace21032d6b0dc7",
-      "size": 14966034
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.47-beta-win-arm64.zip",
+      "sha256": "304b02c0fe2a04d7dde399ababbba30a342a7c2bde5130a350b7244017c5dbb9",
+      "size": 14994918
     }
   },
-  "notes": "LitArbi 0.9.46-beta “Paris” (build 50): LitArbi in Spanish and Russian.\n• Two more languages for the whole app: Español and Русский. Choose one in Settings ▸ General ▸ Language (System, English, Deutsch, Français, Español, Русский); it applies the next time LitArbi starts.\n• Citations, the List of Exhibits and bundles stay in the matter's convention language — a Spanish or Russian screen still cites “Exhibit C-1” in an ICC matter.\n• Two new date styles: Spanish (5 de mayo de 2025) and Russian (5 мая 2025 г.).\n• AI summaries can be written in Spanish or Russian.\n• Ribbon buttons have more room for longer labels.\n• Settings now appear fully in your language (some labels were still English in German and French too)."
+  "notes": "LitArbi 0.9.47-beta “Paris” (build 51): the Index of Authorities and moot court mode.\n• Submission ▸ Insert Index of Authorities: every legal authority your submission cites — treaties, books, articles, court decisions, awards — with the short form it is cited as and the paragraphs or pages that cite it. Update Exhibits from Brief keeps it current.\n• Three new document types: Treaty / Legislation, Book / Commentary and Court Decision. The inspector's short-name field is now called “Cited as”.\n• Moot court mode: free season licences for moot teams (Vis, Jessup, Henry Dunant, SAM, FDI, John H. Jackson, Manfred Lachs). New Moot Matter sets up the competition's citation forms and index; the competition's rules on AI are shown before AI is used."
 }
