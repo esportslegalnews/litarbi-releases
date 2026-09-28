@@ -1,9 +1,9 @@
 {
-  "version": "0.9.46-beta",
-  "build": 150,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.46-beta/LitArbi-0.9.46.zip",
+  "version": "0.9.47-beta",
+  "build": 151,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.47-beta/LitArbi-0.9.47.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.46-beta 150 Paris\n• LitArbi in Spanish and Russian — every screen, menu and message. New date styles \"5 de mayo de 2025\" and \"5 мая 2025 г.\". Longer ribbon labels now fit.",
+  "notes": "0.9.47-beta 151 Paris\n• Index of Authorities (Submission menu): grouped, with the short form and the paragraphs that cite each authority, refreshed on Update. New authority types: Treaty / Legislation, Book / Commentary, Court Decision. Moot court mode for seven competitions.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.46-beta/LitArbi-0.9.46.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.47-beta/LitArbi-0.9.47.dmg"
 }
