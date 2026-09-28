@@ -1,20 +1,20 @@
 {
-  "version": "0.9.43-beta",
-  "build": 48,
+  "version": "0.9.45-beta",
+  "build": 49,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.43-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.45-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.43-beta-win-x64.zip",
-      "sha256": "6e94b744f612e5e0ff9acb4939bec72c6b693af82c843c9bd8410ddfa2498709",
-      "size": 15233072
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.45-beta-win-x64.zip",
+      "sha256": "96c96d5731a53b994e3ecdbcd75c70a5d169afc7999a46dda611156da3adf096",
+      "size": 15261340
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.43-beta-win-arm64.zip",
-      "sha256": "2f6842b76aa0080a0d5b92822230c3ab323521a35e7ff5aaa63b20d7ef49c780",
-      "size": 14727763
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.45-beta-win-arm64.zip",
+      "sha256": "46bcf4735947f569c608e90739ce2a5a93fa74f1b4c0ab7fb6b9a8252eb1f174",
+      "size": 14756016
     }
   },
-  "notes": "LitArbi 0.9.43-beta “Paris” (build 48): a new Settings window, and Restore Citation Links keeps your additions.\n• Settings redesigned: each page has its title, settings are grouped in sections as on the Mac (Appearance, Matters, Citation templates, Formatting, Footnotes, List of Exhibits, AI providers …) on clean cards, API keys are shown as dots, and every page has its own icon.\n• Restore Citation Links also relinks footnotes where you added your own words after a citation (“…, para. 2.1.17 and para. 2.1.23”, “…, Note 13”): the citation is linked, your words stay as they are — also after Update Exhibits from Brief.\n• Citations written into footnotes keep the size of your footnote style (e.g. 9 pt) instead of the body size."
+  "notes": "LitArbi 0.9.45-beta “Paris” (build 49): witness statements and expert reports numbered with their submission.\n• A witness statement or expert report filed with a submission cites in the submission's exhibit numbers; exhibits only it cites follow after the submission's own (Statement C-1 … C-40, the witness statement's own C-41 …). LitArbi asks once which document is which and remembers it — also for new versions saved under another name.\n• Update Exhibits from Brief reads the submission and every document filed with it; a document that isn't open counts with the citations LitArbi last saw in it.\n• Submission ▸ Numbering ▸ Witness Statements and Expert Reports… to see and change which documents belong to a submission, and their order.\n• Exhibit types now show in the app's language (German, French); Settings ▸ General has a default document type."
 }
