@@ -1,9 +1,9 @@
 {
-  "version": "0.9.49-beta",
-  "build": 153,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.49-beta/LitArbi-0.9.49.zip",
+  "version": "0.9.50-beta",
+  "build": 154,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.50-beta/LitArbi-0.9.50.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.49-beta 153 Paris\n• Bundles and e-briefs convert Office documents with LibreOffice and say beforehand, and file by file afterwards, what couldn't be converted and why.",
+  "notes": "0.9.50-beta 154 Paris\n• The citation pane's \"Into:\" menu lists documents opened later, follows the document in front, and keeps your pick.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.49-beta/LitArbi-0.9.49.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.50-beta/LitArbi-0.9.50.dmg"
 }
