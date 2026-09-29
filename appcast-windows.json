@@ -1,32 +1,32 @@
 {
-  "version": "0.9.53-beta",
-  "build": 55,
+  "version": "0.9.54-beta",
+  "build": 56,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.53-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.54-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.53-beta-win-x64.zip",
-      "sha256": "faa15b3c0e3cc07de84c999a9e4febfe27a20f4ee1b0ced8c0a88b9c59b312ce",
-      "size": 15559258
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.54-beta-win-x64.zip",
+      "sha256": "391abb941006dd8311f2266751c1d07ab15d14a6e00339f01d58b936e9727df9",
+      "size": 15563929
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.53-beta-win-arm64.zip",
-      "sha256": "3374e8af1c711884a3012f684c256343f359f83dbe73bef2ce013c5a625e2d54",
-      "size": 15053943
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.54-beta-win-arm64.zip",
+      "sha256": "e977af94d64cc48b7e795b17a39f719645e5174c15bbf93ea1971aa7f86c6d88",
+      "size": 15058640
     }
   },
   "msi": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.53-beta-x64.msi",
-      "sha256": "e3f837f42fb4a617e889f3e0414eb09d36b6b872eff832b7029a4ab787c473d2",
-      "size": 11403264
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.54-beta-x64.msi",
+      "sha256": "ca90d9db4bbcf16f8352c51fa0d11dc99e3eac27cf227738675d6f418de37387",
+      "size": 11419648
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.53-beta-arm64.msi",
-      "sha256": "40a23d2f76d5093353c382aeb1ffb7361a0c9aeb947e5e519bee78b367f2f340",
-      "size": 11030528
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.54-beta-arm64.msi",
+      "sha256": "c83a275b5cced460a125d416f338cef2605cb54f722ce8a7e9c3cc136c4fb746",
+      "size": 11042816
     }
   },
-  "notes": "LitArbi 0.9.53-beta “Paris” (build 55): LitArbi for organisations.\n• Installation for all users of a PC from an MSI (Active Directory / Group Policy, Intune, Configuration Manager), with Group Policy templates for updates, licences and the firm's LitArbi Server.\n• Enterprise licence keys: set once by Group Policy, or handed out by the firm's LitArbi Server — no lawyer types a key.\n• The licence window shows who provides the licence; “Get a licence from my firm’s LitArbi Server…” when your firm offers them.\n• Updates can be left to your IT department (notify only) or switched off by policy."
+  "notes": "LitArbi 0.9.54-beta “Paris” (build 56): licences from your firm, as on the Mac.\n• Licences from your firm's LitArbi Server: the same messages as on the Mac, “Check now” asks your firm's server, and two requests at once no longer collide.\n• Group Policy: a key you entered yourself that matches your organisation's key now counts as the organisation's.\n• Moot court licences start with the Moot Court Edition splash.\n• The admin kit for IT is now published next to the installers."
 }
