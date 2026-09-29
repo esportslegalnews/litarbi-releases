@@ -1,9 +1,9 @@
 {
-  "version": "0.9.54-beta",
-  "build": 159,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.54-beta/LitArbi-0.9.54.zip",
+  "version": "0.9.55-beta",
+  "build": 160,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.55-beta/LitArbi-0.9.55.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.54-beta 159 Paris\n• LitArbi for firms: licences from the firm's LitArbi Server 1.4 (at sign-in) and from IT's configuration profile (volume key, lock, server address, update mode).",
+  "notes": "0.9.55-beta 160 Paris\n• The relink after bundling changes only the link addresses (seconds instead of minutes) and runs in the background. Deliver Bundle: Create ZIP works again (one window per bundle), layout fixed, Share… for the ZIP.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.54-beta/LitArbi-0.9.54.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.55-beta/LitArbi-0.9.55.dmg"
 }
