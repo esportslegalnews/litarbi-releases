@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  LitArbi for Mac — sample configuration profile for IT (MDM: Jamf, Intune, Kandji, Mosyle …).
+  The same settings as the Group Policy on Windows. Delete the keys you don't set; replace the example values.
+    UpdateMode    0 automatic · 1 notify only (IT installs new versions) · 2 off
+    LicenseKey    the firm's volume key (LITARBI-…); each Mac activates by itself at its next start
+    LicenseEmail  the email the key belongs to
+    LockLicense   true: nobody can deactivate the organisation's licence or enter another key; the key is shown shortened
+    ServerUrl     the firm's LitArbi Server, pre-filled for signing in (with LitArbi Server 1.4 it provides the licences)
+  In Intune or Jamf you can instead upload just the keys as a "preference file" for the domain com.leoshmatenko.litarbi.
+-->
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>PayloadType</key><string>com.leoshmatenko.litarbi</string>
+      <key>PayloadIdentifier</key><string>com.yourfirm.litarbi.settings</string>
+      <key>PayloadUUID</key><string>7BFAB15D-9F6C-4F1C-9B4D-12E807F4AA0A</string>
+      <key>PayloadVersion</key><integer>1</integer>
+      <key>PayloadDisplayName</key><string>LitArbi</string>
+      <key>UpdateMode</key><integer>1</integer>
+      <key>LicenseKey</key><string>LITARBI-XXXX-XXXX-XXXX-XXXX</string>
+      <key>LicenseEmail</key><string>it@yourfirm.com</string>
+      <key>LockLicense</key><true/>
+      <key>ServerUrl</key><string>https://litarbi.yourfirm.com</string>
+    </dict>
+  </array>
+  <key>PayloadDisplayName</key><string>LitArbi settings</string>
+  <key>PayloadDescription</key><string>Updates, licence and the firm's LitArbi Server for LitArbi on this Mac.</string>
+  <key>PayloadIdentifier</key><string>com.yourfirm.litarbi</string>
+  <key>PayloadOrganization</key><string>Your firm</string>
+  <key>PayloadType</key><string>Configuration</string>
+  <key>PayloadUUID</key><string>B768942C-9452-470C-A74D-7359F021392F</string>
+  <key>PayloadVersion</key><integer>1</integer>
+  <key>PayloadScope</key><string>System</string>
+</dict>
+</plist>
