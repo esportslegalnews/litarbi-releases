@@ -1,20 +1,32 @@
 {
   "version": "0.9.53-beta",
-  "build": 54,
+  "build": 55,
   "name": "Paris",
   "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.53-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.53-beta-win-x64.zip",
-      "sha256": "1bc5b2e09229a6106e08303fcb678b884cce06271698693a3824a611f809d94b",
-      "size": 15540878
+      "sha256": "faa15b3c0e3cc07de84c999a9e4febfe27a20f4ee1b0ced8c0a88b9c59b312ce",
+      "size": 15559258
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.53-beta-win-arm64.zip",
-      "sha256": "a68a8fc2868e5a0757945a5fdf76b66e3a52ebbcc3350db9b2616692a5468f0a",
-      "size": 15035573
+      "sha256": "3374e8af1c711884a3012f684c256343f359f83dbe73bef2ce013c5a625e2d54",
+      "size": 15053943
     }
   },
-  "notes": "LitArbi 0.9.53-beta “Paris” (build 54): the linked submission.\n• Every exhibit in the bundle is linked from the submission — PDFs open at the cited page, other files (videos, spreadsheets) in their own app.\n• Paragraph citations like “para 4.2” now find numbered paragraphs in a column, skipping tables of contents.\n• Saving the submission as PDF from Word no longer freezes the wizard; a progress bar shows while Word works.\n• New option: relink the citations in the open Word submission to the bundled files (relative links), without renumbering."
+  "msi": {
+    "x64": {
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.53-beta-x64.msi",
+      "sha256": "e3f837f42fb4a617e889f3e0414eb09d36b6b872eff832b7029a4ab787c473d2",
+      "size": 11403264
+    },
+    "arm64": {
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.53-beta-arm64.msi",
+      "sha256": "40a23d2f76d5093353c382aeb1ffb7361a0c9aeb947e5e519bee78b367f2f340",
+      "size": 11030528
+    }
+  },
+  "notes": "LitArbi 0.9.53-beta “Paris” (build 55): LitArbi for organisations.\n• Installation for all users of a PC from an MSI (Active Directory / Group Policy, Intune, Configuration Manager), with Group Policy templates for updates, licences and the firm's LitArbi Server.\n• Enterprise licence keys: set once by Group Policy, or handed out by the firm's LitArbi Server — no lawyer types a key.\n• The licence window shows who provides the licence; “Get a licence from my firm’s LitArbi Server…” when your firm offers them.\n• Updates can be left to your IT department (notify only) or switched off by policy."
 }
