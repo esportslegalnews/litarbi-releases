@@ -1,32 +1,32 @@
 {
-  "version": "0.9.57-beta",
-  "build": 58,
+  "version": "0.9.58-beta",
+  "build": 59,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.57-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.58-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.57-beta-win-x64.zip",
-      "sha256": "7c7152e564055dd3972e24a8dedd34bd254b214fec532b928f38cb40551ee653",
-      "size": 15580954
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.58-beta-win-x64.zip",
+      "sha256": "c05726b5f54990748b51b2dbc2cb0d40aa9c0a5d283b6f37a442b2b683234bb9",
+      "size": 15584011
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.57-beta-win-arm64.zip",
-      "sha256": "730c91191d23268f0ed04d093a1004d1d81d75b6c96c34e911dac96c2bd1b74f",
-      "size": 15075656
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.58-beta-win-arm64.zip",
+      "sha256": "3f6b85ae73b98151d098761185c8d936552abfe95124c6c06e597a06cb5a9ebd",
+      "size": 15078689
     }
   },
   "msi": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.57-beta-x64.msi",
-      "sha256": "6ebce66eeb405679c76ccffbdc88cc5b6cf66992f8bc44c389311826571e2ce4",
-      "size": 11440128
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.58-beta-x64.msi",
+      "sha256": "da17cf310230234b8c7b0837e65bef34ac145656a29dcab1261a07cf038776b1",
+      "size": 11423744
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.57-beta-arm64.msi",
-      "sha256": "6dc8f99ea522ca91dc9da440bfd2fabff7e987a139484efe8a7e26ab1b1e783c",
-      "size": 11051008
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.58-beta-arm64.msi",
+      "sha256": "2a3d11ff4530d2921f21d60f7539119dba37bf290ead596e3170af80ec2e4b22",
+      "size": 11038720
     }
   },
-  "notes": "LitArbi 0.9.57-beta “Paris” (build 58): the bundle for your brief.\n• Bundle Exhibits now ticks every exhibit your Word submission cites — also those first numbered in an earlier submission whose numbers it continues.\n• The licence check says it is LitArbi for Windows (for the licence statistics; nothing else about your computer is sent)."
+  "notes": "LitArbi 0.9.58-beta “Paris” (build 59): activate in one click.\n• “Activate LitArbi” in your licence email (and on litarbi.app/activate.html) now opens LitArbi with your key and email filled in and activates it — nothing to type.\n• If LitArbi is already licensed, it says so or asks before replacing a key; a licence your organisation provides is never replaced from a link."
 }
