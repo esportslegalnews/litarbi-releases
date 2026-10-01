@@ -1,9 +1,9 @@
 {
-  "version": "0.9.57-beta",
-  "build": 162,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.57-beta/LitArbi-0.9.57.zip",
+  "version": "0.9.58-beta",
+  "build": 163,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.58-beta/LitArbi-0.9.58.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.57-beta 162 Paris\n• Bundle Exhibits pre-selects every exhibit the Word submission cites — also those first numbered in an earlier submission of a continuing numbering.",
+  "notes": "0.9.58-beta 163 Paris\n• Activate in one click: the button in the licence email opens LitArbi with your key (litarbi.app/activate.html).",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.57-beta/LitArbi-0.9.57.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.58-beta/LitArbi-0.9.58.dmg"
 }
