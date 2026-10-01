@@ -1,32 +1,32 @@
 {
-  "version": "0.9.56-beta",
-  "build": 57,
+  "version": "0.9.57-beta",
+  "build": 58,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.56-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.57-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.56-beta-win-x64.zip",
-      "sha256": "3b305998d123903c28a57438d33393799dda80a877db0cd259e887fb3c018984",
-      "size": 15579632
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.57-beta-win-x64.zip",
+      "sha256": "7c7152e564055dd3972e24a8dedd34bd254b214fec532b928f38cb40551ee653",
+      "size": 15580954
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.56-beta-win-arm64.zip",
-      "sha256": "29a8ceaa96e60deebeeb2844695e1d0bcf15986a6f65a3f132a22595bb7417ed",
-      "size": 15074315
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.57-beta-win-arm64.zip",
+      "sha256": "730c91191d23268f0ed04d093a1004d1d81d75b6c96c34e911dac96c2bd1b74f",
+      "size": 15075656
     }
   },
   "msi": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.56-beta-x64.msi",
-      "sha256": "40d6ee6ae696cbeecc8b3b2f1c8fb1345f81efb304b9f663b4422557ee31a358",
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.57-beta-x64.msi",
+      "sha256": "6ebce66eeb405679c76ccffbdc88cc5b6cf66992f8bc44c389311826571e2ce4",
       "size": 11440128
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.56-beta-arm64.msi",
-      "sha256": "ed56d985fcf2a7b7ff18a8be88c2a89c2a6b3ef6b0067571b9740510df8f8cf3",
-      "size": 11046912
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.57-beta-arm64.msi",
+      "sha256": "6dc8f99ea522ca91dc9da440bfd2fabff7e987a139484efe8a7e26ab1b1e783c",
+      "size": 11051008
     }
   },
-  "notes": "LitArbi 0.9.56-beta “Paris” (build 57): a faster relink and download links.\n• Relinking a submission to its bundle now changes only the link addresses — seconds instead of minutes for a long brief, and LitArbi stays usable meanwhile.\n• Deliver Bundle: one window per bundle, a Copy button for the password, and Share… for the ZIP.\n• With your firm's LitArbi Server 1.5: upload the password-protected ZIP and get a download link for people outside the firm, valid 7 to 90 days."
+  "notes": "LitArbi 0.9.57-beta “Paris” (build 58): the bundle for your brief.\n• Bundle Exhibits now ticks every exhibit your Word submission cites — also those first numbered in an earlier submission whose numbers it continues.\n• The licence check says it is LitArbi for Windows (for the licence statistics; nothing else about your computer is sent)."
 }
