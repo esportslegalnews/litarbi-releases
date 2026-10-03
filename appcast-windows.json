@@ -1,32 +1,32 @@
 {
-  "version": "0.9.59-beta",
-  "build": 60,
+  "version": "0.9.60-beta",
+  "build": 61,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.59-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.60-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.59-beta-win-x64.zip",
-      "sha256": "a541f7e37bbb62f8b4c9a536d63b642988cbda8f6833358aa5655c0645418a69",
-      "size": 15586156
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.60-beta-win-x64.zip",
+      "sha256": "600a44ea00a49caf638046819d21e6201989d8aa84833198bfb8ecd02a930ba2",
+      "size": 15703065
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.59-beta-win-arm64.zip",
-      "sha256": "45b6880c3e5b0abbd861c733b4cf4fb9e8326a226c5347e86578d208344c8647",
-      "size": 15080839
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.60-beta-win-arm64.zip",
+      "sha256": "8c3425aedbf99017964ecb6485cd4797ca5847716e4b28ade85db6330ac34545",
+      "size": 15197756
     }
   },
   "msi": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.59-beta-x64.msi",
-      "sha256": "3ca4a710d437342db02809f73fb864d5310aa73ba4d543fae19b15ad6f078fbf",
-      "size": 11501568
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.60-beta-x64.msi",
+      "sha256": "8ae7d625a74ef7e52396f67e6440b1fcc8f1fa27b107e1d57b80cf58de042ee1",
+      "size": 11472896
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.59-beta-arm64.msi",
-      "sha256": "42aac5121ea528f015265a779eff0bb4569a4318b5020b93abf17b9be2948573",
-      "size": 11042816
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.60-beta-arm64.msi",
+      "sha256": "867f5fe8ae4f4a0e02f8b7e34cf131896dd6a1389a3492f7c5d0bb9a6d4624ec",
+      "size": 11108352
     }
   },
-  "notes": "LitArbi 0.9.59-beta “Paris” (build 60): Vis citations and your paragraph sign.\n• Choose ¶ or “para.” for citations — in Settings ▸ Citation, and per matter. Update Exhibits from Brief re-renders the brief in the new sign.\n• Vis matters cite as published memoranda do — [Exhibit C 1, p. 10, para. 5] — and the List of Authorities reads Cited as | Authority | Cited in.\n• Indexes: treaties, books and articles are no longer set in italics; the Jessup index sorts by the full reference.\n• Fix: bracketed citations no longer gain an extra “]” when updated."
+  "notes": "LitArbi 0.9.60-beta “Paris” (build 61): LitArbi speaks Ukrainian.\n• Ukrainian is the sixth app language — Settings ▸ General ▸ Language ▸ Українська (applies at the next start), or automatically on a Ukrainian Windows.\n• AI summaries can be written in Ukrainian (Settings ▸ Translation ▸ Summary language).\n• Citations, the List of Exhibits and the Index of Authorities stay in the matter's language (English, German or French)."
 }
