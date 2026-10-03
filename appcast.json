@@ -1,9 +1,9 @@
 {
-  "version": "0.9.59-beta",
-  "build": 164,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.59-beta/LitArbi-0.9.59.zip",
+  "version": "0.9.60-beta",
+  "build": 165,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.60-beta/LitArbi-0.9.60.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.59-beta 164 Paris\n• Vis Moot citations as the memoranda write them (p. before para.); choose ¶ or “para.” per matter or in Settings ▸ Citation.",
+  "notes": "0.9.60-beta 165 Paris\n• LitArbi in Ukrainian (Settings ▸ General ▸ Language) — six languages in all; AI summaries in Ukrainian too.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.59-beta/LitArbi-0.9.59.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.60-beta/LitArbi-0.9.60.dmg"
 }
