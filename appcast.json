@@ -1,9 +1,9 @@
 {
-  "version": "0.9.60-beta",
-  "build": 165,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.60-beta/LitArbi-0.9.60.zip",
+  "version": "0.9.61-beta",
+  "build": 166,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.61-beta/LitArbi-0.9.61.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.60-beta 165 Paris\n• LitArbi in Ukrainian (Settings ▸ General ▸ Language) — six languages in all; AI summaries in Ukrainian too.",
+  "notes": "0.9.61-beta 166 Paris\n• Four more moots: Moot Madrid (in Spanish), Nuremberg, Nelson Mandela World Moot and African Human Rights Moot (memorials in English, French or Spanish); Pass On to Next Year's Team; citations in Spanish.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.60-beta/LitArbi-0.9.60.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.61-beta/LitArbi-0.9.61.dmg"
 }
