@@ -1,32 +1,32 @@
 {
-  "version": "0.9.60-beta",
-  "build": 61,
+  "version": "0.9.61-beta",
+  "build": 62,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.60-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.61-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.60-beta-win-x64.zip",
-      "sha256": "600a44ea00a49caf638046819d21e6201989d8aa84833198bfb8ecd02a930ba2",
-      "size": 15703065
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.61-beta-win-x64.zip",
+      "sha256": "eeb74f23b1921c1c68d0f717ea2832badb6c1cfc52a49d4c7fb78c8ca03a84fe",
+      "size": 15715586
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.60-beta-win-arm64.zip",
-      "sha256": "8c3425aedbf99017964ecb6485cd4797ca5847716e4b28ade85db6330ac34545",
-      "size": 15197756
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.61-beta-win-arm64.zip",
+      "sha256": "55ceb7e9e70531feaeed7c67a050627b1db3b98f65ae679824657230425b9117",
+      "size": 15210288
     }
   },
   "msi": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.60-beta-x64.msi",
-      "sha256": "8ae7d625a74ef7e52396f67e6440b1fcc8f1fa27b107e1d57b80cf58de042ee1",
-      "size": 11472896
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.61-beta-x64.msi",
+      "sha256": "46aed2257ea504c9ef04f98d170f4df97639730dc11119f5bf3393794a516d7d",
+      "size": 11493376
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.60-beta-arm64.msi",
-      "sha256": "867f5fe8ae4f4a0e02f8b7e34cf131896dd6a1389a3492f7c5d0bb9a6d4624ec",
-      "size": 11108352
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.61-beta-arm64.msi",
+      "sha256": "1257521cad987d3d005a12419c8da2dbc0d6c9320133d77175d787a771e76958",
+      "size": 11116544
     }
   },
-  "notes": "LitArbi 0.9.60-beta “Paris” (build 61): LitArbi speaks Ukrainian.\n• Ukrainian is the sixth app language — Settings ▸ General ▸ Language ▸ Українська (applies at the next start), or automatically on a Ukrainian Windows.\n• AI summaries can be written in Ukrainian (Settings ▸ Translation ▸ Summary language).\n• Citations, the List of Exhibits and the Index of Authorities stay in the matter's language (English, German or French)."
+  "notes": "LitArbi 0.9.61-beta “Paris” (build 62): four more moot courts, and Pass On.\n• Moot Madrid, the Nuremberg Moot Court, the Nelson Mandela World Human Rights Moot and the Christof Heyns African Human Rights Moot — each with its citation forms and index.\n• Multilingual moots: New Moot Matter asks for the language of the memorials (English, French or Spanish).\n• Pass On to Next Year’s Team (File ▸ Export): a copy of the moot matter with its legal authorities, files, short forms, tags and summaries — without the record, your submissions or the AI Protocol.\n• Spanish legal output: matters whose exhibits are “Documento” or “Anexo” cite with párr. and write a Spanish List of Exhibits and List of Authorities.\n• Ukrainian: “tribunal” and “list of authorities” now read as Ukrainian arbitration practitioners write them."
 }
