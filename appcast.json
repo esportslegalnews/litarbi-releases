@@ -1,9 +1,9 @@
 {
-  "version": "0.9.62-beta",
-  "build": 167,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.62-beta/LitArbi-0.9.62.zip",
+  "version": "0.9.63-beta",
+  "build": 168,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.63-beta/LitArbi-0.9.63.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.62-beta 167 Paris\n• Update from Brief renumbers again after a document was renamed (a document named “missing value” blocked it); Not Part of It takes a document that doesn't belong out of the submission.",
+  "notes": "0.9.63-beta 168 Paris\n• Citations inserted on different computers from copies of a shared matter no longer cancel each other out when the texts are merged into one brief; long citations name their documents themselves; the Football Moot (IFAM) for moot court teams.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.62-beta/LitArbi-0.9.62.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.63-beta/LitArbi-0.9.63.dmg"
 }
