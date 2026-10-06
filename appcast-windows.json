@@ -1,32 +1,32 @@
 {
-  "version": "0.9.62-beta",
-  "build": 63,
+  "version": "0.9.63-beta",
+  "build": 64,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.62-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.63-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.62-beta-win-x64.zip",
-      "sha256": "da6b828488d4d104df50d2c7d73af5a53c283181955a06db451cb3c0a266de56",
-      "size": 15718127
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-win-x64.zip",
+      "sha256": "bf629ab87d1c8e9c13953b19dbadab991bd461789cf5f1649463aa2140dc4d89",
+      "size": 15719893
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.62-beta-win-arm64.zip",
-      "sha256": "71299010692ba4bdc6aa298bd09d7a0f2d895be52a874142dcd890bb6b3f8539",
-      "size": 15212840
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-win-arm64.zip",
+      "sha256": "eb82bf4ed022d6fe4b90579ed27292a2031d890f322258a571688fc810c12899",
+      "size": 15214589
     }
   },
   "msi": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.62-beta-x64.msi",
-      "sha256": "31c5345786c3c4a9a5ef583a75f4cc97e7ddc21cda838cfbbbdcf2662c69ed20",
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-x64.msi",
+      "sha256": "e05be23952fdd57b5a5c296ba4c79026ebf1a888fad751f901da498542f202d0",
       "size": 11485184
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.62-beta-arm64.msi",
-      "sha256": "8189d866e686dfc217208619d76d5d7d9c2170c7cd5336752a513006e0fb3175",
-      "size": 11177984
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-arm64.msi",
+      "sha256": "67a84fa332e68123f5b3e04041fc0ced15c73f30f2b066fea712b8ec06c3ad31",
+      "size": 11153408
     }
   },
-  "notes": "LitArbi 0.9.62-beta “Paris” (build 63): Update from Brief after renaming a document.\n• Fix: while Word renames a document or saves it under a new name, it briefly reports no name — LitArbi no longer takes that for a document, and repairs matters where it happened when they open.\n• Update from Brief: when a document listed with the submission isn’t really part of it (an old name, for example), choose Not Part of It — LitArbi forgets it and renumbers by the citations."
+  "notes": "LitArbi 0.9.63-beta “Paris” (build 64): citations from several copies of a shared matter fit together.\n• Fix: when co-counsel or a moot team cite from copies of a matter shared as a file and their texts go into one Word document, every citation now keeps its own link — Update from Brief, the List of Exhibits, the Index of Authorities and the bundle see them all. Citations of many documents at once also carry their documents in every copy. Everyone sharing a matter should update.\n• The Football Moot (IFAM) joins the moot court competitions."
 }
