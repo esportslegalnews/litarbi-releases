@@ -1,9 +1,9 @@
 {
-  "version": "0.9.63-beta",
-  "build": 168,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.63-beta/LitArbi-0.9.63.zip",
+  "version": "0.9.64-beta",
+  "build": 169,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.64-beta/LitArbi-0.9.64.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.63-beta 168 Paris\n• Citations inserted on different computers from copies of a shared matter no longer cancel each other out when the texts are merged into one brief; long citations name their documents themselves; the Football Moot (IFAM) for moot court teams.",
+  "notes": "0.9.64-beta 169 Paris\n• About ▸ Acknowledgements: what LitArbi is made of — no code from other parties, and the outside services it works with only when you use them.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.63-beta/LitArbi-0.9.63.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.64-beta/LitArbi-0.9.64.dmg"
 }
