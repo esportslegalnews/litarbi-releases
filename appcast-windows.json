@@ -1,32 +1,32 @@
 {
   "version": "0.9.63-beta",
-  "build": 64,
+  "build": 65,
   "name": "Paris",
   "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.63-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-win-x64.zip",
-      "sha256": "bf629ab87d1c8e9c13953b19dbadab991bd461789cf5f1649463aa2140dc4d89",
-      "size": 15719893
+      "sha256": "75c867295dbf3a46fa558f0570893ddf997cbc5b2b8f7fad55696131e567365f",
+      "size": 15740130
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-win-arm64.zip",
-      "sha256": "eb82bf4ed022d6fe4b90579ed27292a2031d890f322258a571688fc810c12899",
-      "size": 15214589
+      "sha256": "658d37ea6db4e22e4d494806a20d5a06d291593328eece2d4b4ff22e7ec2938e",
+      "size": 15234805
     }
   },
   "msi": {
     "x64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-x64.msi",
-      "sha256": "e05be23952fdd57b5a5c296ba4c79026ebf1a888fad751f901da498542f202d0",
-      "size": 11485184
+      "sha256": "263837dd3567fd5c137f541c0667381bcf565da7832f32a02fc280bb77cd5c6d",
+      "size": 11501568
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-arm64.msi",
-      "sha256": "67a84fa332e68123f5b3e04041fc0ced15c73f30f2b066fea712b8ec06c3ad31",
-      "size": 11153408
+      "sha256": "96b1f4a479a2b454506f07725f5cc36b20db933915f6a83f9f6de996ab3f9a97",
+      "size": 11165696
     }
   },
-  "notes": "LitArbi 0.9.63-beta “Paris” (build 64): citations from several copies of a shared matter fit together.\n• Fix: when co-counsel or a moot team cite from copies of a matter shared as a file and their texts go into one Word document, every citation now keeps its own link — Update from Brief, the List of Exhibits, the Index of Authorities and the bundle see them all. Citations of many documents at once also carry their documents in every copy. Everyone sharing a matter should update.\n• The Football Moot (IFAM) joins the moot court competitions."
+  "notes": "LitArbi 0.9.63-beta “Paris” (build 65): what LitArbi is made of.\n• About ▸ Open-source licences lists every component from other parties that ships with LitArbi for Windows — with its version, licence and full licence text.\n• Ready for code signing: once LitArbi is signed by its publisher, it installs only updates signed the same way.\n• Citations inserted by LitArbi for Word are recognised like LitArbi’s own."
 }
