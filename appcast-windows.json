@@ -1,32 +1,32 @@
 {
-  "version": "0.9.63-beta",
-  "build": 66,
+  "version": "0.9.65-beta",
+  "build": 67,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.63-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.65-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-win-x64.zip",
-      "sha256": "834ee7519d176e90950e18dd27321dc0f33a202e764d7e8ab244bf620b8a9561",
-      "size": 15767898
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-win-x64.zip",
+      "sha256": "6f7ff89320732f9402e525ced718515a80db022ac6ee48636f929beb7d40f019",
+      "size": 15806679
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-win-arm64.zip",
-      "sha256": "10b4710e9e6a939d2d2e9911e5ee4dd49fd0e839be76ec94d5163989a9772aa5",
-      "size": 15262551
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-win-arm64.zip",
+      "sha256": "c2e2c4a3db688d4211572a7ad12a95f193f8ec0ade09056da2640a3871540dc0",
+      "size": 15301288
     }
   },
   "msi": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-x64.msi",
-      "sha256": "f1f08656178dbfa8556718ca0dd273054d35e8ad194d26cdb0295216164a863c",
-      "size": 11542528
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-x64.msi",
+      "sha256": "39d2ba9038059d545465708ca6b7ce817e7ee08f39ce8a552b17a6808e47039f",
+      "size": 11571200
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.63-beta-arm64.msi",
-      "sha256": "f2f96c9afd936e5653000a823e93cbc055e5692128ebb53c7c519595388baaea",
-      "size": 11255808
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-arm64.msi",
+      "sha256": "d130f258cc7d0c794f06c048ae13b902d0455ec90b4b66e94917110d8f0b0b58",
+      "size": 11165696
     }
   },
-  "notes": "LitArbi 0.9.63-beta “Paris” (build 66): signed by its publisher.\n• LitArbi for Windows is now digitally signed: Windows names the publisher, Game Ban Appeal UG (haftungsbeschränkt), when you install it — the installer, the program, the MSI packages for organisations and the updates.\n• From this version on, LitArbi installs only updates signed by its publisher."
+  "notes": "LitArbi 0.9.65-beta “Paris” (build 67): LitArbi for Word, docked in Word.\n• Settings ▸ Add-ins ▸ LitArbi for Word ▸ Connect with Word: the LitArbi for Word add-in can now use the matters on this PC — the exhibits, their numbers and LitArbi’s citation rules — over a secure connection that never leaves this computer. Windows asks once whether to trust its certificate.\n• Citing from LitArbi for Word numbers an exhibit on its first citation, asks LitArbi’s questions in LitArbi and inserts the citation, the List of Exhibits and the links exactly as LitArbi does.\n• The Word ribbon add-in stays available until LitArbi for Word is in Microsoft’s store; Connect with Word offers to remove it so Word shows one LitArbi tab."
 }
