@@ -1,32 +1,32 @@
 {
   "version": "0.9.65-beta",
-  "build": 67,
+  "build": 68,
   "name": "Paris",
   "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.65-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-win-x64.zip",
-      "sha256": "6f7ff89320732f9402e525ced718515a80db022ac6ee48636f929beb7d40f019",
-      "size": 15806679
+      "sha256": "30805f8f042d954ad8019e5eac1bd71000c9dfa7fe4d47e682b575c5d4b80986",
+      "size": 15806779
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-win-arm64.zip",
-      "sha256": "c2e2c4a3db688d4211572a7ad12a95f193f8ec0ade09056da2640a3871540dc0",
-      "size": 15301288
+      "sha256": "492f3aaa387afc5e939596a904af365bc3a04595e30a2c1f8e68a605e1128bd6",
+      "size": 15301410
     }
   },
   "msi": {
     "x64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-x64.msi",
-      "sha256": "39d2ba9038059d545465708ca6b7ce817e7ee08f39ce8a552b17a6808e47039f",
+      "sha256": "b0a4d86f71a75d77180805df3ee0607bf80db6494604de4b8065f7cb161dfc36",
       "size": 11571200
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-arm64.msi",
-      "sha256": "d130f258cc7d0c794f06c048ae13b902d0455ec90b4b66e94917110d8f0b0b58",
-      "size": 11165696
+      "sha256": "bf2c44262b61c3d0d077951dd4e8c71a024ccf2786107f1b4ff46a1f882838ff",
+      "size": 11194368
     }
   },
-  "notes": "LitArbi 0.9.65-beta “Paris” (build 67): LitArbi for Word, docked in Word.\n• Settings ▸ Add-ins ▸ LitArbi for Word ▸ Connect with Word: the LitArbi for Word add-in can now use the matters on this PC — the exhibits, their numbers and LitArbi’s citation rules — over a secure connection that never leaves this computer. Windows asks once whether to trust its certificate.\n• Citing from LitArbi for Word numbers an exhibit on its first citation, asks LitArbi’s questions in LitArbi and inserts the citation, the List of Exhibits and the links exactly as LitArbi does.\n• The Word ribbon add-in stays available until LitArbi for Word is in Microsoft’s store; Connect with Word offers to remove it so Word shows one LitArbi tab."
+  "notes": "LitArbi 0.9.65-beta “Paris” (build 68): LitArbi for Word writes as LitArbi does.\n• LitArbi for Word, connected to LitArbi on this PC, now writes footnotes in LitArbi’s layout and with the citation font from Settings ▸ Citation, and builds the List of Exhibits in the table style chosen in Settings.\n• Convert to Plain Text in LitArbi for Word runs LitArbi’s own conversion when LitArbi is on this PC."
 }
