@@ -1,32 +1,32 @@
 {
   "version": "0.9.65-beta",
-  "build": 68,
+  "build": 69,
   "name": "Paris",
   "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.65-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-win-x64.zip",
-      "sha256": "30805f8f042d954ad8019e5eac1bd71000c9dfa7fe4d47e682b575c5d4b80986",
-      "size": 15806779
+      "sha256": "b9c497a87a91870660a5f01707be3f51c038d86e166baa94ef7638c5c242e7fb",
+      "size": 15806989
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-win-arm64.zip",
-      "sha256": "492f3aaa387afc5e939596a904af365bc3a04595e30a2c1f8e68a605e1128bd6",
-      "size": 15301410
+      "sha256": "4a828b1c5527594aeca3725b207c9de5556f38a246b0dc59b6fb5b58534e06bb",
+      "size": 15301646
     }
   },
   "msi": {
     "x64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-x64.msi",
-      "sha256": "b0a4d86f71a75d77180805df3ee0607bf80db6494604de4b8065f7cb161dfc36",
-      "size": 11571200
+      "sha256": "c645f3a6404775a503492c96687dab1016613c3b4b97bde4115ba05ce224dee0",
+      "size": 11579392
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-arm64.msi",
-      "sha256": "bf2c44262b61c3d0d077951dd4e8c71a024ccf2786107f1b4ff46a1f882838ff",
-      "size": 11194368
+      "sha256": "19f75305ee7e9b3dceb3c933ec36811855b3b58c5b560fd51fc9bed65c4951de",
+      "size": 11173888
     }
   },
-  "notes": "LitArbi 0.9.65-beta “Paris” (build 68): LitArbi for Word writes as LitArbi does.\n• LitArbi for Word, connected to LitArbi on this PC, now writes footnotes in LitArbi’s layout and with the citation font from Settings ▸ Citation, and builds the List of Exhibits in the table style chosen in Settings.\n• Convert to Plain Text in LitArbi for Word runs LitArbi’s own conversion when LitArbi is on this PC."
+  "notes": "LitArbi 0.9.65-beta “Paris” (build 69): Word stays as you know it.\n• Citing in Word works through LitArbi’s ribbon add-in, as before (Settings ▸ Add-ins ▸ Microsoft Word).\n• LitArbi for Word, the new add-in for Word, comes to Windows once Microsoft has approved it for the Office Store — until then LitArbi no longer offers to connect it. If you connected it for a test, Settings ▸ Add-ins ▸ LitArbi for Word ▸ Disconnect removes it again."
 }
