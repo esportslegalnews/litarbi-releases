@@ -1,9 +1,9 @@
 {
   "version": "0.9.65-beta",
-  "build": 170,
+  "build": 171,
   "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.65-beta/LitArbi-0.9.65.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.65-beta 170 Paris\n• Update Exhibits from Brief keeps the numbers of locked exhibits.\n• The citation pane shows exhibits imported, synced or renumbered while it is open.\n• Manfred Lachs moot licences show the season they belong to.\n• Settings ▸ Citation ▸ Reset also resets the short form for awards.\n• Help ▸ Licence Agreement (EULA) and Privacy Policy, in LitArbi's language.",
+  "notes": "0.9.65-beta 171 Paris\n• Case Settings ▸ Our side offers Arbitrator — switch a matter's role after creating it.\n• Outlook .msg files: name, date, author and text on import, a preview, and PDF in bundles and e-briefs.\n• Signing a PDF keeps earlier signatures valid (SHA-256, signing certificates only).\n• Commands that can't work say why instead of doing nothing.\n• Settings aligned to one left edge.\n• Updates install only when signed by LitArbi, notarized and newer.\n• SLAM, the thirteenth moot competition.",
   "name": "Paris",
   "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.65-beta/LitArbi-0.9.65.dmg"
 }
