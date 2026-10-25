@@ -1,32 +1,32 @@
 {
-  "version": "0.9.65-beta",
-  "build": 69,
+  "version": "0.9.66-beta",
+  "build": 75,
   "name": "Paris",
-  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.65-beta.exe",
+  "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbiSetup-0.9.66-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-win-x64.zip",
-      "sha256": "b9c497a87a91870660a5f01707be3f51c038d86e166baa94ef7638c5c242e7fb",
-      "size": 15806989
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.66-beta-win-x64.zip",
+      "sha256": "c73be5ce0466a660a278dda033277b463530889a9603b1636ba182295c85c9e1",
+      "size": 16887511
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-win-arm64.zip",
-      "sha256": "4a828b1c5527594aeca3725b207c9de5556f38a246b0dc59b6fb5b58534e06bb",
-      "size": 15301646
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.66-beta-win-arm64.zip",
+      "sha256": "d22391653a349b8299e02c1c2a469b58849b38103c9a35dcd95743c323ba5d2b",
+      "size": 16382073
     }
   },
   "msi": {
     "x64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-x64.msi",
-      "sha256": "c645f3a6404775a503492c96687dab1016613c3b4b97bde4115ba05ce224dee0",
-      "size": 11579392
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.66-beta-x64.msi",
+      "sha256": "308997f535d8f1d729454b436fd40a62c25c27a25883934f35ed15df5cb0bb49",
+      "size": 12386304
     },
     "arm64": {
-      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.65-beta-arm64.msi",
-      "sha256": "19f75305ee7e9b3dceb3c933ec36811855b3b58c5b560fd51fc9bed65c4951de",
-      "size": 11173888
+      "url": "https://raw.githubusercontent.com/esportslegalnews/litarbi-releases/main/windows/LitArbi-0.9.66-beta-arm64.msi",
+      "sha256": "4c0f4b2bd9ed24175ee13bb5b891db781edcc833991b6a33fc874423bc84cf10",
+      "size": 12009472
     }
   },
-  "notes": "LitArbi 0.9.65-beta “Paris” (build 69): Word stays as you know it.\n• Citing in Word works through LitArbi’s ribbon add-in, as before (Settings ▸ Add-ins ▸ Microsoft Word).\n• LitArbi for Word, the new add-in for Word, comes to Windows once Microsoft has approved it for the Office Store — until then LitArbi no longer offers to connect it. If you connected it for a test, Settings ▸ Add-ins ▸ LitArbi for Word ▸ Disconnect removes it again."
+  "notes": "LitArbi 0.9.66-beta “Paris” (build 75): your own exhibit term, Portugal and Spain, Portuguese.\n• Your own exhibit term, from the start. The new-matter wizard and the new Matter ▸ Case Settings let you type the exhibit term, the party letters and the separator under any convention — \"Doc. nº 1\", \"Annex 1\", \"Exhibit No. 1\". What you type becomes the matter's convention (Custom).\n• Curly braces only for placeholders. If a citation template holds text in curly braces that LitArbi doesn't know — \"{Doc. nº }\" instead of \"Doc. nº\" — Settings, Case Settings and the new-matter wizard ask whether to remove the braces or keep it as typed. Settings ▸ Citation also has Reset Citation Templates to Defaults now.\n• Portugal and Spain: \"Doc. n.º 1\". Two new conventions number exhibits \"Doc. n.º 1\" and cite them in the text. A Portugal matter writes its citations (\"Doc. n.º 1, Contrato de compra e venda, de 12 de maio de 2009, p. 3\"), dates, paragraph pinpoints (parág.) and List of Exhibits in Portuguese; a Spain matter its List of Exhibits in Spanish.\n• LitArbi in Portuguese. The whole app in European Portuguese (Windows set to Brazilian Portuguese uses it too): Settings ▸ General ▸ Language, or set Windows to Portuguese.\n• Arbitrator, after the fact. Case Settings ▸ Our side offers Arbitrator beside the parties, so a matter created as Claimant can become an arbitrator's matter (and back).\n• Outlook messages. A .msg file is read by LitArbi itself, with or without Outlook: on import it gets its name, date and author from the message, its text is searchable, the preview shows the message, and bundles and e-briefs turn it into PDF.\n• E-mail exhibits read as written. Subjects and text in every character set keep their umlauts and Cyrillic; the search finds an e-mail's text, not its MIME code; an Outlook message is named \"to … and 2 others\" like an .eml, and its PDF labels the header in LitArbi's language.\n• A second signature keeps the first. Signing a PDF adds the signature to the file as it is, so a PDF signed by a colleague or through Skribble stays valid; signatures use SHA-256; only certificates meant for signing documents are offered. A signed copy is named \"… (signed).pdf\" in LitArbi's language.\n• Statements of facts keep their capitals. German nouns, acronyms, names and defined terms (Claimant, Tribunal, Demandante …) are written properly after \"On 12 May 2009, …\".\n• OCR and transcription when you want them. Text recognition for more languages (Tesseract) and transcription on this PC (whisper.cpp) are optional components: the installer asks, and LitArbi offers the download the first time you need one (Settings ▸ Advanced ▸ Optional components).\n• More of the Mac on Windows: a six-step new-matter wizard, the Privacy page, the collections as a tree and tag colours in the sidebar, attachments listed under their exhibit, editable chronology events, pinpoints in Edit & Manage, detected letter titles, previews of Office files.\n• No silent commands. A command that can't work right now — OCR included — is greyed out or says why, instead of doing nothing.\n• Settings, aligned. Labels, notes, checkboxes and buttons start at one left edge.\n• Safer updates. LitArbi installs an update only if it is LitArbi, signed by us and newer than the copy you have.\n• SLAM. The Sports Law Arbitration Moot is the thirteenth moot competition.\nLitArbi for Word, LitArbi for LibreOffice 1.1 and exhibit files in SharePoint come with 0.9.70 on 30 October. Windows 10 (1809) or later, x64 or ARM64."
 }
