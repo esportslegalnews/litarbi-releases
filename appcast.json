@@ -1,9 +1,9 @@
 {
-  "version": "0.9.65-beta",
-  "build": 171,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.65-beta/LitArbi-0.9.65.zip",
+  "version": "0.9.66-beta",
+  "build": 172,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.66-beta/LitArbi-0.9.66.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.65-beta 171 Paris\n• Case Settings ▸ Our side offers Arbitrator — switch a matter's role after creating it.\n• Outlook .msg files: name, date, author and text on import, a preview, and PDF in bundles and e-briefs.\n• Signing a PDF keeps earlier signatures valid (SHA-256, signing certificates only).\n• Commands that can't work say why instead of doing nothing.\n• Settings aligned to one left edge.\n• Updates install only when signed by LitArbi, notarized and newer.\n• SLAM, the thirteenth moot competition.",
+  "notes": "0.9.66-beta 172 Paris\n• Your own exhibit term under any convention, in the new-matter wizard and Case Settings.\n• Text in curly braces that is no placeholder: LitArbi asks before keeping it.\n• Portugal and Spain: exhibits numbered \"Doc. n.º 1\"; Portugal matters cite and list in Portuguese.\n• LitArbi in Portuguese (Portugal).\n• E-mail exhibits keep their umlauts and Cyrillic; the search finds their text, not MIME code.\n• Statements of facts keep the capitals of names, acronyms and defined terms.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.65-beta/LitArbi-0.9.65.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.66-beta/LitArbi-0.9.66.dmg"
 }
