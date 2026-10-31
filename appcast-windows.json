@@ -1,37 +1,37 @@
 {
   "version": "0.9.70-beta",
-  "build": 78,
+  "build": 79,
   "name": "Paris",
   "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbiSetup-0.9.70-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
       "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbi-0.9.70-beta-win-x64.zip",
-      "sha256": "2f40e8bd4fa7954a81be9374996d817586fd3899717ca5d38bf60588e9bb02c0",
-      "size": 16908672
+      "sha256": "103f10013936e9181ef18440060f39cee18c282d87f2355fab4a549c1761357b",
+      "size": 16930005
     },
     "arm64": {
       "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbi-0.9.70-beta-win-arm64.zip",
-      "sha256": "224e1808ab316393be9e490b1952d600dd57fdc97b96f562f8c6c5b9c4bff6a7",
-      "size": 16403201
+      "sha256": "f2638c0fbfcb798701c5e3ee183e048372cdd1b6a6384ff8a316d9db160e07fa",
+      "size": 16424590
     }
   },
   "msi": {
     "x64": {
       "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbi-0.9.70-beta-x64.msi",
-      "sha256": "3f30977329644fa7c85e69f9d0084b788b9689313fcb9c7e7e85a9673cdb0ee2",
-      "size": 12406784
+      "sha256": "ece5b04e7fecd3d3758c6928343a29b553c993748dcaec0fe5a5ec2c9b451a9c",
+      "size": 12496896
     },
     "arm64": {
       "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbi-0.9.70-beta-arm64.msi",
-      "sha256": "3044cc68fee55359d30d916b61d441aca27578599edec69debb92e054bf3591a",
-      "size": 12034048
+      "sha256": "454a536ffb2360f1a792173ca2e9a81cb0c1c1964278dc68342dee67c4132060",
+      "size": 12091392
     }
   },
   "adminKit": {
     "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbi-AdminKit-0.9.70-beta.zip",
-    "sha256": "dc3505652f83c46702f5b8fe1f7a118ba24103f965ce9afc4e2dfcb96bd5758b",
+    "sha256": "263d1f06630c912571b9e1b088b0da369a8f92e43cf8331fc8876be41856e06b",
     "size": 9887
   },
-  "notes": "LitArbi 0.9.70-beta “Paris” (build 78): LitArbi for Word, links that travel, SharePoint.\n• LitArbi for Word, from Microsoft's store: Settings ▸ Add-ins ▸ LitArbi for Word connects it to LitArbi on this PC. Where your Word runs it in full, LitArbi offers once to switch from the ribbon template — with Word open, the old ribbon add-in now goes as soon as you quit Word, and connecting asks Windows only once; its pane can switch between your matters (Settings ▸ LitArbi on this computer).\n• Links that travel: a citation links to its exhibit in the matter (litarbi://cite), so it opens at the cited page wherever the matter is — in a colleague's copy and in a bundle too.\n• Date ranges: type \"1–5 April 2021\", \"March–April 2021\" or \"2019–2021\" as an exhibit's date; lists, citations and the statement of facts write them in the matter's language.\n• Formatting in citation templates: *bold*, _italic_ and ++underline++ (Settings ▸ Citation).\n• Exhibit files in SharePoint or a synced folder: Settings ▸ Storage — sign in with Microsoft 365 and choose a library, or pick a folder that OneDrive or another app keeps in sync.\n• LitArbi for LibreOffice 1.1 cites as LitArbi for Word does, with the same bookmarks, so a brief moves between Word and Writer; its menus are in Portuguese too.\nWindows 10 (1809) or later, x64 or ARM64."
+  "notes": "LitArbi 0.9.70-beta “Paris” (build 79): LitArbi for Word, links that travel, SharePoint.\n• Update Exhibits from Brief no longer freezes LitArbi: a progress window shows each step with Stop, LitArbi for Word stays connected, only the citations that change are rewritten, and the cursor goes back where it was.\n• A memorandum saved under a new name is recognised as a new version of the earlier one; Update asks once if it was filed with it by mistake.\n• LitArbi for Word, from Microsoft's store: Settings ▸ Add-ins ▸ LitArbi for Word connects it to LitArbi on this PC. Where your Word runs it in full, LitArbi offers once to switch from the ribbon template; its pane can switch between your matters (Settings ▸ LitArbi on this computer).\n• Links that travel: a citation links to its exhibit in the matter (litarbi://cite), so it opens at the cited page wherever the matter is — in a colleague's copy and in a bundle too.\n• Date ranges: type \"1–5 April 2021\", \"March–April 2021\" or \"2019–2021\" as an exhibit's date; lists, citations and the statement of facts write them in the matter's language.\n• Formatting in citation templates: *bold*, _italic_ and ++underline++ (Settings ▸ Citation).\n• Exhibit files in SharePoint or a synced folder: Settings ▸ Storage — sign in with Microsoft 365 and choose a library, or pick a folder that OneDrive or another app keeps in sync.\nWindows 10 (1809) or later, x64 or ARM64."
 }
