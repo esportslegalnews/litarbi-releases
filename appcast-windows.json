@@ -1,37 +1,37 @@
 {
-  "version": "0.9.70-beta",
-  "build": 79,
+  "version": "0.9.71-beta",
+  "build": 80,
   "name": "Paris",
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbiSetup-0.9.70-beta.exe",
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbiSetup-0.9.71-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbi-0.9.70-beta-win-x64.zip",
-      "sha256": "103f10013936e9181ef18440060f39cee18c282d87f2355fab4a549c1761357b",
-      "size": 16930005
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-0.9.71-beta-win-x64.zip",
+      "sha256": "f7bff4248e139d33b0c54400890079199c2b806b992a380e5af446216e9b91e8",
+      "size": 17918699
     },
     "arm64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbi-0.9.70-beta-win-arm64.zip",
-      "sha256": "f2638c0fbfcb798701c5e3ee183e048372cdd1b6a6384ff8a316d9db160e07fa",
-      "size": 16424590
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-0.9.71-beta-win-arm64.zip",
+      "sha256": "a074bf14ca96dc11b7b130c877f6847d4b41b7a7f3a8aba621d813addcdf8fbf",
+      "size": 17411792
     }
   },
   "msi": {
     "x64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbi-0.9.70-beta-x64.msi",
-      "sha256": "ece5b04e7fecd3d3758c6928343a29b553c993748dcaec0fe5a5ec2c9b451a9c",
-      "size": 12496896
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-0.9.71-beta-x64.msi",
+      "sha256": "e826c8dbddea30df3320e50861338ce95b187fff024f76553799aa82145276d3",
+      "size": 13074432
     },
     "arm64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbi-0.9.70-beta-arm64.msi",
-      "sha256": "454a536ffb2360f1a792173ca2e9a81cb0c1c1964278dc68342dee67c4132060",
-      "size": 12091392
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-0.9.71-beta-arm64.msi",
+      "sha256": "65f109f821934969e419d391ae6e6e4726ad996310c7df283913c73e7f16cb95",
+      "size": 12689408
     }
   },
   "adminKit": {
-    "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.70-beta/LitArbi-AdminKit-0.9.70-beta.zip",
-    "sha256": "263d1f06630c912571b9e1b088b0da369a8f92e43cf8331fc8876be41856e06b",
+    "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-AdminKit-0.9.71-beta.zip",
+    "sha256": "241c7952f6c28eb75d2542d9f494af03760b0d9ab985b7f6057acd2ac0621445",
     "size": 9887
   },
-  "notes": "LitArbi 0.9.70-beta “Paris” (build 79): LitArbi for Word, links that travel, SharePoint.\n• Update Exhibits from Brief no longer freezes LitArbi: a progress window shows each step with Stop, LitArbi for Word stays connected, only the citations that change are rewritten, and the cursor goes back where it was.\n• A memorandum saved under a new name is recognised as a new version of the earlier one; Update asks once if it was filed with it by mistake.\n• LitArbi for Word, from Microsoft's store: Settings ▸ Add-ins ▸ LitArbi for Word connects it to LitArbi on this PC. Where your Word runs it in full, LitArbi offers once to switch from the ribbon template; its pane can switch between your matters (Settings ▸ LitArbi on this computer).\n• Links that travel: a citation links to its exhibit in the matter (litarbi://cite), so it opens at the cited page wherever the matter is — in a colleague's copy and in a bundle too.\n• Date ranges: type \"1–5 April 2021\", \"March–April 2021\" or \"2019–2021\" as an exhibit's date; lists, citations and the statement of facts write them in the matter's language.\n• Formatting in citation templates: *bold*, _italic_ and ++underline++ (Settings ▸ Citation).\n• Exhibit files in SharePoint or a synced folder: Settings ▸ Storage — sign in with Microsoft 365 and choose a library, or pick a folder that OneDrive or another app keeps in sync.\nWindows 10 (1809) or later, x64 or ARM64."
+  "notes": "LitArbi 0.9.71-beta “Paris” (build 80): a safer start, and the fixes of 0.9.71.\n• A window that stays black: where Windows can't draw LitArbi's see-through background, LitArbi now notices and draws a solid one. If a start fails, a message says so and names the log folder. This may not cure every case: if it still happens to you, please report it.\n• LitArbi Safe Start starts LitArbi once without the graphics card and without see-through effects. LitArbi Report a Bug opens the bug report on its own. The installer adds both to the Start menu; after an update from within LitArbi, start LitArbi.exe with --safe-start or --report.\n• Clients & Matters now has Report a Bug and Settings.\n• LitArbi for Word: LitArbi no longer installs the ribbon template afresh where LitArbi for Word replaces it.\n• Brazilian Portuguese joins LitArbi's languages.\n• Cover pages before each exhibit: a Cover Pages step when you build a bundle.\n• A citation link that starts LitArbi opens its matter once Clients & Matters has come up.\n• Awards and decisions are read from their cover page only: the whole title, the normalised case number, the full tribunal and the right date.\n• “Exhibit C-12”, pinpoints, “No. 3”, “4 May 2021” and submissions cited by name no longer break across a line. The first Update Exhibits from Brief rewrites each citation once.\n• Update Exhibits from Brief no longer numbers a submission that is cited by name, and it skips a closed document Word never saved. Untitled documents (“Document1”) are no longer remembered as a matter's submissions.\n• Search and lists: a hit in an attachment or a note lists its exhibit; search reacts to pasted and dictated text; Find & Replace in Titles works over the whole list; Ctrl+A selects every exhibit wherever the focus is.\nWindows 10 (1809) or later, x64 or ARM64."
 }
