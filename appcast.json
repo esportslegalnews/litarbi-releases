@@ -1,9 +1,9 @@
 {
-  "version": "0.9.71-beta",
-  "build": 176,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-0.9.71.zip",
+  "version": "0.9.72-beta",
+  "build": 177,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.72-beta/LitArbi-0.9.72.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.71-beta 176 Paris\n• Cover pages before each exhibit (Bundle Exhibits ▸ Cover Pages): the exhibit's number as your matter cites it, with description and date — in the bundle, in one PDF with bookmarks, or one PDF per exhibit.\n• LitArbi in Brazilian Portuguese — Settings ▸ General ▸ Language: Português (Brasil) or Português (Portugal).\n• Translated PDFs keep their searchable text when combined, split, edited or stamped.\n• Faster search while a shared matter syncs.\n• Awards and decisions read from their cover page only — whole titles, normalised case numbers, the full tribunal.\n• “Exhibit C-12”, pinpoints, “No. 3” and dates never break across lines.\n• Find & Replace over the whole list, Select All from anywhere.",
+  "notes": "0.9.72-beta 177 Paris\n• Shared matters: the PDF preview no longer flickers or jumps back to page 1.\n• People & Connections stays readable in large matters: people grouped under who they are connected to, and the map fits the window.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-0.9.71.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.72-beta/LitArbi-0.9.72.dmg"
 }
