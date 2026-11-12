@@ -1,37 +1,37 @@
 {
-  "version": "0.9.71-beta",
-  "build": 80,
+  "version": "0.9.72-beta",
+  "build": 81,
   "name": "Paris",
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbiSetup-0.9.71-beta.exe",
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.72-beta/LitArbiSetup-0.9.72-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-0.9.71-beta-win-x64.zip",
-      "sha256": "f7bff4248e139d33b0c54400890079199c2b806b992a380e5af446216e9b91e8",
-      "size": 17918699
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.72-beta/LitArbi-0.9.72-beta-win-x64.zip",
+      "sha256": "a9acba282d5125979d4ab7343e3b9b79a949961f52b2bc23dee0fb479ca3da3d",
+      "size": 17941068
     },
     "arm64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-0.9.71-beta-win-arm64.zip",
-      "sha256": "a074bf14ca96dc11b7b130c877f6847d4b41b7a7f3a8aba621d813addcdf8fbf",
-      "size": 17411792
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.72-beta/LitArbi-0.9.72-beta-win-arm64.zip",
+      "sha256": "8952c148ed8980a18b57e1c4755a8d95f0cf53447961e477cddbc933d4ffbc8e",
+      "size": 17434164
     }
   },
   "msi": {
     "x64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-0.9.71-beta-x64.msi",
-      "sha256": "e826c8dbddea30df3320e50861338ce95b187fff024f76553799aa82145276d3",
-      "size": 13074432
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.72-beta/LitArbi-0.9.72-beta-x64.msi",
+      "sha256": "954ed2b81a8620adaf70d195ffeb711d3b1f83964bb021439eb26913226a1945",
+      "size": 13082624
     },
     "arm64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-0.9.71-beta-arm64.msi",
-      "sha256": "65f109f821934969e419d391ae6e6e4726ad996310c7df283913c73e7f16cb95",
-      "size": 12689408
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.72-beta/LitArbi-0.9.72-beta-arm64.msi",
+      "sha256": "d8d485b327082074d364483c0ba46df8e4d4f1c03c2e80e0dc27343c725ebc8d",
+      "size": 12685312
     }
   },
   "adminKit": {
-    "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.71-beta/LitArbi-AdminKit-0.9.71-beta.zip",
-    "sha256": "241c7952f6c28eb75d2542d9f494af03760b0d9ab985b7f6057acd2ac0621445",
+    "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.72-beta/LitArbi-AdminKit-0.9.72-beta.zip",
+    "sha256": "3c84152fa31008eeb7fe37beb011178c6cb709559bbe0fe826f9e154f600020b",
     "size": 9887
   },
-  "notes": "LitArbi 0.9.71-beta “Paris” (build 80): a safer start, and the fixes of 0.9.71.\n• A window that stays black: where Windows can't draw LitArbi's see-through background, LitArbi now notices and draws a solid one. If a start fails, a message says so and names the log folder. This may not cure every case: if it still happens to you, please report it.\n• LitArbi Safe Start starts LitArbi once without the graphics card and without see-through effects. LitArbi Report a Bug opens the bug report on its own. The installer adds both to the Start menu; after an update from within LitArbi, start LitArbi.exe with --safe-start or --report.\n• Clients & Matters now has Report a Bug and Settings.\n• LitArbi for Word: LitArbi no longer installs the ribbon template afresh where LitArbi for Word replaces it.\n• Brazilian Portuguese joins LitArbi's languages.\n• Cover pages before each exhibit: a Cover Pages step when you build a bundle.\n• A citation link that starts LitArbi opens its matter once Clients & Matters has come up.\n• Awards and decisions are read from their cover page only: the whole title, the normalised case number, the full tribunal and the right date.\n• “Exhibit C-12”, pinpoints, “No. 3”, “4 May 2021” and submissions cited by name no longer break across a line. The first Update Exhibits from Brief rewrites each citation once.\n• Update Exhibits from Brief no longer numbers a submission that is cited by name, and it skips a closed document Word never saved. Untitled documents (“Document1”) are no longer remembered as a matter's submissions.\n• Search and lists: a hit in an attachment or a note lists its exhibit; search reacts to pasted and dictated text; Find & Replace in Titles works over the whole list; Ctrl+A selects every exhibit wherever the focus is.\nWindows 10 (1809) or later, x64 or ARM64."
+  "notes": "LitArbi 0.9.72-beta “Paris” (build 81): a steady preview in shared matters, and a clearer People & Connections.\n• The preview stays still. In a shared matter, the preview went blank and was drawn again whenever the list refreshed, and Quick Look jumped back to page 1, because LitArbi took its own bookkeeping for a change to sync. Now a PDF keeps its page, zoom and position when the list refreshes, and so do text files, Word and Excel previews and an attachment shown in the preview. An edited file still reloads.\n• People & Connections stays readable in large matters. People with one connection sit in a box under the person they are connected to, with one line for the whole box. The map fits the window, names take two lines, and long names no longer force the window wider. Click a card to light up its connections. In a small window, Connect and Remove Connection are no longer cut off.\nWindows 10 (1809) or later, x64 or ARM64."
 }
