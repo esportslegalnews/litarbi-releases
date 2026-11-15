@@ -1,37 +1,37 @@
 {
-  "version": "0.9.73-beta",
-  "build": 83,
+  "version": "0.9.74-beta",
+  "build": 84,
   "name": "Paris",
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.73-beta/LitArbiSetup-0.9.73-beta.exe",
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.74-beta/LitArbiSetup-0.9.74-beta.exe",
   "minimumSystemVersion": "10.0.17763",
   "packages": {
     "x64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.73-beta/LitArbi-0.9.73-beta-win-x64.zip",
-      "sha256": "97bfaf7e6eb028459965a2ed2de481257326406a891ed33a2bb1d49b7b7955b4",
-      "size": 17967634
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.74-beta/LitArbi-0.9.74-beta-win-x64.zip",
+      "sha256": "99ebc598a7476a6d85847a8deeaa3bc143b2a3d53b130b81d8bf948477cc4fb3",
+      "size": 17970910
     },
     "arm64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.73-beta/LitArbi-0.9.73-beta-win-arm64.zip",
-      "sha256": "3df25acf98a2f4c3d9ca64ef429b4c13c454f605fa2b63f20b8e35bf62038c5e",
-      "size": 17440508
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.74-beta/LitArbi-0.9.74-beta-win-arm64.zip",
+      "sha256": "2677c43e82c477e7fc7d28b4eca5a4c8269f371ae853141688f9e5bd2c5ec1e4",
+      "size": 17463984
     }
   },
   "msi": {
     "x64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.73-beta/LitArbi-0.9.73-beta-x64.msi",
-      "sha256": "297cdff9a482895aacf151aee47f3c21bb4a2187e9a1715a1d4aa6a5c3a1fdc4",
-      "size": 13090816
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.74-beta/LitArbi-0.9.74-beta-x64.msi",
+      "sha256": "7d261e256420a13fe33f2a7a658a98d5bb6cce7f54041e651882e815e3ea63d2",
+      "size": 13103104
     },
     "arm64": {
-      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.73-beta/LitArbi-0.9.73-beta-arm64.msi",
-      "sha256": "1f331ce0dafe5cb0138a51030a1ccace446e44e86664b1114d37da4374ec3a03",
-      "size": 12701696
+      "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.74-beta/LitArbi-0.9.74-beta-arm64.msi",
+      "sha256": "df561b0916fe0ab7d7590b7dfb9ed318c2f99fc8041f70a64370681e7e1b3210",
+      "size": 12709888
     }
   },
   "adminKit": {
-    "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.73-beta/LitArbi-AdminKit-0.9.73-beta.zip",
-    "sha256": "7adcbc6702e8eb9909e87ee35dce95cd53e68702660cbaf5e81c9e31771c27b6",
+    "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.74-beta/LitArbi-AdminKit-0.9.74-beta.zip",
+    "sha256": "9a1fe595109d65398fc8db27e7e4080311b12cd8398f61e6a8ff1d90c14f1a79",
     "size": 10208
   },
-  "notes": "LitArbi 0.9.73-beta “Paris” (build 83): shared matters that keep to their own folder, and safer sharing and filing.\n• Shared matters keep to their own folder. LitArbi now checks every file name, folder and setting that arrives from a LitArbi Server or from another member of a shared matter. Nothing from a shared matter is written, read or deleted outside that matter's folder on your PC. Settings that belong to one computer, such as a matter's password or its storage folder, are never taken over from someone else's. Files that arrive through sharing carry Windows' \"downloaded\" mark, so Windows asks before it runs a program and Office opens them in Protected View.\n• Matter archives from others. A shared matter's archive (.litarbi.zip) is unpacked only when it holds no links and no paths that lead outside the matter, and only when your PC has room for it. The copy is always your own: it is no longer linked to the sender's server.\n• Sharing a matter keeps your files private. Share Matter no longer puts the matter's backups, Merge's undo copies, the working time or your firm's SharePoint, Vertec and Justitia records into the archive. Its database goes as a compacted copy, without what you deleted, without the link to your server and without this PC's settings. An archive from an older LitArbi opens without those parts too.\n• Clean Metadata and Prepare for Filing now find tracked changes and comments in footnotes, endnotes, headers and footers too, not only in the text.\n• Deleted matters go to the Recycle Bin. Deleting a matter in Clients & Matters moves it to the Recycle Bin with its files, from where you can restore it. The matter that is open can't be deleted until its window is closed.\n• Two people on one PC (Remote Desktop, Citrix, fast user switching) each run their own LitArbi; a citation link from Word always reaches your own.\n• Word's \"Trust access to the VBA project object model\" is switched on only while LitArbi builds its ribbon add-in, and then set back as it was.\n• Renaming an exhibit in its row (F2) keeps the keys you type: Delete no longer moves the exhibit to the Trash, and letters no longer jump to another row.\n• The chronology keeps your work: when a document is removed for good, rows you wrote or marked stay, with \"Source removed: …\" in their detail.\n• Check for Updates says when it couldn't check. Uninstalling also removes the Word ribbon add-in and offers to free this PC's activation. \"Require Windows Hello\" can only be turned on where Windows Hello is set up, and says so if it can't ask. A failed bug report's e-mail draft holds the log only when you ticked the box. Open Data Folder opens the folder with your matters.\nWindows 10 (1809) or later, x64 or ARM64."
+  "notes": "LitArbi 0.9.74-beta “Paris” (build 84): pinpoints in the matter's language.\n• Citations write their page and paragraph signs as the matter does: \"Beilage 3, S. 4, Rz. 12\" in a Swiss matter, \"Anlage K 1, S. 4, Rn. 12\" in a matter from Germany — the page first, as Swiss and German briefs cite — and \"par.\" and \"p.\" in French, \"párr.\" in Spanish, \"parág.\" in Portuguese. This holds where a template says \"¶\" and \"p.\", when Update Exhibits rewrites a citation, for a submission cited by its name, in cross-references to your own paragraphs and in the index of authorities.\n• Several pages keep the language's own sign: \"pp.\" in English, Spanish and Portuguese; \"S.\" in German and \"p.\" in French.\n• With the exhibit number placed after the description, the number now also comes before a Portuguese or Malay pinpoint.\nWindows 10 (1809) or later, x64 or ARM64."
 }
