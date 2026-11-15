@@ -1,9 +1,9 @@
 {
-  "version": "0.9.72-beta",
-  "build": 177,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.72-beta/LitArbi-0.9.72.zip",
+  "version": "0.9.73-beta",
+  "build": 179,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.73-beta/LitArbi-0.9.73.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.72-beta 177 Paris\n• Shared matters: the PDF preview no longer flickers or jumps back to page 1.\n• People & Connections stays readable in large matters: people grouped under who they are connected to, and the map fits the window.",
+  "notes": "0.9.73-beta 179 Paris\n• Shared matters keep to their own folder: nothing from a server or another member is written or read outside the matter.\n• Matter archives from others are checked before they are unpacked, and the copy is always your own.\n• Share Matter leaves the matter's backups and this Mac's records out of the archive and sends a compacted database.\n• Citations write page and paragraph signs in the matter's language: \"Beilage 3, S. 4\"; Rn. in a matter from Germany.\n• A password-protected matter asks for its password however it is opened, not only at start.\n• A deleted matter goes to the Trash, where the Finder can put it back.\n• People & Connections keeps the person you picked when a shared matter refreshes.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.72-beta/LitArbi-0.9.72.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.73-beta/LitArbi-0.9.73.dmg"
 }
