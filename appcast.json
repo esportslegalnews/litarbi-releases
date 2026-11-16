@@ -1,9 +1,9 @@
 {
-  "version": "0.9.73-beta",
-  "build": 179,
-  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.73-beta/LitArbi-0.9.73.zip",
+  "version": "0.9.74-beta",
+  "build": 180,
+  "url": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.74-beta/LitArbi-0.9.74.zip",
   "minimumSystemVersion": "14.0",
-  "notes": "0.9.73-beta 179 Paris\n• Shared matters keep to their own folder: nothing from a server or another member is written or read outside the matter.\n• Matter archives from others are checked before they are unpacked, and the copy is always your own.\n• Share Matter leaves the matter's backups and this Mac's records out of the archive and sends a compacted database.\n• Citations write page and paragraph signs in the matter's language: \"Beilage 3, S. 4\"; Rn. in a matter from Germany.\n• A password-protected matter asks for its password however it is opened, not only at start.\n• A deleted matter goes to the Trash, where the Finder can put it back.\n• People & Connections keeps the person you picked when a shared matter refreshes.",
+  "notes": "0.9.74-beta 180 Paris\n• Swiss and German citations give the page first: \"Beilage 3, S. 4, Rz. 12\", \"Anlage K 1, S. 4, Rn. 12\".\n• Update Exhibits numbers an earlier filing offered on a BO line like any Beilage, and keeps its label linked.\n• A BO label whose document has no number keeps its link, and LitArbi says which document needs one.\n• In a Swiss matter the Vollmacht is Beilage A, and Update keeps lettered Beilagen.",
   "name": "Paris",
-  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.73-beta/LitArbi-0.9.73.dmg"
+  "dmg": "https://github.com/esportslegalnews/litarbi-releases/releases/download/v0.9.74-beta/LitArbi-0.9.74.dmg"
 }
